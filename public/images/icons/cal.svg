@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Cal</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Dashboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Confirm---Populated" transform="translate(-391.000000, -487.000000)" fill="#1480E6">
+            <g id="Side-UI" transform="translate(381.000000, 473.000000)">
+                <g id="Group-4">
+                    <g id="Icon" transform="translate(0.000000, 4.000000)">
+                        <path d="M13,12 L13,11 C13,10.4477153 13.4477153,10 14,10 C14.5522847,10 15,10.4477153 15,11 L15,12 L21,12 L21,11 C21,10.4477153 21.4477153,10 22,10 C22.5522847,10 23,10.4477153 23,11 L23,12 L24,12 C25.1045695,12 26,12.8954305 26,14 L26,24 C26,25.1045695 25.1045695,26 24,26 L12,26 C10.8954305,26 10,25.1045695 10,24 L10,14 C10,12.8954305 10.8954305,12 12,12 L13,12 Z M13,16 L23,16 C23.5522847,16 24,15.5522847 24,15 C24,14.4477153 23.5522847,14 23,14 L13,14 C12.4477153,14 12,14.4477153 12,15 C12,15.5522847 12.4477153,16 13,16 Z" id="Cal"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

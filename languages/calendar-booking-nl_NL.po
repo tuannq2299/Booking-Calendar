@@ -1,0 +1,2426 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-02-20 14:37-0700\n"
+"PO-Revision-Date: 2021-02-20 14:40-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: admin/404.php:1
+msgid "Content not found."
+msgstr "We hebben Inhoud niet gevonden."
+
+#: admin/connected/header.php:26 public/js/admin/index.js:24203
+#: public/js/admin/index.js:25864 public/js/admin/index.js:30799
+#: public/js/admin/index.js:30918
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: admin/connected/header.php:29 inc/copy.php:47 inc/copy.php:83
+#: inc/widgets/single-service.php:54 public/js/admin/index.js:24224
+#: public/js/admin/index.js:25885 public/js/admin/index.js:27696
+#: public/js/admin/index.js:27700 public/js/admin/index.js:27846
+#: public/js/admin/index.js:27850 public/js/admin/index.js:29121
+#: public/js/admin/index.js:29363 public/js/admin/index.js:30816
+#: public/js/admin/index.js:30939 public/js/blocks/default-appointment.js:2186
+#: public/js/blocks/default-appointment.js:2267
+#: public/js/blocks/single-service.js:2062
+msgid "Services"
+msgstr "Diensten"
+
+#: admin/connected/header.php:32 public/js/admin/index.js:29284
+#: public/js/admin/index.js:29407 public/js/blocks/default-classes.js:5176
+#: public/js/blocks/default-classes.js:5420
+#: public/js/blocks/legacy-class.js:15104
+msgid "Classes"
+msgstr "Klassen"
+
+#: admin/connected/header.php:35 public/js/blocks/default-classes.js:5428
+msgid "Form Editor"
+msgstr "Formulier editor"
+
+#: admin/connected/header.php:38 public/js/admin/index.js:29841
+#: public/js/admin/index.js:30292 public/js/admin/index.js:30833
+#: public/js/admin/index.js:30960
+msgid "Settings"
+msgstr "Instellingen"
+
+#: admin/connected/header.php:42
+#, fuzzy
+msgid "Go to Start Booking"
+msgstr "Ga naar Begin met boeken"
+
+#: inc/admin-connect.php:39
+msgid "Processing"
+msgstr "In behandeling"
+
+#: inc/admin-connect.php:43 inc/admin-connect.php:167
+#, fuzzy
+msgid "Invalid response from startbooking.com."
+msgstr "Ongeldig antwoord van startbooking.com."
+
+#: inc/admin-connect.php:100
+#, fuzzy
+msgid "Invalid API Credentials"
+msgstr "Ongeldige API-referenties"
+
+#: inc/admin-connect.php:101
+msgid "Invalid Password"
+msgstr "Ongeldig wachtwoord"
+
+#: inc/admin-connect.php:108
+#, fuzzy
+msgid "Invalid Authentication."
+msgstr "Ongeldige verificatie."
+
+#: inc/admin-connect.php:127 inc/admin-connect.php:163
+#, fuzzy
+msgid "Connection Established."
+msgstr "Verbinding tot stand gebracht."
+
+#: inc/admin-connect.php:131
+#, fuzzy
+msgid "Invalid credentials. Contact Support at startbooking.com"
+msgstr "Ongeldige referenties. Neem contact op met Support op startbooking.com"
+
+#: inc/base.php:121
+#, fuzzy
+msgid "Get started with online scheduling from"
+msgstr "Aan de slag met online planning van"
+
+#: inc/base.php:122
+#, fuzzy
+msgid ""
+"Great news, your booking page is live! Activate your account to ensure you "
+"don't miss appointments."
+msgstr ""
+"Goed nieuws, uw boekingspagina is live! Activeer uw account om ervoor te "
+"zorgen dat u geen afspraken mist."
+
+#: inc/base.php:124
+msgid "Activate"
+msgstr "Activeren"
+
+#: inc/base.php:125
+#, fuzzy
+msgid "Continue setup"
+msgstr "Doorgaan met instellen"
+
+#: inc/base.php:154 inc/base.php:156 inc/base.php:163
+#, fuzzy
+msgid "Your Start Booking trial expires in "
+msgstr "Uw startboekingsproef verloopt in "
+
+#: inc/base.php:154
+msgid "day"
+msgstr "dag"
+
+#: inc/base.php:156
+msgid "days"
+msgstr "dagen"
+
+#: inc/base.php:161
+#, fuzzy
+msgid "Your Start Booking trial expires in the next hour!"
+msgstr "Uw startboekingsproef verloopt binnen een uur!"
+
+#: inc/base.php:163 inc/base.php:695 public/js/blocks/single-service.js:2267
+#: public/js/flows/default-appointment.js:3677
+#: public/js/flows/default-appointment.js:6068
+#: public/js/flows/default-classes.js:6476
+#: public/js/flows/single-service.js:3644
+#: public/js/flows/single-service.js:6035
+#: resources/assets/js/front-end/utils/time.js:14
+msgid "hours"
+msgstr "uren"
+
+#: inc/base.php:172 inc/base.php:199
+#, fuzzy
+msgid ""
+"To keep your premium online booking features and data, select a plan today."
+msgstr ""
+"Als u uw premium online boekingsfuncties en -gegevens wilt behouden, "
+"selecteert u vandaag nog een abonnement."
+
+#: inc/base.php:174 inc/base.php:201
+msgid "Select a Plan"
+msgstr "Selecteer een plan"
+
+#: inc/base.php:258
+#, fuzzy
+msgid "Booking Page Created."
+msgstr "Boekingspagina gemaakt."
+
+#: inc/base.php:260
+#, fuzzy
+msgid "Unable to create page."
+msgstr "Kan pagina niet maken."
+
+#: inc/base.php:602 public/js/admin/index.js:4280 public/js/admin/index.js:4701
+#: public/js/admin/index.js:6403 public/js/admin/index.js:8772
+#: public/js/admin/index.js:10240 public/js/admin/index.js:11173
+#: public/js/admin/index.js:23996 public/js/admin/index.js:25208
+#: public/js/admin/index.js:28201 public/js/blocks/single-service.js:2112
+#: public/js/flows/default-appointment.js:4871
+#: public/js/flows/default-classes.js:8623
+#: public/js/flows/default-classes.js:10236
+#: public/js/flows/single-service.js:4838
+msgid "Loading"
+msgstr "Laden"
+
+#: inc/base.php:693 public/js/blocks/single-service.js:2265
+#: public/js/flows/default-appointment.js:3675
+#: public/js/flows/default-appointment.js:6066
+#: public/js/flows/default-classes.js:6474
+#: public/js/flows/single-service.js:3642
+#: public/js/flows/single-service.js:6033
+#: resources/assets/js/front-end/utils/time.js:12
+msgid "hour"
+msgstr "uur"
+
+#: inc/base.php:699 public/js/blocks/single-service.js:2273
+#: public/js/flows/default-appointment.js:3683
+#: public/js/flows/default-appointment.js:6074
+#: public/js/flows/default-classes.js:6482
+#: public/js/flows/single-service.js:3650
+#: public/js/flows/single-service.js:6041
+#: resources/assets/js/front-end/utils/time.js:18
+msgid "minute"
+msgstr "minuut"
+
+#: inc/base.php:701 public/js/blocks/single-service.js:2276
+#: public/js/flows/default-appointment.js:3686
+#: public/js/flows/default-appointment.js:6077
+#: public/js/flows/default-classes.js:6485
+#: public/js/flows/single-service.js:3653
+#: public/js/flows/single-service.js:6044
+#: resources/assets/js/front-end/utils/time.js:21
+msgid "minutes"
+msgstr "minuten"
+
+#. Plugin Name of the plugin/theme
+#. Author of the plugin/theme
+#: inc/blocks.php:11 inc/routes.php:7 public/js/admin/index.js:10578
+#: public/js/admin/index.js:10612
+#, fuzzy
+msgid "Start Booking"
+msgstr "Begin met boeken"
+
+#: inc/copy.php:6
+#, fuzzy
+msgid "Select a Date and Time"
+msgstr "Selecteer een datum en tijd"
+
+#: inc/copy.php:7
+#, fuzzy
+msgid "Available Times for"
+msgstr "Beschikbare tijden voor"
+
+#: inc/copy.php:8
+#, fuzzy
+msgid "No appointments available on selected day."
+msgstr "Geen afspraken beschikbaar op de geselecteerde dag."
+
+#: inc/copy.php:9
+#, fuzzy
+msgid "Looking for available appointments."
+msgstr "Op zoek naar beschikbare afspraken."
+
+#: inc/copy.php:11
+#, fuzzy
+msgid "Selected date is in the past."
+msgstr "De geselecteerde datum is verleden tijd."
+
+#: inc/copy.php:12
+#, fuzzy
+msgid "Please select a date and time."
+msgstr "Selecteer een datum en tijd."
+
+#: inc/copy.php:16
+msgid "Your Details"
+msgstr "Uw Gegevens"
+
+#: inc/copy.php:17
+#, fuzzy
+msgid "Secure Profile Loaded from StartBooking.com"
+msgstr "Beveiligd profiel geladen vanaf StartBooking.com"
+
+#: inc/copy.php:18 public/js/admin/index.js:3708 public/js/admin/index.js:28803
+msgid "Email"
+msgstr "E-mail"
+
+#: inc/copy.php:19
+msgid "First Name"
+msgstr "Voornaam"
+
+#: inc/copy.php:20
+msgid "Last Name"
+msgstr "Achternaam"
+
+#: inc/copy.php:21 public/js/admin/index.js:3750
+msgid "Phone Number"
+msgstr "Telefoonnummer"
+
+#: inc/copy.php:22 inc/copy.php:71 public/js/blocks/default-appointment.js:2228
+#: public/js/blocks/default-classes.js:5235
+#: public/js/blocks/single-service.js:1913
+#: public/js/blocks/single-service.js:1949
+msgid "Continue"
+msgstr "Doorgaan"
+
+#: inc/copy.php:25
+#, fuzzy
+msgid "Review & Confirm"
+msgstr "Controleren en bevestigen"
+
+#: inc/copy.php:26 public/js/admin/index.js:24642
+#: public/js/admin/index.js:27042 public/js/admin/index.js:27286
+msgid "Name"
+msgstr "Naam"
+
+#: inc/copy.php:27
+msgid "Date"
+msgstr "Datum"
+
+#: inc/copy.php:28 inc/copy.php:85
+msgid "Time"
+msgstr "Tijd"
+
+#: inc/copy.php:29 inc/copy.php:75 public/js/admin/index.js:24685
+#: public/js/admin/index.js:25238 public/js/admin/index.js:26078
+msgid "Duration"
+msgstr "Duur"
+
+#: inc/copy.php:30
+#, fuzzy
+msgid "Service(s)"
+msgstr "Dienst(en)"
+
+#: inc/copy.php:31
+msgid "Confirm Appointment"
+msgstr "Bevestig Afspraak"
+
+#: inc/copy.php:34
+#, fuzzy
+msgid "Select Services"
+msgstr "Services selecteren"
+
+#: inc/copy.php:35
+#, fuzzy
+msgid "Select Another Service"
+msgstr "Selecteer Een andere service"
+
+#: inc/copy.php:36
+#, fuzzy
+msgid "Select a Service Type"
+msgstr "Selecteer een servicetype"
+
+#: inc/copy.php:37
+#, fuzzy
+msgid "Loading service types..."
+msgstr "Servicetypen laden..."
+
+#: inc/copy.php:39
+#, fuzzy
+msgid "Please select a service to continue."
+msgstr "Selecteer een service om door te gaan."
+
+#: inc/copy.php:43
+msgid "Summary"
+msgstr "Samenvatting"
+
+#: inc/copy.php:44
+msgid "Payment Information"
+msgstr "Betalingsgegevens"
+
+#: inc/copy.php:45 inc/copy.php:60 inc/copy.php:84
+msgid "Appointment"
+msgstr "Afspraak"
+
+#: inc/copy.php:46 public/js/admin/index.js:25234
+#: public/js/admin/index.js:26807 public/js/admin/index.js:27698
+#: public/js/admin/index.js:27848 public/js/blocks/call-to-action.js:2393
+#: public/js/blocks/single-service.js:2067
+#: public/js/blocks/single-service.js:2102
+msgid "Service"
+msgstr "Dienst"
+
+#: inc/copy.php:48
+msgid "Total Amount Due"
+msgstr "Totaal bedrag"
+
+#: inc/copy.php:49
+msgid "Credit Card"
+msgstr "Creditcard"
+
+#: inc/copy.php:50
+#, fuzzy
+msgid "Month / Year"
+msgstr "Maand / Jaar"
+
+#: inc/copy.php:51
+msgid "CVC"
+msgstr "CVC"
+
+#: inc/copy.php:52
+msgid "Postal Code"
+msgstr "Postcode"
+
+#: inc/copy.php:53
+msgid "Pay Now"
+msgstr "Betaal nu"
+
+#: inc/copy.php:54
+#, fuzzy
+msgid "Loading Secure Checkout"
+msgstr "Veilig afrekenen laden"
+
+#: inc/copy.php:57
+msgid "Thank You!"
+msgstr "Bedankt!"
+
+#: inc/copy.php:58
+#, fuzzy
+msgid "We have confirmed your appointment on "
+msgstr "We hebben uw afspraak bevestigd op "
+
+#: inc/copy.php:59
+msgid "Customer"
+msgstr "Klant"
+
+#: inc/copy.php:61
+msgid "Address"
+msgstr "Adres"
+
+#: inc/copy.php:62
+#, fuzzy
+msgid "We look forward to seeing you!"
+msgstr "We kijken ernaar uit u te zien!"
+
+#: inc/copy.php:63
+msgid "Done"
+msgstr "Klaar"
+
+#: inc/copy.php:66
+#, fuzzy
+msgid "Booking Currently Unavailable"
+msgstr "Boeking momenteel niet beschikbaar"
+
+#: inc/copy.php:67
+#, fuzzy
+msgid ""
+"Booking appointments is currently unavailable. Please check again later."
+msgstr ""
+"Het boeken van afspraken is momenteel niet beschikbaar. Controleer het later "
+"nog eens."
+
+#: inc/copy.php:74 public/js/admin/index.js:24766
+#: public/js/admin/index.js:25242 public/js/admin/index.js:26294
+msgid "Price"
+msgstr "Prijs"
+
+#: inc/copy.php:76 public/js/admin/index.js:24703
+#: public/js/admin/index.js:24758 public/js/admin/index.js:26107
+#: public/js/admin/index.js:26170
+msgid "Minutes"
+msgstr "Minuten"
+
+#: inc/copy.php:79
+msgid "services"
+msgstr "diensten"
+
+#: inc/copy.php:86
+msgid "Details"
+msgstr "Details"
+
+#: inc/copy.php:87
+msgid "Booked"
+msgstr "Geboekt"
+
+#: inc/shortcodes.php:119 public/js/blocks/default-classes.js:5199
+#: public/js/flows/default-appointment.js:6899
+#: public/js/flows/default-classes.js:9134
+#: public/js/flows/single-service.js:6593
+msgid "Select"
+msgstr "Selecteer"
+
+#: inc/widgets/address.php:6 inc/widgets/address.php:8
+#, fuzzy
+msgid "Start Booking Location Address"
+msgstr "Adres boekingslocatie starten"
+
+#: inc/widgets/address.php:55 inc/widgets/classes.php:32
+#: inc/widgets/hours.php:50 inc/widgets/services.php:30
+#: inc/widgets/single-service.php:49
+msgid "Title"
+msgstr "Titel"
+
+#: inc/widgets/address.php:60
+msgid "Map Type"
+msgstr "Kaarttype"
+
+#: inc/widgets/address.php:62
+#, fuzzy
+msgid "Road Map"
+msgstr "Wegenkaart"
+
+#: inc/widgets/address.php:63
+msgid "Satellite"
+msgstr "Satelliet"
+
+#: inc/widgets/address.php:68
+msgid "Map Zoom"
+msgstr "Karten-Zoom"
+
+#: inc/widgets/address.php:70
+msgid "No Zoom"
+msgstr "In-/uitzoomen"
+
+#: inc/widgets/address.php:71
+msgid "Level 1"
+msgstr "Niveau 1"
+
+#: inc/widgets/address.php:72
+msgid "Level 2"
+msgstr "Niveau 2"
+
+#: inc/widgets/address.php:73
+msgid "Level 3"
+msgstr "Niveau 3"
+
+#: inc/widgets/address.php:74
+msgid "Level 4"
+msgstr "Niveau 4"
+
+#: inc/widgets/address.php:79
+msgid "Marker Color"
+msgstr "MarkeerKleur"
+
+#: inc/widgets/address.php:81
+msgid "Red"
+msgstr "Rood"
+
+#: inc/widgets/address.php:82
+msgid "Blue"
+msgstr "Blauw"
+
+#: inc/widgets/address.php:83
+msgid "Green"
+msgstr "Groen"
+
+#: inc/widgets/address.php:87
+#, fuzzy
+msgid ""
+"Location address is loaded from your account profile at StartBooking.com."
+msgstr ""
+"Het locatieadres wordt op StartBooking.com geladen vanuit uw accountprofiel."
+
+#: inc/widgets/address.php:87
+msgid "account"
+msgstr "account"
+
+#: inc/widgets/address.php:87
+msgid "Update Address"
+msgstr "Adres bijwerken"
+
+#: inc/widgets/classes.php:6 inc/widgets/classes.php:8
+#, fuzzy
+msgid "Start Booking Classes"
+msgstr "Begin met het boeken van lessen"
+
+#: inc/widgets/classes.php:35
+#, fuzzy
+msgid ""
+"Please use the Start Booking dashboard for class schedules and configuration."
+msgstr ""
+"Gebruik het dashboard Boeking starten voor lesroosters en configuratie."
+
+#: inc/widgets/hours.php:6 inc/widgets/hours.php:8
+#, fuzzy
+msgid "Start Booking Hours"
+msgstr "Boekingsuren starten"
+
+#: inc/widgets/hours.php:37
+msgid "Closed"
+msgstr "Gesloten"
+
+#: inc/widgets/hours.php:54
+#, fuzzy
+msgid "Hide Icon"
+msgstr "Pictogram Verbergen"
+
+#: inc/widgets/hours.php:57
+#, fuzzy
+msgid ""
+"Your hours are loaded from your account availability at Start Booking.com."
+msgstr ""
+"Je uren worden geladen vanuit de beschikbaarheid van je account bij Start "
+"Booking.com."
+
+#: inc/widgets/hours.php:57
+#, fuzzy
+msgid "account/availability"
+msgstr "account/beschikbaarheid"
+
+#: inc/widgets/hours.php:57
+#, fuzzy
+msgid "Manage Availability Hours"
+msgstr "Beschikbaarheidsuren beheren"
+
+#: inc/widgets/services.php:6 inc/widgets/services.php:8
+#, fuzzy
+msgid "Start Booking Services"
+msgstr "Boekingsservices starten"
+
+#: inc/widgets/services.php:33
+#, fuzzy
+msgid "To edit the booking form experience, please use the "
+msgstr "Om de ervaring van het boekingsformulier te bewerken, gebruikt u de "
+
+#: inc/widgets/services.php:33
+#, fuzzy
+msgid "form editor"
+msgstr "Formulier editor"
+
+#: inc/widgets/single-service.php:6 inc/widgets/single-service.php:8
+#, fuzzy
+msgid "Start Booking Single Service"
+msgstr "Start met het boeken van een enkele service"
+
+#: inc/widgets/single-service.php:56
+msgid "Select a Service"
+msgstr "Selecteer een dienst"
+
+#: inc/widgets/single-service.php:68
+msgid "Service Details"
+msgstr "Dienst details"
+
+#: inc/widgets/single-service.php:70
+msgid "Show Details"
+msgstr "Toon details"
+
+#: inc/widgets/single-service.php:71
+#, fuzzy
+msgid "Skip Details"
+msgstr "Details overslaan"
+
+#: public/js/admin/index.js:3516 public/js/flows/default-appointment.js:7617
+#: public/js/flows/default-classes.js:10858
+#: public/js/flows/single-service.js:7311
+msgid "First name is required"
+msgstr "Vul je voornaam in"
+
+#: public/js/admin/index.js:3521 public/js/flows/default-appointment.js:7622
+#: public/js/flows/default-classes.js:10863
+#: public/js/flows/single-service.js:7316
+msgid "Last name is required"
+msgstr "Achternaam is verplicht"
+
+#: public/js/admin/index.js:3526 public/js/flows/default-appointment.js:7612
+#: public/js/flows/default-classes.js:10853
+#: public/js/flows/single-service.js:7306
+msgid "Email is required"
+msgstr "E-mailadres is verplicht"
+
+#: public/js/admin/index.js:3531
+msgid "Password is required"
+msgstr "Wachtwoord is verplicht"
+
+#: public/js/admin/index.js:3536
+#, fuzzy
+msgid "Password must be more then 6 characters"
+msgstr "Wachtwoord moet meer dan 6 tekens bevatten"
+
+#: public/js/admin/index.js:3541
+#, fuzzy
+msgid "Timezone is required"
+msgstr "Tijdzone is vereist"
+
+#: public/js/admin/index.js:3637 public/js/admin/index.js:5782
+msgid "Close"
+msgstr "Sluiten"
+
+#: public/js/admin/index.js:3662
+msgid "First name"
+msgstr "Voornaam"
+
+#: public/js/admin/index.js:3685
+msgid "Last name"
+msgstr "Achternaam"
+
+#: public/js/admin/index.js:3728 public/js/admin/index.js:9425
+#: public/js/admin/index.js:28825
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: public/js/admin/index.js:3769
+#, fuzzy
+msgid "Account Timezone"
+msgstr "Tijdzone van rekening"
+
+#: public/js/admin/index.js:3788 public/js/admin/index.js:4055
+#: public/js/admin/index.js:24027
+msgid "Activate Account"
+msgstr "Activeer account"
+
+#: public/js/admin/index.js:3809
+msgid "Activating"
+msgstr "Activeren"
+
+#: public/js/admin/index.js:3818
+#, fuzzy
+msgid "By activating your account, you agree to the "
+msgstr "Door uw account te activeren, gaat u akkoord met de "
+
+#: public/js/admin/index.js:3821
+msgid "Terms"
+msgstr "Voorwaarden"
+
+#: public/js/admin/index.js:3822 public/js/flows/default-appointment.js:5090
+#: public/js/flows/single-service.js:5057
+#, fuzzy
+msgid "and"
+msgstr "en"
+
+#: public/js/admin/index.js:3825
+msgid "Privacy Policy"
+msgstr "Privacybeleid"
+
+#: public/js/admin/index.js:3842
+#, fuzzy
+msgid "Have Questions?"
+msgstr "Heb je vragen?"
+
+#: public/js/admin/index.js:3850
+#, fuzzy
+msgid ""
+"Get 1 on 1 time with an online booking expert to help you get your account "
+"setup."
+msgstr ""
+"Krijg 1 op 1 keer met een online boekingsexpert om u te helpen uw account in "
+"te stellen."
+
+#: public/js/admin/index.js:3856
+#, fuzzy
+msgid "Schedule Consultation"
+msgstr "Planning Consult"
+
+#: public/js/admin/index.js:4052
+#, fuzzy
+msgid "First, please confirm your account details."
+msgstr "Bevestig eerst uw accountgegevens."
+
+#: public/js/admin/index.js:4053
+#, fuzzy
+msgid "Enter your account details below to activate your account."
+msgstr "Voer hieronder uw accountgegevens in om uw account te activeren."
+
+#: public/js/admin/index.js:4297 public/js/admin/index.js:4333
+#: public/js/admin/index.js:4369 public/js/admin/index.js:4405
+#: public/js/admin/index.js:4441 public/js/admin/index.js:4477
+#: public/js/admin/index.js:4513 public/js/admin/index.js:10652
+#: public/js/admin/index.js:10791 public/js/admin/index.js:28703
+#: public/js/admin/index.js:28717
+#, fuzzy
+msgid "Use setting"
+msgstr "Instelling gebruiken"
+
+#: public/js/admin/index.js:4307
+msgid "Sunday"
+msgstr "Zondag"
+
+#: public/js/admin/index.js:4343
+msgid "Monday"
+msgstr "Maandag"
+
+#: public/js/admin/index.js:4379
+msgid "Tuesday"
+msgstr "Dinsdag"
+
+#: public/js/admin/index.js:4415
+msgid "Wednesday"
+msgstr "Woensdag"
+
+#: public/js/admin/index.js:4451
+msgid "Thursday"
+msgstr "Donderdag"
+
+#: public/js/admin/index.js:4487
+msgid "Friday"
+msgstr "Vrijdag"
+
+#: public/js/admin/index.js:4523
+msgid "Saturday"
+msgstr "Zaterdag"
+
+#: public/js/admin/index.js:4543 public/js/admin/index.js:24929
+#: public/js/admin/index.js:25970 public/js/admin/index.js:27079
+#: public/js/admin/index.js:27323 public/js/admin/index.js:27741
+#: public/js/admin/index.js:27891 public/js/admin/index.js:28775
+#: public/js/admin/index.js:28846
+msgid "Save"
+msgstr "Opslaan"
+
+#: public/js/admin/index.js:4708
+msgid "Booking Page"
+msgstr "Boekingspagina"
+
+#: public/js/admin/index.js:4726
+#, fuzzy
+msgid "Booking Pages"
+msgstr "Boekingspagina's"
+
+#: public/js/admin/index.js:4737
+#, fuzzy
+msgid "Open options"
+msgstr "Opties openen"
+
+#: public/js/admin/index.js:4905
+#, fuzzy
+msgid "Congratulations! You added your first service."
+msgstr "Gefeliciteerd! Je hebt je eerste service toegevoegd."
+
+#: public/js/admin/index.js:4906
+#, fuzzy
+msgid "Continue with setup"
+msgstr "Doorgaan met instellen"
+
+#: public/js/admin/index.js:4916
+#, fuzzy
+msgid "Well done! Onto the next step."
+msgstr "Goed gedaan! Op naar de volgende stap."
+
+#: public/js/admin/index.js:4926
+#, fuzzy
+msgid "Congratulations! Now let's complete your account setup."
+msgstr "Gefeliciteerd! Laten we nu uw accountinstellingen voltooien."
+
+#: public/js/admin/index.js:5207
+#, fuzzy
+msgid "Pick a plan for your online scheduling"
+msgstr "Kies een abonnement voor uw online planning"
+
+#: public/js/admin/index.js:5212 public/js/admin/index.js:5260
+msgid "You are"
+msgstr "Ik ben"
+
+#: public/js/admin/index.js:5213
+#, fuzzy
+msgid "currently on a free trial"
+msgstr "momenteel op een gratis proefperiode"
+
+#: public/js/admin/index.js:5220
+#, fuzzy
+msgid ""
+"With a free trial, you get the benefits of testing multiple users, classes, "
+"custom fields, text messages, etc. It's a lot! To continue using these "
+"features you need to select a plan or your account will be downgraded at the "
+"end of your trial."
+msgstr ""
+"Met een gratis proefperiode krijgt u de voordelen van het testen van "
+"meerdere gebruikers, klassen, aangepaste velden, sms-berichten, enz. Het is "
+"veel! Als u deze functies wilt blijven gebruiken, moet u een abonnement "
+"selecteren, anders wordt uw account aan het einde van uw proefperiode "
+"gedowngraded."
+
+#: public/js/admin/index.js:5231
+#, fuzzy
+msgid "Pick my plan"
+msgstr "Kies mijn plan"
+
+#: public/js/admin/index.js:5235
+msgid "Days Remaining"
+msgstr "Dagen Over"
+
+#: public/js/admin/index.js:5255
+#, fuzzy
+msgid "Your account is limited"
+msgstr "Uw account is beperkt"
+
+#: public/js/admin/index.js:5261
+#, fuzzy
+msgid "currently on the limited plan"
+msgstr "momenteel op het beperkte plan"
+
+#: public/js/admin/index.js:5268
+#, fuzzy
+msgid ""
+"With the limited plan, you are missing out on multiple users, classes, 2-way "
+"Google Calendar, custom fields, advanced reporting just to name a few "
+"features. Upgrade today to get access to premium functionality."
+msgstr ""
+"Met het beperkte abonnement mis je meerdere gebruikers, klassen, 2-weg "
+"Google Agenda, aangepaste velden, geavanceerde rapportage om maar een paar "
+"functies te noemen. Upgrade vandaag nog om toegang te krijgen tot premium "
+"functionaliteit."
+
+#: public/js/admin/index.js:5279
+#, fuzzy
+msgid "Pick a plan"
+msgstr "Kies een plan"
+
+#: public/js/admin/index.js:6032 public/js/admin/index.js:6154
+#, fuzzy
+msgid "Your free trial has started"
+msgstr "Uw gratis proefperiode is gestart"
+
+#: public/js/admin/index.js:6032 public/js/admin/index.js:6093
+#: public/js/admin/index.js:6154
+#, fuzzy
+msgid "days left in trial"
+msgstr "resterende dagen in de rechtszaak"
+
+#: public/js/admin/index.js:6034 public/js/admin/index.js:6095
+#: public/js/admin/index.js:6156
+msgid "You have"
+msgstr "Je hebt"
+
+#: public/js/admin/index.js:6034 public/js/admin/index.js:6095
+#: public/js/admin/index.js:6156
+#, fuzzy
+msgid "days left in your free trial"
+msgstr "resterende dagen in uw gratis proefperiode"
+
+#: public/js/admin/index.js:6036 public/js/admin/index.js:6097
+#: public/js/admin/index.js:6158
+#, fuzzy
+msgid ""
+"Your free trial expires today! Pick a plan to continue using your premium "
+"features."
+msgstr ""
+"Uw gratis proefperiode verloopt vandaag nog! Kies een abonnement om uw "
+"premiumfuncties te blijven gebruiken."
+
+#: public/js/admin/index.js:6047 public/js/admin/index.js:6054
+#: public/js/admin/index.js:6108 public/js/admin/index.js:6115
+#: public/js/admin/index.js:6169 public/js/admin/index.js:6176
+#, fuzzy
+msgid "Select a plan"
+msgstr "Selecteer een plan"
+
+#: public/js/admin/index.js:6093
+#, fuzzy
+msgid "Your free trial has started."
+msgstr "Uw gratis proefperiode is gestart."
+
+#: public/js/admin/index.js:6367
+msgid "Welcome!"
+msgstr "Welkom!"
+
+#: public/js/admin/index.js:6370
+#, fuzzy
+msgid "It's time to Start Booking."
+msgstr "Het is tijd om te beginnen met boeken."
+
+#: public/js/admin/index.js:6375
+#, fuzzy
+msgid "Hold tight while we load your new online booking experience."
+msgstr "Houd je goed vast terwijl we je nieuwe online boekingservaring laden."
+
+#: public/js/admin/index.js:6409
+#, fuzzy
+msgid ""
+"You're account is ready to go! With your premium trial enjoy unlimited "
+"appointments, multiple users, text message reminders and powerful "
+"integrations."
+msgstr ""
+"Je account is klaar om te gaan! Geniet met uw premium proefperiode van "
+"onbeperkte afspraken, meerdere gebruikers, herinneringen aan sms'jes en "
+"krachtige integraties."
+
+#: public/js/admin/index.js:6415
+msgid "Get Started"
+msgstr "Aan de slag"
+
+#: public/js/admin/index.js:6582 public/js/admin/index.js:6600
+#: public/js/admin/index.js:6662
+msgid "Include"
+msgstr "Sluit in"
+
+#: public/js/admin/index.js:6623
+#, fuzzy
+msgid ""
+"If you include a Zoom link, your customers will receive a Zoom link with "
+"their appointment confirmation emails."
+msgstr ""
+"Als u een Zoom-link opneemt, ontvangen uw klanten een Zoom-link met hun e-"
+"mails met afspraakbevestiging."
+
+#: public/js/admin/index.js:6631 public/js/admin/index.js:6638
+#: public/js/admin/index.js:26263
+msgid "Yes"
+msgstr "Ja"
+
+#: public/js/admin/index.js:6634 public/js/admin/index.js:6641
+#: public/js/admin/index.js:26266 public/js/admin/index.js:26273
+msgid "No"
+msgstr "Nee"
+
+#: public/js/admin/index.js:6685
+#, fuzzy
+msgid ""
+"Connecting Zoom will provide you with the ability to include a Zoom link "
+"with your appointments."
+msgstr "Als u Zoom verbindt, u een Zoom-koppeling opnemen bij uw afspraken."
+
+#: public/js/admin/index.js:6697 public/js/admin/index.js:9467
+#: public/js/admin/index.js:9472
+msgid "Connect"
+msgstr "Verbinden"
+
+#: public/js/admin/index.js:6858
+msgid "Not a valid email"
+msgstr "Geen geldig e-mailadres"
+
+#: public/js/admin/index.js:7026
+#, fuzzy
+msgid "Password is too short. Must be at least 6 characters."
+msgstr "Wachtwoord is te kort. Moet ten minste 6 tekens bevatten."
+
+#: public/js/admin/index.js:7029
+#, fuzzy
+msgid "Password is too weak"
+msgstr "Wachtwoord is te zwak"
+
+#: public/js/admin/index.js:7206
+msgid "Country"
+msgstr "Land"
+
+#: public/js/admin/index.js:7790 public/js/admin/index.js:7850
+#: public/js/admin/index.js:7897 public/js/admin/index.js:26477
+#, fuzzy
+msgid ""
+"Rooms are resources that this service requires. For example, if you need to "
+"ensure that a specific room is available in order to perform this service, "
+"attach the room to the service and we will check before displaying your "
+"availability."
+msgstr ""
+"Kamers zijn bronnen die deze service vereist. Als u er bijvoorbeeld voor "
+"moet zorgen dat er een specifieke kamer beschikbaar is om deze service uit "
+"te voeren, bevestigt u de kamer aan de service en controleren we voordat we "
+"uw beschikbaarheid weergeven."
+
+#: public/js/admin/index.js:7813 public/js/admin/index.js:27761
+#: public/js/admin/index.js:27906 public/js/blocks/legacy-class.js:15166
+msgid "Upgrade"
+msgstr "Upgrade"
+
+#: public/js/admin/index.js:7815
+#, fuzzy
+msgid "to add rooms for this service"
+msgstr "om kamers toe te voegen voor deze service"
+
+#: public/js/admin/index.js:7862
+msgid "No Rooms"
+msgstr "Geen Kamer"
+
+#: public/js/admin/index.js:7927 public/js/admin/index.js:8316
+#: public/js/admin/index.js:9080
+#, fuzzy
+msgid "Remove small option"
+msgstr "Kleine optie verwijderen"
+
+#: public/js/admin/index.js:7994
+msgid "Room Name"
+msgstr "Ruimte naam"
+
+#: public/js/admin/index.js:8000 public/js/admin/index.js:24906
+#: public/js/admin/index.js:26608 public/js/admin/index.js:27329
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: public/js/admin/index.js:8290 public/js/admin/index.js:27731
+#: public/js/admin/index.js:27881
+#, fuzzy
+msgid "No Service Types"
+msgstr "Geen servicetypen"
+
+#: public/js/admin/index.js:8607
+msgid "to"
+msgstr "tot"
+
+#: public/js/admin/index.js:9399
+#, fuzzy
+msgid "Connect with Start Booking"
+msgstr "Maak verbinding met Start Booking"
+
+#: public/js/admin/index.js:9408
+msgid "Email address"
+msgstr "E-mailadres"
+
+#: public/js/admin/index.js:9445
+msgid "Forgot your password?"
+msgstr "Wachtwoord vergeten?"
+
+#: public/js/admin/index.js:9488 public/js/admin/index.js:9539
+msgid "Or"
+msgstr "Of"
+
+#: public/js/admin/index.js:9496
+#, fuzzy
+msgid "Access my existing account"
+msgstr "Toegang tot mijn bestaande account"
+
+#: public/js/admin/index.js:9499
+#, fuzzy
+msgid ""
+"If you have already been using Start Booking but you don't know your login, "
+"start here."
+msgstr ""
+"Als u Start Booking al hebt gebruikt, maar u weet niet hoe u bent ingelogd, "
+"start dan hier."
+
+#: public/js/admin/index.js:9518 public/js/admin/index.js:9525
+#, fuzzy
+msgid "Access Account"
+msgstr "Toegangsaccount"
+
+#: public/js/admin/index.js:9563 public/js/admin/index.js:9570
+#, fuzzy
+msgid "Start New Free Trial"
+msgstr "Nieuwe gratis proefversie starten"
+
+#: public/js/admin/index.js:9799 public/js/admin/index.js:9891
+#: public/js/admin/index.js:9932
+#: resources/assets/js/admin/jquery/graph/graph.js:16
+msgid "Today"
+msgstr "Vandaag"
+
+#: public/js/admin/index.js:9805 public/js/admin/index.js:9897
+#: public/js/admin/index.js:9938
+#: resources/assets/js/admin/jquery/graph/graph.js:15
+msgid "Yesterday"
+msgstr "Gisteren"
+
+#: public/js/admin/index.js:9978
+#, fuzzy
+msgid "No Bookings Yet."
+msgstr "Nog geen boekingen."
+
+#: public/js/admin/index.js:10257
+#, fuzzy
+msgid "Welcome! Let's get started."
+msgstr "Welkom! Laten we beginnen."
+
+#: public/js/admin/index.js:10261
+#, fuzzy
+msgid "You're off to a great start!"
+msgstr "Je bent goed begonnen."
+
+#: public/js/admin/index.js:10389 public/js/flows/default-appointment.js:9689
+msgid "Add Services"
+msgstr "Voeg diensten toe"
+
+#: public/js/admin/index.js:10408
+#, fuzzy
+msgid "Adjust Availability"
+msgstr "Beschikbaarheid aanpassen"
+
+#: public/js/admin/index.js:10427
+#, fuzzy
+msgid "Connect Calendar"
+msgstr "Agenda verbinden"
+
+#: public/js/admin/index.js:10446
+#, fuzzy
+msgid "Review Booking Page"
+msgstr "Boekingspagina bekijken"
+
+#: public/js/admin/index.js:10456
+#, fuzzy
+msgid "You've created a service. Good Job!"
+msgstr "Je hebt een service gemaakt. Goed gedaan!"
+
+#: public/js/admin/index.js:10459
+#, fuzzy
+msgid "Add more services or move onto adjusting your availability."
+msgstr ""
+"Voeg meer services toe of ga verder met het aanpassen van uw beschikbaarheid."
+
+#: public/js/admin/index.js:10475
+#, fuzzy
+msgid "Create another service"
+msgstr "Een andere service maken"
+
+#: public/js/admin/index.js:10479
+#, fuzzy
+msgid "Want to try out classes or group events instead of appointments?"
+msgstr ""
+"Wil je lessen of groepsevenementen uitproberen in plaats van afspraken?"
+
+#: public/js/admin/index.js:10486
+#, fuzzy
+msgid "Log into Start Booking"
+msgstr "Inloggen op Boeking starten"
+
+#: public/js/admin/index.js:10488
+#, fuzzy
+msgid "to get started creating classes."
+msgstr "om aan de slag te gaan met het maken van klassen."
+
+#: public/js/admin/index.js:10505
+#, fuzzy
+msgid "Learn more about services"
+msgstr "Meer informatie over services"
+
+#: public/js/admin/index.js:10511
+#, fuzzy
+msgid "Create your services"
+msgstr "Maak uw services"
+
+#: public/js/admin/index.js:10514
+#, fuzzy
+msgid "Create the services that you want your customers to book."
+msgstr "Maak de services die u wilt dat uw klanten boeken."
+
+#: public/js/admin/index.js:10530 public/js/admin/index.js:24598
+#, fuzzy
+msgid "Create Service"
+msgstr "Service maken"
+
+#: public/js/admin/index.js:10534
+#, fuzzy
+msgid "Do you offer classes or group events? Consider "
+msgstr "Biedt u lessen of groepsevenementen aan? Overwegen "
+
+#: public/js/admin/index.js:10541
+#, fuzzy
+msgid "creating a class instead"
+msgstr "in plaats daarvan een klasse maken"
+
+#: public/js/admin/index.js:10560
+#, fuzzy
+msgid "Learn more about creating services"
+msgstr "Meer informatie over het maken van services"
+
+#: public/js/admin/index.js:10568
+#, fuzzy
+msgid "You've adjusted your availability. Good job!"
+msgstr "Je hebt je beschikbaarheid aangepast. Goed gedaan!"
+
+#: public/js/admin/index.js:10571
+#, fuzzy
+msgid "Still looking for more control of your availability? Head over to "
+msgstr ""
+"Nog steeds op zoek naar meer controle over uw beschikbaarheid? Ga naar "
+
+#: public/js/admin/index.js:10580
+#, fuzzy
+msgid "to review all options for your account."
+msgstr "om alle opties voor uw account te bekijken."
+
+#: public/js/admin/index.js:10596 public/js/admin/index.js:10631
+#, fuzzy
+msgid "Learn more about availability"
+msgstr "Meer informatie over beschikbaarheid"
+
+#: public/js/admin/index.js:10602
+#, fuzzy
+msgid "Adjust your availability"
+msgstr "Pas uw beschikbaarheid aan"
+
+#: public/js/admin/index.js:10605
+#, fuzzy
+msgid ""
+"Set your availability so we know when to display times to your customers. "
+"For more control over your availability, visit "
+msgstr ""
+"Stel uw beschikbaarheid zo in dat we weten wanneer we tijden aan uw klanten "
+"moeten weergeven. Ga voor meer controle over uw beschikbaarheid naar "
+
+#: public/js/admin/index.js:10640
+#, fuzzy
+msgid "Connect calendar skipped"
+msgstr "Agenda verbinden overgeslagen"
+
+#: public/js/admin/index.js:10677
+#, fuzzy
+msgid "Marked as complete"
+msgstr "Gemarkeerd als voltooid"
+
+#: public/js/admin/index.js:10680 public/js/admin/index.js:10819
+#, fuzzy
+msgid "I don't use Google Calendar"
+msgstr "Ik gebruik Google Agenda niet"
+
+#: public/js/admin/index.js:10701 public/js/admin/index.js:10749
+#: public/js/admin/index.js:10840
+#, fuzzy
+msgid "Learn more about Google Calendar"
+msgstr "Meer informatie over Google Agenda"
+
+#: public/js/admin/index.js:10707
+#, fuzzy
+msgid "Calendar Connected"
+msgstr "Agenda verbonden"
+
+#: public/js/admin/index.js:10710
+#, fuzzy
+msgid ""
+"Good work connecting your calendar. To learn more about how the Google "
+"Calendar integration works see our"
+msgstr "Goed werk om je agenda met elkaar te verbinden. Zie onze"
+
+#: public/js/admin/index.js:10713
+#, fuzzy
+msgid "integration overview"
+msgstr "integratie overzicht"
+
+#: public/js/admin/index.js:10721
+#, fuzzy
+msgid "View Integrations"
+msgstr "Integraties weergeven"
+
+#: public/js/admin/index.js:10756
+#, fuzzy
+msgid "Connect your calendar"
+msgstr "Verbind uw agenda"
+
+#: public/js/admin/index.js:10759
+#, fuzzy
+msgid "Connect your calendar with Google Calendar."
+msgstr "Verbind je agenda met Google Agenda."
+
+#: public/js/admin/index.js:10768
+#, fuzzy
+msgid "Connect Google Calendar"
+msgstr "Google Agenda verbinden"
+
+#: public/js/admin/index.js:10816
+msgid "Mark complete"
+msgstr "Markeer als geïmporteerd"
+
+#: public/js/admin/index.js:10847
+#, fuzzy
+msgid "Take a look at your booking page. It looks good!"
+msgstr "Neem een kijkje op uw boekingspagina. Het ziet er goed uit!"
+
+#: public/js/admin/index.js:10850
+#, fuzzy
+msgid ""
+"We already created a booking page for you. Review what your customers will "
+"see when booking with you."
+msgstr ""
+"We hebben al een boekingspagina voor je gemaakt. Bekijk wat uw klanten "
+"zullen zien wanneer u bij u boekt."
+
+#: public/js/admin/index.js:10997
+#, fuzzy
+msgid "No Activity Yet."
+msgstr "Nog geen activiteit."
+
+#: public/js/admin/index.js:11004 public/js/admin/index.js:11133
+#: public/js/admin/index.js:11193
+msgid "Recent Activity"
+msgstr "Recente Activiteit"
+
+#: public/js/admin/index.js:11034 public/js/admin/index.js:11084
+#: public/js/admin/index.js:11109
+#, fuzzy
+msgid "Consultation"
+msgstr "Raadpleging"
+
+#: public/js/admin/index.js:11059
+#, fuzzy
+msgid "Inteview"
+msgstr "Inteview"
+
+#: public/js/admin/index.js:24024
+#, fuzzy
+msgid "Almost there! Confirm your account details."
+msgstr "Bijna daar! Bevestig uw accountgegevens."
+
+#: public/js/admin/index.js:24025
+#, fuzzy
+msgid "Enter your account details to activate and save your settings."
+msgstr ""
+"Voer uw accountgegevens in om uw instellingen te activeren en op te slaan."
+
+#: public/js/admin/index.js:24242 public/js/admin/index.js:26803
+msgid "Sort"
+msgstr "Sorteer"
+
+#: public/js/admin/index.js:24249
+msgid "Create"
+msgstr "Aanmaken"
+
+#: public/js/admin/index.js:24257
+#, fuzzy
+msgid "Back to Service List"
+msgstr "Terug naar servicelijst"
+
+#: public/js/admin/index.js:24492
+msgid "Name is required"
+msgstr "Naam is verplicht"
+
+#: public/js/admin/index.js:24497
+msgid "Description is required"
+msgstr "Omschrijving is verplicht"
+
+#: public/js/admin/index.js:24502
+#, fuzzy
+msgid "Duration is required"
+msgstr "Duur is vereist"
+
+#: public/js/admin/index.js:24507
+#, fuzzy
+msgid "Please select the users that can fulfill this service"
+msgstr "Selecteer de gebruikers die deze service kunnen uitvoeren"
+
+#: public/js/admin/index.js:24608
+msgid "Close panel"
+msgstr "Paneel sluiten"
+
+#: public/js/admin/index.js:24629
+#, fuzzy
+msgid "Get started by filling in the information below."
+msgstr "Ga aan de slag door onderstaande gegevens in te vullen."
+
+#: public/js/admin/index.js:24665 public/js/admin/index.js:26038
+#: public/js/admin/index.js:27063 public/js/admin/index.js:27307
+msgid "Description"
+msgstr "Omschrijving"
+
+#: public/js/admin/index.js:24715
+#, fuzzy
+msgid "Recovery"
+msgstr "Herstel"
+
+#: public/js/admin/index.js:24738 public/js/admin/index.js:26139
+#, fuzzy
+msgid ""
+"Recovery time extends the length of the appointment for you, not the "
+"customer. This enables you to recover from the previous appointment. You "
+"will not be available during the recovery time added."
+msgstr ""
+"De hersteltijd verlengt de duur van de afspraak voor u, niet voor de klant. "
+"Zo u herstellen van de vorige afspraak. U bent niet beschikbaar tijdens de "
+"toegevoegde hersteltijd."
+
+#: public/js/admin/index.js:24811 public/js/admin/index.js:26402
+msgid "Assigned Users"
+msgstr "Toegewezen gebruikers"
+
+#: public/js/admin/index.js:24834 public/js/admin/index.js:26405
+#, fuzzy
+msgid "Select users that can perform this service."
+msgstr "Selecteer gebruikers die deze service kunnen uitvoeren."
+
+#: public/js/admin/index.js:24850 public/js/admin/index.js:27590
+#, fuzzy
+msgid "Service Types"
+msgstr "Servicetypen"
+
+#: public/js/admin/index.js:24873 public/js/admin/index.js:27615
+#, fuzzy
+msgid "Assign service types to help categorize your services."
+msgstr "Wijs servicetypen toe om uw services te categoriseren."
+
+#: public/js/admin/index.js:24889 public/js/admin/index.js:26451
+msgid "Rooms"
+msgstr "Kamers"
+
+#: public/js/admin/index.js:24927
+msgid "Saving"
+msgstr "Opslaan"
+
+#: public/js/admin/index.js:25161 public/js/admin/index.js:29233
+#, fuzzy
+msgid "No Services"
+msgstr "Diensten"
+
+#: public/js/admin/index.js:25246 public/js/admin/index.js:26179
+msgid "Status"
+msgstr "Status"
+
+#: public/js/admin/index.js:25348 public/js/admin/index.js:25367
+#: public/js/admin/index.js:26028 public/js/admin/index.js:26602
+#: public/js/admin/index.js:27718 public/js/admin/index.js:27868
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: public/js/admin/index.js:25743
+msgid "Name cannot be empty."
+msgstr "Naam kan niet leeg zijn."
+
+#: public/js/admin/index.js:25753
+#, fuzzy
+msgid "Duration cannot be empty."
+msgstr "De duur mag niet leeg zijn."
+
+#: public/js/admin/index.js:25936 public/js/admin/index.js:27712
+#: public/js/admin/index.js:27862
+msgid "Edit"
+msgstr "Bewerken"
+
+#: public/js/admin/index.js:26019
+#, fuzzy
+msgid ""
+"Booking online is disabled. You can enable online scheduling in the settings "
+"below."
+msgstr ""
+"Online boeken is uitgeschakeld. U online plannen inschakelen in de "
+"onderstaande instellingen."
+
+#: public/js/admin/index.js:26116
+#, fuzzy
+msgid "Recovery Time"
+msgstr "Hersteltijd"
+
+#: public/js/admin/index.js:26225
+#, fuzzy
+msgid "Schedule Online"
+msgstr "Online plannen"
+
+#: public/js/admin/index.js:26248
+#, fuzzy
+msgid ""
+"If schedule online is disabled, this service will not be publicly displayed "
+"to your customers."
+msgstr ""
+"Als online plannen is uitgeschakeld, wordt deze service niet openbaar "
+"weergegeven aan uw klanten."
+
+#: public/js/admin/index.js:26432
+#, fuzzy
+msgid ""
+"This service is not bookable without at least one user who can perform the "
+"service."
+msgstr ""
+"Deze service kan niet worden geboekt zonder ten minste één gebruiker die de "
+"service kan uitvoeren."
+
+#: public/js/admin/index.js:26489
+#, fuzzy
+msgid "Select the rooms for this service."
+msgstr "Selecteer de kamers voor deze service."
+
+#: public/js/admin/index.js:26586
+msgid "Confirm Delete"
+msgstr "Bevestig verwijderen"
+
+#: public/js/admin/index.js:26591
+#, fuzzy
+msgid ""
+"Are you sure you want to deactivate your account? All of your data will be "
+"permanently removed from our servers forever. This action cannot be undone."
+msgstr ""
+"Weet u zeker dat u uw account wilt deactiveren? Al uw gegevens worden voor "
+"altijd permanent van onze servers verwijderd. Deze actie kan niet ongedaan "
+"worden gemaakt."
+
+#: public/js/admin/index.js:27035
+msgid "Add New"
+msgstr "Nieuwe toevoegen"
+
+#: public/js/admin/index.js:27278
+msgid "Edit Type"
+msgstr "Bewerk type"
+
+#: public/js/admin/index.js:27631 public/js/admin/index.js:27781
+#, fuzzy
+msgid "Assign Service Types"
+msgstr "Servicetypen toewijzen"
+
+#: public/js/admin/index.js:27634 public/js/admin/index.js:27784
+#, fuzzy
+msgid "Assign service types to help categorize the service."
+msgstr "Wijs servicetypen toe om de service te categoriseren."
+
+#: public/js/admin/index.js:27763 public/js/admin/index.js:27908
+#, fuzzy
+msgid "to categorize your services by service types."
+msgstr "om uw services te categoriseren op servicetypen."
+
+#: public/js/admin/index.js:28035 public/js/admin/index.js:29638
+#: public/js/admin/index.js:29711
+msgid "Availability"
+msgstr "Beschikbaarheid"
+
+#: public/js/admin/index.js:28038
+#, fuzzy
+msgid ""
+"You can manage your basic availability below. For more controls visit the "
+"Start Booking application."
+msgstr ""
+"U hieronder uw basisbeschikbaarheid beheren. Ga voor meer "
+"besturingselementen naar de toepassing Boeking starten."
+
+#: public/js/admin/index.js:28046
+#, fuzzy
+msgid "All Availability Options"
+msgstr "Alle beschikbaarheidsopties"
+
+#: public/js/admin/index.js:28053
+#, fuzzy
+msgid "Basic Availability"
+msgstr "Basisbeschikbaarheid"
+
+#: public/js/admin/index.js:28227 public/js/admin/index.js:29641
+#: public/js/admin/index.js:29735
+msgid "Billing"
+msgstr "Facturatie"
+
+#: public/js/admin/index.js:28231
+msgid "Product"
+msgstr "Product"
+
+#: public/js/admin/index.js:28242 public/js/admin/index.js:30330
+#: public/js/admin/index.js:30353 public/js/admin/index.js:30376
+#: public/js/admin/index.js:30399 public/js/admin/index.js:30422
+msgid "Manage"
+msgstr "Beheren"
+
+#: public/js/admin/index.js:28362 public/js/admin/index.js:29644
+#: public/js/admin/index.js:29757
+#, fuzzy
+msgid "Communications"
+msgstr "Communicatie"
+
+#: public/js/admin/index.js:28365
+#, fuzzy
+msgid ""
+"Managing and adjusting your customer communications, such as emails and text "
+"messages, is handled directly on the Start Booking application."
+msgstr ""
+"Het beheren en aanpassen van uw klantcommunicatie, zoals e-mails en sms-"
+"berichten, wordt rechtstreeks afgehandeld op de Start Booking-applicatie."
+
+#: public/js/admin/index.js:28374
+#, fuzzy
+msgid "Manage Communications"
+msgstr "Communicatie beheren"
+
+#: public/js/admin/index.js:28471 public/js/admin/index.js:28509
+#: public/js/admin/index.js:28531 public/js/admin/index.js:28584
+msgid "Proxy"
+msgstr "Proxy"
+
+#: public/js/admin/index.js:28516 public/js/admin/index.js:28538
+#: public/js/admin/index.js:28591
+msgid "Direct"
+msgstr "Direct"
+
+#: public/js/admin/index.js:28685
+msgid "Connections"
+msgstr "Connecties"
+
+#: public/js/admin/index.js:28727
+#, fuzzy
+msgid "Disable Online Booking"
+msgstr "Online boeken uitschakelen"
+
+#: public/js/admin/index.js:28729
+msgid "Disabled"
+msgstr "Uitgeschakeld"
+
+#: public/js/admin/index.js:28733
+#, fuzzy
+msgid ""
+"Disabling will keep your connection with Start Booking but will online "
+"booking forms."
+msgstr ""
+"Uitschakelen houdt uw verbinding met Start Booking, maar zal online "
+"boekingsformulieren."
+
+#: public/js/admin/index.js:28749
+#, fuzzy
+msgid "API Setting"
+msgstr "API-instelling"
+
+#: public/js/admin/index.js:28752
+#, fuzzy
+msgid ""
+"If you are experiencing problems with your server cache causing duplicate "
+"appointments or settings not saving, try updating to the Direct method. "
+"Direct allows your plugin to communicate directly with the Start Booking "
+"service. Proxy, which is the default setting, runs all communication with "
+"Start Booking through your WordPress site. When communication is handled via "
+"the proxy option, those communications can be delayed due to your server "
+"configuration."
+msgstr ""
+"Als u problemen ondervindt met uw servercache waardoor dubbele afspraken of "
+"instellingen niet worden opgeslagen, probeert u deze bij te werken naar de "
+"methode Direct. Direct stelt uw plug-in in staat om rechtstreeks te "
+"communiceren met de Start Booking-service. Proxy, de standaardinstelling, "
+"voert alle communicatie met Start Booking uit via uw WordPress-site. Wanneer "
+"communicatie wordt afgehandeld via de proxyoptie, kunnen deze communicatie "
+"worden vertraagd vanwege uw serverconfiguratie."
+
+#: public/js/admin/index.js:28793
+#, fuzzy
+msgid ""
+"If you are having some issues with your connection, reconnect to establish a "
+"new connection. This process will not delete any of your other settings."
+msgstr ""
+"Als u problemen ondervindt met uw verbinding, maakt u opnieuw verbinding om "
+"een nieuwe verbinding tot stand te brengen. Dit proces verwijdert geen van "
+"uw andere instellingen."
+
+#: public/js/admin/index.js:28863 public/js/admin/index.js:28873
+msgid "Disconnect"
+msgstr "Verbinding verbreken"
+
+#: public/js/admin/index.js:28866
+#, fuzzy
+msgid ""
+"Disconnecting Start Booking will delete all settings from your WordPress "
+"website. This does not cancel your account or delete anything on the Start "
+"Booking application."
+msgstr ""
+"Als u de verbinding met Start Booking verbreekt, worden alle instellingen "
+"van uw WordPress-website verwijderd. Dit annuleert uw account niet en "
+"verwijdert niets in de Start Booking-applicatie."
+
+#: public/js/admin/index.js:28970 public/js/admin/index.js:29223
+#: public/js/blocks/call-to-action.js:2294
+msgid "Select Service"
+msgstr "Selecteer Dienst"
+
+#: public/js/admin/index.js:28975 public/js/admin/index.js:28979
+msgid "True"
+msgstr "Waar"
+
+#: public/js/admin/index.js:28982
+msgid "False"
+msgstr "Niet waar"
+
+#: public/js/admin/index.js:29093 public/js/admin/index.js:29635
+#: public/js/admin/index.js:29689
+msgid "Embed Options"
+msgstr "Embed Opties"
+
+#: public/js/admin/index.js:29096
+#, fuzzy
+msgid ""
+"Embedding the Start Booking form on a page or post is really simple. You "
+"have the option to use either the Start Booking blocks or shortcodes in the "
+"WordPress editor."
+msgstr ""
+"Het insluiten van het startboekingsformulier op een pagina of bericht is "
+"heel eenvoudig. Je hebt de mogelijkheid om de startboekingsblokken of "
+"shortcodes in de WordPress-editor te gebruiken."
+
+#: public/js/admin/index.js:29111
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: public/js/admin/index.js:29114
+#, fuzzy
+msgid ""
+"To use the Start Booking shortcodes, navigate to any page or post (create or "
+"edit screen) and copy and paste one of the below shortcodes where you want "
+"your booking form to display."
+msgstr ""
+"Als u de shortcodes voor boeking starten wilt gebruiken, navigeert u naar "
+"een pagina of bericht (scherm maken of bewerken) en kopieert en plakt u een "
+"van de onderstaande shortcodes waar u uw boekingsformulier wilt weergeven."
+
+#: public/js/admin/index.js:29124 public/js/admin/index.js:29366
+#, fuzzy
+msgid "Displays a full list of your services"
+msgstr "Geeft een volledige lijst van uw services weer"
+
+#: public/js/admin/index.js:29159 public/js/admin/index.js:29385
+#: public/js/blocks/single-service.js:1871
+msgid "Single Service"
+msgstr "Enkele Dienst"
+
+#: public/js/admin/index.js:29162 public/js/admin/index.js:29388
+#, fuzzy
+msgid "Displays a preconfigured single service"
+msgstr "Geeft een vooraf geconfigureerde enkele service weer"
+
+#: public/js/admin/index.js:29197
+#, fuzzy
+msgid "Service: The ID of your service you want to display."
+msgstr "Service: de ID van uw service die u wilt weergeven."
+
+#: public/js/admin/index.js:29200
+#, fuzzy
+msgid ""
+"Details: When set to true, the service box will be displayed. When set to "
+"false, the service box will be skipped and will go to the next step in the "
+"booking process."
+msgstr ""
+"Details: Wanneer deze zijn ingesteld op true, wordt het servicevak "
+"weergegeven. Wanneer deze is ingesteld op false, wordt het servicevak "
+"overgeslagen en gaat het naar de volgende stap in het boekingsproces."
+
+#: public/js/admin/index.js:29215
+#, fuzzy
+msgid "Single Service Shortcode Generator"
+msgstr "Single Service Shortcode Generator"
+
+#: public/js/admin/index.js:29218
+#, fuzzy
+msgid ""
+"Select your service and options below to generate a preconfigured shortcode."
+msgstr ""
+"Selecteer hieronder uw service en opties om een vooraf geconfigureerde "
+"shortcode te genereren."
+
+#: public/js/admin/index.js:29237
+#, fuzzy
+msgid "Display Service Details"
+msgstr "Servicegegevens weergeven"
+
+#: public/js/admin/index.js:29287
+#, fuzzy
+msgid "Displays a calendar and list of your available classes"
+msgstr "Geeft een agenda en lijst met beschikbare klassen weer"
+
+#: public/js/admin/index.js:29332
+msgid "Blocks"
+msgstr "Blokken"
+
+#: public/js/admin/index.js:29335
+#, fuzzy
+msgid ""
+"To use the Start Booking Gutenberg blocks, navigate to any page or post "
+"(create or edit screen) and select one of the blocks listed below."
+msgstr ""
+"Als u de blokken Start Booking Gutenberg wilt gebruiken, navigeert u naar "
+"een pagina of bericht (scherm maken of bewerken) en selecteert u een van de "
+"onderstaande blokken."
+
+#: public/js/admin/index.js:29410
+#, fuzzy
+msgid "Displays a full list of your classes"
+msgstr "Geeft een volledige lijst van je lessen weer"
+
+#: public/js/admin/index.js:29429
+msgid "Call to action button"
+msgstr "“Call to Action”-knop tekst"
+
+#: public/js/admin/index.js:29432
+#, fuzzy
+msgid "Displays a preconfigured booking button"
+msgstr "Geeft een vooraf geconfigureerde boekingsknop weer"
+
+#: public/js/admin/index.js:29647 public/js/admin/index.js:29777
+#: public/js/admin/index.js:29980
+msgid "Integrations"
+msgstr "Integraties"
+
+#: public/js/admin/index.js:29650 public/js/admin/index.js:29799
+#: public/js/admin/index.js:30161
+msgid "Reporting"
+msgstr "Rapportage"
+
+#: public/js/admin/index.js:29653 public/js/admin/index.js:29819
+#: public/js/admin/index.js:30541
+msgid "Users"
+msgstr "Gebruikers"
+
+#: public/js/admin/index.js:29656 public/js/admin/index.js:29863
+msgid "Connection"
+msgstr "Verbinding"
+
+#: public/js/admin/index.js:29983
+#, fuzzy
+msgid "Managing your"
+msgstr "Het beheren van uw"
+
+#: public/js/admin/index.js:29987
+#, fuzzy
+msgid "integrations"
+msgstr "Integraties"
+
+#: public/js/admin/index.js:29988
+#, fuzzy
+msgid "is handled directly on the"
+msgstr "wordt direct op de"
+
+#: public/js/admin/index.js:29988
+#, fuzzy
+msgid "application"
+msgstr "Toepassing"
+
+#: public/js/admin/index.js:29997
+msgid "Manage Integrations"
+msgstr "Beheer Integraties"
+
+#: public/js/admin/index.js:30042
+#, fuzzy
+msgid "More coming soon"
+msgstr "Binnenkort meer"
+
+#: public/js/admin/index.js:30164
+#, fuzzy
+msgid ""
+"Viewing and downloading reports is handled directly on the Start Booking "
+"application."
+msgstr ""
+"Het bekijken en downloaden van rapporten wordt rechtstreeks afgehandeld op "
+"de Start Booking-applicatie."
+
+#: public/js/admin/index.js:30173
+msgid "View Reports"
+msgstr "Rapporten weergeven"
+
+#: public/js/admin/index.js:30295
+#, fuzzy
+msgid "Review the available settings for your account and booking forms."
+msgstr ""
+"Bekijk de beschikbare instellingen voor uw account en boekingsformulieren."
+
+#: public/js/admin/index.js:30317
+#, fuzzy
+msgid "Openings Interval"
+msgstr "Openingsinterval"
+
+#: public/js/admin/index.js:30321
+#, fuzzy
+msgid ""
+"Set the interval of time for available openings. Default is every 30 minutes."
+msgstr ""
+"Stel het tijdsinterval in voor beschikbare openingen. Standaard is elke 30 "
+"minuten."
+
+#: public/js/admin/index.js:30340
+#, fuzzy
+msgid "Time Display"
+msgstr "Tijdweergave"
+
+#: public/js/admin/index.js:30344
+#, fuzzy
+msgid "Control whether you display time in 12 or 24 hours."
+msgstr "Bepaal of u de tijd in 12 of 24 uur weergeeft."
+
+#: public/js/admin/index.js:30363
+msgid "Locale"
+msgstr "Locale"
+
+#: public/js/admin/index.js:30367
+#, fuzzy
+msgid "Set the locale of your account to adjust the date and time formats."
+msgstr ""
+"Stel de landinstelling van uw account in om de datum- en tijdnotaties aan te "
+"passen."
+
+#: public/js/admin/index.js:30386
+msgid "Currency"
+msgstr "Valuta"
+
+#: public/js/admin/index.js:30390
+#, fuzzy
+msgid "Change the currency that is used with payments through Start Booking."
+msgstr ""
+"Wijzig de valuta die wordt gebruikt bij betalingen via Boeking starten."
+
+#: public/js/admin/index.js:30409
+msgid "Cancellations"
+msgstr "Annuleringen"
+
+#: public/js/admin/index.js:30413
+#, fuzzy
+msgid "Adjust how your cancellations work."
+msgstr "Pas aan hoe uw annuleringen werken."
+
+#: public/js/admin/index.js:30544
+#, fuzzy
+msgid ""
+"Adding and managing your users is handled directly on the Start Booking "
+"application."
+msgstr ""
+"Het toevoegen en beheren van uw gebruikers wordt rechtstreeks afgehandeld op "
+"de Start Booking-applicatie."
+
+#: public/js/admin/index.js:30553
+msgid "Manage Users"
+msgstr "Gebruikers beheren"
+
+#: public/js/admin/index.js:30848 public/js/admin/index.js:30968
+msgid "Go to"
+msgstr "Ga naar"
+
+#: public/js/admin/index.js:30863
+#, fuzzy
+msgid "Open main menu"
+msgstr "Hoofdmenu openen"
+
+#: public/js/admin/index.js:31031 public/js/admin/index.js:31621
+#: public/js/admin/index.js:31633 public/js/admin/index.js:31645
+#: public/js/admin/index.js:31665 public/js/admin/index.js:31685
+#: public/js/admin/index.js:31815 public/js/blocks/call-to-action.js:2074
+#: public/js/blocks/default-appointment.js:2074
+#: public/js/blocks/default-classes.js:5056
+#: public/js/flows/default-appointment.js:2350
+#: public/js/flows/default-classes.js:5301
+#: public/js/flows/single-service.js:2350
+#: resources/assets/js/admin/reducers/account/accountOptionsReducer.js:27
+#: resources/assets/js/admin/reducers/customFieldsReducer.js:22
+#: resources/assets/js/admin/reducers/customFieldsReducer.js:38
+#: resources/assets/js/admin/reducers/customFieldsReducer.js:53
+#: resources/assets/js/admin/reducers/customFieldsReducer.js:77
+#: resources/assets/js/admin/reducers/customFieldsReducer.js:101
+#: resources/assets/js/admin/reducers/editorReducer.js:45
+msgid "Saved"
+msgstr "Opgeslagen"
+
+#: public/js/admin/index.js:31512 public/js/admin/index.js:31520
+msgid "Success"
+msgstr "Succes"
+
+#: public/js/admin/index.js:31527
+#, fuzzy
+msgid "Status updated"
+msgstr "Status bijgewerkt"
+
+#: public/js/admin/index.js:31547
+#, fuzzy
+msgid "Cancelled schedule"
+msgstr "Geannuleerd schema"
+
+#: public/js/admin/index.js:31566
+#, fuzzy
+msgid "Deleted schedule"
+msgstr "Verwijderd schema"
+
+#: public/js/blocks/call-to-action.js:2184
+msgid "Call to Action Button"
+msgstr "Knop Oproep tot actie"
+
+#: public/js/blocks/call-to-action.js:2185
+#, fuzzy
+msgid ""
+"Add a button on any page to enter a booking flow that has a pre-selected "
+"cart."
+msgstr ""
+"Voeg een knop toe op elke pagina om een boekingsstroom in te voeren met een "
+"vooraf geselecteerde winkelwagen."
+
+#: public/js/blocks/call-to-action.js:2227
+msgid "Book Now"
+msgstr "Boek nu"
+
+#: public/js/blocks/call-to-action.js:2323
+#, fuzzy
+msgid "Select Provider"
+msgstr "Selecteer Provider"
+
+#: public/js/blocks/call-to-action.js:2352
+msgid "Select Type"
+msgstr "Selecteer type"
+
+#: public/js/blocks/call-to-action.js:2377
+#: public/js/blocks/default-appointment.js:2263
+#: public/js/blocks/default-classes.js:5416
+#: public/js/blocks/legacy-class.js:15100
+#: public/js/blocks/single-service.js:2058
+#, fuzzy
+msgid "Start Booking Quick Links"
+msgstr "Begin met het boeken van snelle links"
+
+#: public/js/blocks/call-to-action.js:2381
+#, fuzzy
+msgid "My Services"
+msgstr "Mijn diensten"
+
+#: public/js/blocks/call-to-action.js:2384
+#: public/js/blocks/single-service.js:2065
+msgid "Options"
+msgstr "Opties"
+
+#: public/js/blocks/call-to-action.js:2386
+msgid "Service Type"
+msgstr "Servicetype"
+
+#: public/js/blocks/call-to-action.js:2400
+msgid "Provider"
+msgstr "Provider"
+
+#: public/js/blocks/call-to-action.js:2408
+#: public/js/blocks/single-service.js:2075
+msgid "Button"
+msgstr "Knop"
+
+#: public/js/blocks/call-to-action.js:2410
+#: public/js/blocks/single-service.js:2077
+msgid "Text"
+msgstr "Tekst"
+
+#: public/js/blocks/call-to-action.js:2724
+#: public/js/blocks/default-appointment.js:2630
+#: public/js/blocks/default-classes.js:5927
+#: public/js/flows/default-appointment.js:11279
+#: public/js/flows/default-classes.js:12725
+#: public/js/flows/single-service.js:10298
+#: resources/assets/js/front-end/reducers/customerReducer.js:26
+msgid "Spam Detected"
+msgstr "Spam gedetecteerd"
+
+#: public/js/blocks/default-appointment.js:2187
+#, fuzzy
+msgid "Embed the service flow to capture new appointments."
+msgstr "Sluit de service stroom in om nieuwe afspraken vast te leggen."
+
+#: public/js/blocks/default-appointment.js:2200
+#, fuzzy
+msgid "Select Your Date & Time"
+msgstr "Selecteer uw datum en tijd"
+
+#: public/js/blocks/default-appointment.js:2220
+#, fuzzy
+msgid "Available times for"
+msgstr "Beschikbare tijden voor"
+
+#: public/js/blocks/default-classes.js:5177
+#, fuzzy
+msgid "Embed the classes flow to allow customers to join."
+msgstr "Sluit de klassenstroom in zodat klanten kunnen deelnemen."
+
+#: public/js/blocks/default-classes.js:5191
+#, fuzzy
+msgid "Available times on"
+msgstr "Beschikbare tijden op"
+
+#: public/js/blocks/default-classes.js:5239
+msgid "Single"
+msgstr "Enkel"
+
+#: public/js/blocks/default-classes.js:5247
+#, fuzzy
+msgid "Filter Class"
+msgstr "Filterklasse"
+
+#: public/js/blocks/default-classes.js:5267
+#, fuzzy
+msgid "Nothing Here, Try Again"
+msgstr "Niets hier, probeer het nog eens."
+
+#: public/js/blocks/default-classes.js:5271
+msgid "Multiple"
+msgstr "Meerdere"
+
+#: public/js/blocks/default-classes.js:5275
+#, fuzzy
+msgid "Searching for Classes"
+msgstr "Zoeken naar klassen"
+
+#: public/js/blocks/default-classes.js:5405
+#, fuzzy
+msgid "Select A Class"
+msgstr "Selecteer een klasse"
+
+#: public/js/blocks/default-classes.js:5424
+#: public/js/blocks/legacy-class.js:15108
+msgid "Schedules"
+msgstr "Agenda’s"
+
+#: public/js/blocks/default-classes.js:5431
+msgid "Filters"
+msgstr "Filters"
+
+#: public/js/blocks/default-classes.js:5433
+msgid "Class"
+msgstr "Klasse"
+
+#: public/js/blocks/legacy-class.js:15088
+#: public/js/blocks/legacy-class.js:15148
+#, fuzzy
+msgid "Legacy Classes"
+msgstr "Verouderde klassen"
+
+#: public/js/blocks/legacy-class.js:15089
+#, fuzzy
+msgid "Embed the classes flow to capture new attendees."
+msgstr "Sluit de klassenstroom in om nieuwe deelnemers vast te leggen."
+
+#: public/js/blocks/legacy-class.js:15131
+#, fuzzy
+msgid "Loading the booking application..."
+msgstr "Het laden van de boekingsaanvraag..."
+
+#: public/js/blocks/legacy-class.js:15149
+#, fuzzy
+msgid "Upgrade to gain access to Start Booking class functionality."
+msgstr ""
+"Upgrade om toegang te krijgen tot de functionaliteit van de klasse Start "
+"Booking."
+
+#: public/js/blocks/legacy-class.js:15161
+#, fuzzy
+msgid "Upgrade to gain access to class functionality."
+msgstr "Upgrade om toegang te krijgen tot klassefunctionaliteit."
+
+#: public/js/blocks/single-service.js:1872
+#, fuzzy
+msgid ""
+"Embed the details of a single service and the ability to book that service."
+msgstr ""
+"Sluit de details van één service in en de mogelijkheid om die service te "
+"boeken."
+
+#: public/js/blocks/single-service.js:2047
+#, fuzzy
+msgid "Select A Service"
+msgstr "Selecteer een dienst"
+
+#: public/js/flows/default-appointment.js:3744
+#: public/js/flows/default-appointment.js:6133
+#: public/js/flows/default-appointment.js:6174
+#: public/js/flows/default-appointment.js:6226
+#: public/js/flows/default-classes.js:6543
+#: public/js/flows/single-service.js:3711
+#: public/js/flows/single-service.js:6100
+#: public/js/flows/single-service.js:6141
+#: public/js/flows/single-service.js:6193
+#, fuzzy
+msgid "Service Duration"
+msgstr "Serviceduur"
+
+#: public/js/flows/default-appointment.js:4392
+#: public/js/flows/default-classes.js:7303
+#: public/js/flows/single-service.js:4359
+msgid "Coupon"
+msgstr "Coupon"
+
+#: public/js/flows/default-appointment.js:4422
+#: public/js/flows/default-classes.js:7333
+#: public/js/flows/single-service.js:4389
+msgid "Discount"
+msgstr "Korting"
+
+#: public/js/flows/default-appointment.js:4424
+#: public/js/flows/default-classes.js:7335
+#: public/js/flows/single-service.js:4391
+msgid "Invalid Coupon"
+msgstr "Ongeldige kortingscode"
+
+#: public/js/flows/default-appointment.js:4428
+#: public/js/flows/default-classes.js:7339
+#: public/js/flows/single-service.js:4395
+msgid "Total"
+msgstr "Totaal"
+
+#: public/js/flows/default-appointment.js:5090
+#: public/js/flows/single-service.js:5057
+#, fuzzy
+msgid "Please select a date between"
+msgstr "Selecteer een datum tussen"
+
+#: public/js/flows/default-appointment.js:5092
+#: public/js/flows/single-service.js:5059
+#, fuzzy
+msgid "Please select a date after"
+msgstr "Selecteer een datum na"
+
+#: public/js/flows/default-appointment.js:5094
+#: public/js/flows/single-service.js:5061
+#, fuzzy
+msgid "Please select a date before"
+msgstr "Selecteer een datum voor"
+
+#: public/js/flows/default-appointment.js:5107
+#: public/js/flows/single-service.js:5074
+#, fuzzy
+msgid "Selected date is outside available options."
+msgstr "Geselecteerde datum valt buiten de beschikbare opties."
+
+#: public/js/flows/default-appointment.js:5399
+#: public/js/flows/default-appointment.js:5625
+#: public/js/flows/default-appointment.js:9195
+#: public/js/flows/single-service.js:5366
+#: public/js/flows/single-service.js:5592
+#: public/js/flows/single-service.js:8889
+#, fuzzy
+msgid "Processing Appointment"
+msgstr "Afspraak verwerken"
+
+#: public/js/flows/default-appointment.js:6194
+#: public/js/flows/single-service.js:6161
+#, fuzzy
+msgid "Service Selected"
+msgstr "Service geselecteerd"
+
+#: public/js/flows/default-appointment.js:6249
+#: public/js/flows/default-classes.js:10388
+#: public/js/flows/single-service.js:6216
+#, fuzzy
+msgid "Online booking disabled"
+msgstr "Online boeken uitgeschakeld"
+
+#: public/js/flows/default-appointment.js:7628
+#: public/js/flows/default-classes.js:10869
+#: public/js/flows/single-service.js:7322
+msgid "Phone is required"
+msgstr "Telefoonnummer is vereist"
+
+#: public/js/flows/default-appointment.js:7808
+#: public/js/flows/default-classes.js:11056
+#: public/js/flows/single-service.js:7502
+#, fuzzy
+msgid "We have securely populated a profile that matches this email address."
+msgstr "We hebben een profiel ingevuld dat overeenkomt met dit e-mailadres."
+
+#: public/js/flows/default-appointment.js:7966
+#: public/js/flows/default-classes.js:11214
+#: public/js/flows/single-service.js:7660
+msgid "Warning"
+msgstr "Waarschuwing"
+
+#: public/js/flows/default-appointment.js:7967
+#: public/js/flows/default-classes.js:11215
+#: public/js/flows/single-service.js:7661
+#, fuzzy
+msgid ""
+"Your site is loading the secure checkout form without a SSL certificate. SSL "
+"certificates keep your connection with the website secure."
+msgstr ""
+"Uw site laadt het beveiligde afrekenformulier zonder SSL-certificaat. SSL-"
+"certificaten houden uw verbinding met de website veilig."
+
+#: public/js/flows/default-appointment.js:7970
+#: public/js/flows/default-classes.js:11218
+#: public/js/flows/single-service.js:7664
+#, fuzzy
+msgid "Learn how to resolve this"
+msgstr "Meer informatie over hoe u dit oplossen"
+
+#: public/js/flows/default-appointment.js:8388
+#: public/js/flows/single-service.js:8082
+msgid "Remove"
+msgstr "Verwijderen"
+
+#: public/js/flows/default-appointment.js:8405
+#: public/js/flows/default-appointment.js:8423
+#: public/js/flows/default-classes.js:12112
+#: public/js/flows/single-service.js:8099
+#: public/js/flows/single-service.js:8117
+msgid "Skip"
+msgstr "Overslaan"
+
+#: public/js/flows/default-appointment.js:8953
+#: public/js/flows/single-service.js:8647
+#, fuzzy
+msgid "Searching Availability"
+msgstr "Beschikbaarheid zoeken"
+
+#: public/js/flows/default-appointment.js:9665
+#, fuzzy
+msgid "There are no services for this service type."
+msgstr "Er zijn geen services voor dit servicetype."
+
+#: public/js/flows/default-appointment.js:9672
+msgid "Go Back"
+msgstr "Ga terug"
+
+#: public/js/flows/default-appointment.js:9687
+#, fuzzy
+msgid "Oops... Looks like you don't have any services."
+msgstr "Oeps... Het lijkt erop dat je geen diensten hebt."
+
+#: public/js/flows/default-appointment.js:9698
+#, fuzzy
+msgid "A great online booking experience is coming soon..."
+msgstr "Een geweldige online boekingservaring komt binnenkort..."
+
+#: public/js/flows/default-appointment.js:10856
+#, fuzzy
+msgid "Booking is disabled. Check back later."
+msgstr "Reserveren is uitgeschakeld. Kom later terug."
+
+#: public/js/flows/default-classes.js:6865
+msgid "All Day"
+msgstr "De hele dag"
+
+#: public/js/flows/default-classes.js:7835
+#: public/js/flows/default-classes.js:8036
+#: public/js/flows/default-classes.js:11595
+#, fuzzy
+msgid "Joining..."
+msgstr "Toetreding tot..."
+
+#: resources/assets/js/admin/jquery/graph/graph.js:66
+msgid "Bookings"
+msgstr "Reserveringen"
+
+#: resources/assets/js/admin/utils/customFields.js:5
+msgid "Single Line Text"
+msgstr "Enkele tekstregel"
+
+#: resources/assets/js/admin/utils/customFields.js:6
+msgid "Paragraph Text"
+msgstr "Alineatekst"
+
+#: resources/assets/js/admin/utils/customFields.js:7
+msgid "Dropdown"
+msgstr "Dropdown"
+
+#: resources/assets/js/admin/utils/customFields.js:8
+msgid "Heading"
+msgstr "Kop"
+
+#: resources/assets/js/admin/utils/customFields.js:9
+#, fuzzy
+msgid "Line Separator"
+msgstr "Lijnscheidingsteken"
+
+#: resources/assets/js/admin/utils/prefilledEvents.js:7
+#: resources/assets/js/admin/utils/prefilledEvents.js:29
+#, fuzzy
+msgid "Hair cut"
+msgstr "Haar geknipt"
+
+#: resources/assets/js/admin/utils/prefilledEvents.js:8
+#, fuzzy
+msgid "Clipper or scissor cut."
+msgstr "Tondeuse of schaar gesneden."
+
+#: resources/assets/js/admin/utils/prefilledEvents.js:18
+msgid "Facial"
+msgstr "Gezicht-"
+
+#: resources/assets/js/admin/utils/prefilledEvents.js:19
+#, fuzzy
+msgid ""
+"Our facial regimen was created to target specific needs, increase skin "
+"health, and enhance your appearance."
+msgstr ""
+"Ons gezichtsregime is gemaakt om specifieke behoeften aan te pakken, de "
+"gezondheid van de huid te verhogen en uw uiterlijk te verbeteren."
+
+#: resources/assets/js/admin/utils/prefilledEvents.js:30
+#, fuzzy
+msgid "Get your hair washed, cut and styled by our professional team."
+msgstr "Laat uw haar wassen, knippen en stylen door ons professionele team."
+
+#: resources/assets/js/admin/utils/prefilledEvents.js:40
+#, fuzzy
+msgid "30 minute consultation"
+msgstr "Consult van 30 minuten"
+
+#: resources/assets/js/admin/utils/prefilledEvents.js:41
+#, fuzzy
+msgid "Initial introduction to get to know each other a little better."
+msgstr "Eerste kennismaking om elkaar wat beter te leren kennen."
+
+#. Plugin URI of the plugin/theme
+#, fuzzy
+msgid "https://www.startbooking.com/"
+msgstr "https://www.startbooking.com/"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid ""
+"Integrate online booking service StartBooking.com. Including an appointment "
+"form for customers to book directly on your website and a widget to display "
+"open hours."
+msgstr ""
+"Integreer online boekingsservice StartBooking.com. Inclusief een "
+"afspraakformulier voor klanten om direct op uw website te boeken en een "
+"widget om openingstijden weer te geven."
+
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "https://www.startbooking.com"
+msgstr "https://www.startbooking.com"

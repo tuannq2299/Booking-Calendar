@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="14px" viewBox="0 0 16 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>mail</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Dashboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Service-List---Grid-w/-images" transform="translate(-300.000000, -1137.000000)" fill="#969EA4">
+            <g id="Group-4" transform="translate(300.000000, 761.000000)">
+                <g id="Contact" transform="translate(0.000000, 374.000000)">
+                    <path d="M2,2 L14,2 C15.1045695,2 16,2.8954305 16,4 L16,14 C16,15.1045695 15.1045695,16 14,16 L2,16 C0.8954305,16 1.3527075e-16,15.1045695 0,14 L0,4 C-1.3527075e-16,2.8954305 0.8954305,2 2,2 Z M12.2928932,4.29289322 L8,8.58578644 L3.70710678,4.29289322 C3.31658249,3.90236893 2.68341751,3.90236893 2.29289322,4.29289322 C1.90236893,4.68341751 1.90236893,5.31658249 2.29289322,5.70710678 L7.29289322,10.7071068 C7.68341751,11.0976311 8.31658249,11.0976311 8.70710678,10.7071068 L13.7071068,5.70710678 C14.0976311,5.31658249 14.0976311,4.68341751 13.7071068,4.29289322 C13.3165825,3.90236893 12.6834175,3.90236893 12.2928932,4.29289322 Z" id="mail"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

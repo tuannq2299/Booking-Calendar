@@ -1,0 +1,2449 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Start Booking\n"
+"POT-Creation-Date: 2021-02-20 14:37-0700\n"
+"PO-Revision-Date: 2021-03-24 21:19-0600\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: start-booking.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: da_DK\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+"X-Poedit-SearchPathExcluded-2: node_modules\n"
+
+#: admin/404.php:1
+#, fuzzy
+msgid "Content not found."
+msgstr "Indholdet blev ikke fundet."
+
+#: admin/connected/header.php:26 public/js/admin/index.js:24203
+#: public/js/admin/index.js:25864 public/js/admin/index.js:30799
+#: public/js/admin/index.js:30918
+msgid "Dashboard"
+msgstr "Kontrolpanel"
+
+#: admin/connected/header.php:29 inc/copy.php:47 inc/copy.php:83
+#: inc/widgets/single-service.php:54 public/js/admin/index.js:24224
+#: public/js/admin/index.js:25885 public/js/admin/index.js:27696
+#: public/js/admin/index.js:27700 public/js/admin/index.js:27846
+#: public/js/admin/index.js:27850 public/js/admin/index.js:29121
+#: public/js/admin/index.js:29363 public/js/admin/index.js:30816
+#: public/js/admin/index.js:30939 public/js/blocks/default-appointment.js:2186
+#: public/js/blocks/default-appointment.js:2267
+#: public/js/blocks/single-service.js:2062
+msgid "Services"
+msgstr "Services"
+
+#: admin/connected/header.php:32 public/js/admin/index.js:29284
+#: public/js/admin/index.js:29407 public/js/blocks/default-classes.js:5176
+#: public/js/blocks/default-classes.js:5420
+#: public/js/blocks/legacy-class.js:15104
+msgid "Classes"
+msgstr "Klasser"
+
+#: admin/connected/header.php:35 public/js/blocks/default-classes.js:5428
+#, fuzzy
+msgid "Form Editor"
+msgstr "Redigeringsprogram til formular"
+
+#: admin/connected/header.php:38 public/js/admin/index.js:29841
+#: public/js/admin/index.js:30292 public/js/admin/index.js:30833
+#: public/js/admin/index.js:30960
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: admin/connected/header.php:42
+#, fuzzy
+msgid "Go to Start Booking"
+msgstr "Gå til Start booking"
+
+#: inc/admin-connect.php:39
+msgid "Processing"
+msgstr "Behandler"
+
+#: inc/admin-connect.php:43 inc/admin-connect.php:167
+#, fuzzy
+msgid "Invalid response from startbooking.com."
+msgstr "Ugyldigt svar fra startbooking.com."
+
+#: inc/admin-connect.php:100
+#, fuzzy
+msgid "Invalid API Credentials"
+msgstr "Ugyldige API-legitimationsoplysninger"
+
+#: inc/admin-connect.php:101
+msgid "Invalid Password"
+msgstr "Forkert kodeord"
+
+#: inc/admin-connect.php:108
+#, fuzzy
+msgid "Invalid Authentication."
+msgstr "Ugyldig godkendelse."
+
+#: inc/admin-connect.php:127 inc/admin-connect.php:163
+#, fuzzy
+msgid "Connection Established."
+msgstr "Forbindelsen er oprettet."
+
+#: inc/admin-connect.php:131
+#, fuzzy
+msgid "Invalid credentials. Contact Support at startbooking.com"
+msgstr "Ugyldige legitimationsoplysninger. Kontakt Support på startbooking.com"
+
+#: inc/base.php:121
+#, fuzzy
+msgid "Get started with online scheduling from"
+msgstr "Introduktion til onlineplanlægning fra"
+
+#: inc/base.php:122
+#, fuzzy
+msgid ""
+"Great news, your booking page is live! Activate your account to ensure you "
+"don't miss appointments."
+msgstr ""
+"Gode nyheder, din booking side er live! Aktivér din konto for at sikre, at "
+"du ikke går glip af aftaler."
+
+#: inc/base.php:124
+msgid "Activate"
+msgstr "Aktiver"
+
+#: inc/base.php:125
+msgid "Continue setup"
+msgstr "Fortsæt installationen"
+
+#: inc/base.php:154 inc/base.php:156 inc/base.php:163
+#, fuzzy
+msgid "Your Start Booking trial expires in "
+msgstr "Prøveperioden Start booking udløber i "
+
+#: inc/base.php:154
+msgid "day"
+msgstr "dag"
+
+#: inc/base.php:156
+msgid "days"
+msgstr "dage"
+
+#: inc/base.php:161
+#, fuzzy
+msgid "Your Start Booking trial expires in the next hour!"
+msgstr "Din startbooking-prøveperiode udløber inden for den næste time!"
+
+#: inc/base.php:163 inc/base.php:695 public/js/blocks/single-service.js:2267
+#: public/js/flows/default-appointment.js:3677
+#: public/js/flows/default-appointment.js:6068
+#: public/js/flows/default-classes.js:6476
+#: public/js/flows/single-service.js:3644
+#: public/js/flows/single-service.js:6035
+#: resources/assets/js/front-end/utils/time.js:14
+msgid "hours"
+msgstr "timer"
+
+#: inc/base.php:172 inc/base.php:199
+#, fuzzy
+msgid ""
+"To keep your premium online booking features and data, select a plan today."
+msgstr ""
+"For at beholde dine premium online bookingfunktioner og data skal du vælge "
+"en plan i dag."
+
+#: inc/base.php:174 inc/base.php:201
+msgid "Select a Plan"
+msgstr "Vælg en plan"
+
+#: inc/base.php:258
+#, fuzzy
+msgid "Booking Page Created."
+msgstr "Bookingside oprettet."
+
+#: inc/base.php:260
+#, fuzzy
+msgid "Unable to create page."
+msgstr "Siden kan ikke oprettes."
+
+#: inc/base.php:602 public/js/admin/index.js:4280 public/js/admin/index.js:4701
+#: public/js/admin/index.js:6403 public/js/admin/index.js:8772
+#: public/js/admin/index.js:10240 public/js/admin/index.js:11173
+#: public/js/admin/index.js:23996 public/js/admin/index.js:25208
+#: public/js/admin/index.js:28201 public/js/blocks/single-service.js:2112
+#: public/js/flows/default-appointment.js:4871
+#: public/js/flows/default-classes.js:8623
+#: public/js/flows/default-classes.js:10236
+#: public/js/flows/single-service.js:4838
+msgid "Loading"
+msgstr "Indlæser"
+
+#: inc/base.php:693 public/js/blocks/single-service.js:2265
+#: public/js/flows/default-appointment.js:3675
+#: public/js/flows/default-appointment.js:6066
+#: public/js/flows/default-classes.js:6474
+#: public/js/flows/single-service.js:3642
+#: public/js/flows/single-service.js:6033
+#: resources/assets/js/front-end/utils/time.js:12
+msgid "hour"
+msgstr "time"
+
+#: inc/base.php:699 public/js/blocks/single-service.js:2273
+#: public/js/flows/default-appointment.js:3683
+#: public/js/flows/default-appointment.js:6074
+#: public/js/flows/default-classes.js:6482
+#: public/js/flows/single-service.js:3650
+#: public/js/flows/single-service.js:6041
+#: resources/assets/js/front-end/utils/time.js:18
+msgid "minute"
+msgstr "minut"
+
+#: inc/base.php:701 public/js/blocks/single-service.js:2276
+#: public/js/flows/default-appointment.js:3686
+#: public/js/flows/default-appointment.js:6077
+#: public/js/flows/default-classes.js:6485
+#: public/js/flows/single-service.js:3653
+#: public/js/flows/single-service.js:6044
+#: resources/assets/js/front-end/utils/time.js:21
+msgid "minutes"
+msgstr "minutter"
+
+#. Plugin Name of the plugin/theme
+#. Author of the plugin/theme
+#: inc/blocks.php:11 inc/routes.php:7 public/js/admin/index.js:10578
+#: public/js/admin/index.js:10612
+#, fuzzy
+msgid "Start Booking"
+msgstr "Start Booking"
+
+#: inc/copy.php:6
+#, fuzzy
+msgid "Select a Date and Time"
+msgstr "Vælg en dato og et klokkeslæt"
+
+#: inc/copy.php:7
+#, fuzzy
+msgid "Available Times for"
+msgstr "Tilgængelige tidspunkter for"
+
+#: inc/copy.php:8
+#, fuzzy
+msgid "No appointments available on selected day."
+msgstr "Der er ingen tilgængelige aftaler på den valgte dag."
+
+#: inc/copy.php:9
+#, fuzzy
+msgid "Looking for available appointments."
+msgstr "Leder du efter ledige aftaler."
+
+#: inc/copy.php:11
+#, fuzzy
+msgid "Selected date is in the past."
+msgstr "Den valgte dato er fortid."
+
+#: inc/copy.php:12
+#, fuzzy
+msgid "Please select a date and time."
+msgstr "Vælg en dato og et klokkeslæt."
+
+#: inc/copy.php:16
+msgid "Your Details"
+msgstr "Dine Oplysninger"
+
+#: inc/copy.php:17
+#, fuzzy
+msgid "Secure Profile Loaded from StartBooking.com"
+msgstr "Sikker profil indlæst fra StartBooking.com"
+
+#: inc/copy.php:18 public/js/admin/index.js:3708 public/js/admin/index.js:28803
+msgid "Email"
+msgstr "E-mail"
+
+#: inc/copy.php:19
+msgid "First Name"
+msgstr "Fornavn"
+
+#: inc/copy.php:20
+msgid "Last Name"
+msgstr "Efternavn"
+
+#: inc/copy.php:21 public/js/admin/index.js:3750
+msgid "Phone Number"
+msgstr "Telefonnummer"
+
+#: inc/copy.php:22 inc/copy.php:71 public/js/blocks/default-appointment.js:2228
+#: public/js/blocks/default-classes.js:5235
+#: public/js/blocks/single-service.js:1913
+#: public/js/blocks/single-service.js:1949
+msgid "Continue"
+msgstr "Fortsæt"
+
+#: inc/copy.php:25
+#, fuzzy
+msgid "Review & Confirm"
+msgstr "Gennemse og bekræft"
+
+#: inc/copy.php:26 public/js/admin/index.js:24642
+#: public/js/admin/index.js:27042 public/js/admin/index.js:27286
+msgid "Name"
+msgstr "Navn"
+
+#: inc/copy.php:27
+msgid "Date"
+msgstr "Dato"
+
+#: inc/copy.php:28 inc/copy.php:85
+msgid "Time"
+msgstr "Tid"
+
+#: inc/copy.php:29 inc/copy.php:75 public/js/admin/index.js:24685
+#: public/js/admin/index.js:25238 public/js/admin/index.js:26078
+msgid "Duration"
+msgstr "Varighed"
+
+#: inc/copy.php:30
+#, fuzzy
+msgid "Service(s)"
+msgstr "Tjenester"
+
+#: inc/copy.php:31
+msgid "Confirm Appointment"
+msgstr "Bekræft aftale"
+
+#: inc/copy.php:34
+#, fuzzy
+msgid "Select Services"
+msgstr "Vælg tjenester"
+
+#: inc/copy.php:35
+#, fuzzy
+msgid "Select Another Service"
+msgstr "Vælg en anden tjeneste"
+
+#: inc/copy.php:36
+#, fuzzy
+msgid "Select a Service Type"
+msgstr "Vælg en tjenestetype"
+
+#: inc/copy.php:37
+#, fuzzy
+msgid "Loading service types..."
+msgstr "Indlæser tjenestetyper..."
+
+#: inc/copy.php:39
+#, fuzzy
+msgid "Please select a service to continue."
+msgstr "Vælg en tjeneste for at fortsætte."
+
+#: inc/copy.php:43
+msgid "Summary"
+msgstr "Opfølgning"
+
+#: inc/copy.php:44
+msgid "Payment Information"
+msgstr "Betalingsinformation"
+
+#: inc/copy.php:45 inc/copy.php:60 inc/copy.php:84
+msgid "Appointment"
+msgstr "Booking"
+
+#: inc/copy.php:46 public/js/admin/index.js:25234
+#: public/js/admin/index.js:26807 public/js/admin/index.js:27698
+#: public/js/admin/index.js:27848 public/js/blocks/call-to-action.js:2393
+#: public/js/blocks/single-service.js:2067
+#: public/js/blocks/single-service.js:2102
+msgid "Service"
+msgstr "Service"
+
+#: inc/copy.php:48
+#, fuzzy
+msgid "Total Amount Due"
+msgstr "Forfaldent beløb i alt"
+
+#: inc/copy.php:49
+msgid "Credit Card"
+msgstr "Kreditkort"
+
+#: inc/copy.php:50
+#, fuzzy
+msgid "Month / Year"
+msgstr "Måned/år"
+
+#: inc/copy.php:51
+msgid "CVC"
+msgstr "CVC"
+
+#: inc/copy.php:52
+msgid "Postal Code"
+msgstr "Postnummer"
+
+#: inc/copy.php:53
+msgid "Pay Now"
+msgstr "Betal nu"
+
+#: inc/copy.php:54
+#, fuzzy
+msgid "Loading Secure Checkout"
+msgstr "Indlæser sikker udtjekning"
+
+#: inc/copy.php:57
+msgid "Thank You!"
+msgstr "Mange tak!"
+
+#: inc/copy.php:58
+#, fuzzy
+msgid "We have confirmed your appointment on "
+msgstr "Vi har bekræftet din aftale den "
+
+#: inc/copy.php:59
+msgid "Customer"
+msgstr "Kunde"
+
+#: inc/copy.php:61
+msgid "Address"
+msgstr "Adresse"
+
+#: inc/copy.php:62
+#, fuzzy
+msgid "We look forward to seeing you!"
+msgstr "Vi ser frem til at se dig!"
+
+#: inc/copy.php:63
+msgid "Done"
+msgstr "Færdig"
+
+#: inc/copy.php:66
+#, fuzzy
+msgid "Booking Currently Unavailable"
+msgstr "Booking er ikke tilgængelig i øjeblikket"
+
+#: inc/copy.php:67
+#, fuzzy
+msgid ""
+"Booking appointments is currently unavailable. Please check again later."
+msgstr ""
+"Bookingaftaler er ikke tilgængelige i øjeblikket. Kontroller igen senere."
+
+#: inc/copy.php:74 public/js/admin/index.js:24766
+#: public/js/admin/index.js:25242 public/js/admin/index.js:26294
+msgid "Price"
+msgstr "Pris"
+
+#: inc/copy.php:76 public/js/admin/index.js:24703
+#: public/js/admin/index.js:24758 public/js/admin/index.js:26107
+#: public/js/admin/index.js:26170
+msgid "Minutes"
+msgstr "Minutter"
+
+#: inc/copy.php:79
+msgid "services"
+msgstr "services"
+
+#: inc/copy.php:86
+msgid "Details"
+msgstr "Detaljer"
+
+#: inc/copy.php:87
+msgid "Booked"
+msgstr "Booked"
+
+#: inc/shortcodes.php:119 public/js/blocks/default-classes.js:5199
+#: public/js/flows/default-appointment.js:6899
+#: public/js/flows/default-classes.js:9134
+#: public/js/flows/single-service.js:6593
+msgid "Select"
+msgstr "Vælg"
+
+#: inc/widgets/address.php:6 inc/widgets/address.php:8
+#, fuzzy
+msgid "Start Booking Location Address"
+msgstr "Start bookingplaceringsadresse"
+
+#: inc/widgets/address.php:55 inc/widgets/classes.php:32
+#: inc/widgets/hours.php:50 inc/widgets/services.php:30
+#: inc/widgets/single-service.php:49
+msgid "Title"
+msgstr "Titel"
+
+#: inc/widgets/address.php:60
+msgid "Map Type"
+msgstr "Korttype"
+
+#: inc/widgets/address.php:62
+msgid "Road Map"
+msgstr "Vej kort"
+
+#: inc/widgets/address.php:63
+msgid "Satellite"
+msgstr "Satellit"
+
+#: inc/widgets/address.php:68
+msgid "Map Zoom"
+msgstr "Kort zoom"
+
+#: inc/widgets/address.php:70
+msgid "No Zoom"
+msgstr "Ingen zoom"
+
+#: inc/widgets/address.php:71
+#, fuzzy
+msgid "Level 1"
+msgstr "Niveau 1"
+
+#: inc/widgets/address.php:72
+#, fuzzy
+msgid "Level 2"
+msgstr "Niveau 2"
+
+#: inc/widgets/address.php:73
+#, fuzzy
+msgid "Level 3"
+msgstr "Niveau 3"
+
+#: inc/widgets/address.php:74
+#, fuzzy
+msgid "Level 4"
+msgstr "Niveau 4"
+
+#: inc/widgets/address.php:79
+msgid "Marker Color"
+msgstr "Markør Farve"
+
+#: inc/widgets/address.php:81
+msgid "Red"
+msgstr "Rød"
+
+#: inc/widgets/address.php:82
+msgid "Blue"
+msgstr "Blå"
+
+#: inc/widgets/address.php:83
+msgid "Green"
+msgstr "Grøn"
+
+#: inc/widgets/address.php:87
+#, fuzzy
+msgid ""
+"Location address is loaded from your account profile at StartBooking.com."
+msgstr "Placeringsadressen indlæses fra din kontoprofil på StartBooking.com."
+
+#: inc/widgets/address.php:87
+msgid "account"
+msgstr "konto"
+
+#: inc/widgets/address.php:87
+msgid "Update Address"
+msgstr "Opdater Adresse"
+
+#: inc/widgets/classes.php:6 inc/widgets/classes.php:8
+#, fuzzy
+msgid "Start Booking Classes"
+msgstr "Start bookingklasser"
+
+#: inc/widgets/classes.php:35
+#, fuzzy
+msgid ""
+"Please use the Start Booking dashboard for class schedules and configuration."
+msgstr "Brug dashboardet Start booking til klasseplaner og konfiguration."
+
+#: inc/widgets/hours.php:6 inc/widgets/hours.php:8
+#, fuzzy
+msgid "Start Booking Hours"
+msgstr "Start bookingtid"
+
+#: inc/widgets/hours.php:37
+msgid "Closed"
+msgstr "Lukket"
+
+#: inc/widgets/hours.php:54
+#, fuzzy
+msgid "Hide Icon"
+msgstr "Skjul ikon"
+
+#: inc/widgets/hours.php:57
+#, fuzzy
+msgid ""
+"Your hours are loaded from your account availability at Start Booking.com."
+msgstr ""
+"Dine åbningstider indlæses fra din kontotilgængelighed på Start Booking.com."
+
+#: inc/widgets/hours.php:57
+#, fuzzy
+msgid "account/availability"
+msgstr "konto/tilgængelighed"
+
+#: inc/widgets/hours.php:57
+#, fuzzy
+msgid "Manage Availability Hours"
+msgstr "Administrer tilgængelighedstimer"
+
+#: inc/widgets/services.php:6 inc/widgets/services.php:8
+#, fuzzy
+msgid "Start Booking Services"
+msgstr "Start bookingtjenester"
+
+#: inc/widgets/services.php:33
+#, fuzzy
+msgid "To edit the booking form experience, please use the "
+msgstr "Hvis du vil redigere oplevelsen af bookingformularen, skal du bruge "
+
+#: inc/widgets/services.php:33
+#, fuzzy
+msgid "form editor"
+msgstr "formulareditor"
+
+#: inc/widgets/single-service.php:6 inc/widgets/single-service.php:8
+#, fuzzy
+msgid "Start Booking Single Service"
+msgstr "Begynd at booke enkelt service"
+
+#: inc/widgets/single-service.php:56
+#, fuzzy
+msgid "Select a Service"
+msgstr "Vælg service"
+
+#: inc/widgets/single-service.php:68
+msgid "Service Details"
+msgstr "Serviceoplysninger"
+
+#: inc/widgets/single-service.php:70
+msgid "Show Details"
+msgstr "Vis detaljer"
+
+#: inc/widgets/single-service.php:71
+#, fuzzy
+msgid "Skip Details"
+msgstr "Spring detaljer over"
+
+#: public/js/admin/index.js:3516 public/js/flows/default-appointment.js:7617
+#: public/js/flows/default-classes.js:10858
+#: public/js/flows/single-service.js:7311
+#, fuzzy
+msgid "First name is required"
+msgstr "Fornavn er påkrævet"
+
+#: public/js/admin/index.js:3521 public/js/flows/default-appointment.js:7622
+#: public/js/flows/default-classes.js:10863
+#: public/js/flows/single-service.js:7316
+msgid "Last name is required"
+msgstr "Efternavn er påkrævet"
+
+#: public/js/admin/index.js:3526 public/js/flows/default-appointment.js:7612
+#: public/js/flows/default-classes.js:10853
+#: public/js/flows/single-service.js:7306
+msgid "Email is required"
+msgstr "Email er påkrævet"
+
+#: public/js/admin/index.js:3531
+msgid "Password is required"
+msgstr "Password er påkrævet"
+
+#: public/js/admin/index.js:3536
+#, fuzzy
+msgid "Password must be more then 6 characters"
+msgstr "Adgangskoden skal være på mere end 6 tegn"
+
+#: public/js/admin/index.js:3541
+#, fuzzy
+msgid "Timezone is required"
+msgstr "Tidszone er påkrævet"
+
+#: public/js/admin/index.js:3637 public/js/admin/index.js:5782
+msgid "Close"
+msgstr "Luk"
+
+#: public/js/admin/index.js:3662
+msgid "First name"
+msgstr "Fornavn"
+
+#: public/js/admin/index.js:3685
+msgid "Last name"
+msgstr "Efternavn"
+
+#: public/js/admin/index.js:3728 public/js/admin/index.js:9425
+#: public/js/admin/index.js:28825
+msgid "Password"
+msgstr "Adgangskode"
+
+#: public/js/admin/index.js:3769
+#, fuzzy
+msgid "Account Timezone"
+msgstr "Tidszone for konto"
+
+#: public/js/admin/index.js:3788 public/js/admin/index.js:4055
+#: public/js/admin/index.js:24027
+msgid "Activate Account"
+msgstr "Aktivér konto"
+
+#: public/js/admin/index.js:3809
+msgid "Activating"
+msgstr "Aktiverer"
+
+#: public/js/admin/index.js:3818
+#, fuzzy
+msgid "By activating your account, you agree to the "
+msgstr "Ved at aktivere din konto accepterer du "
+
+#: public/js/admin/index.js:3821
+msgid "Terms"
+msgstr "Betingelser"
+
+#: public/js/admin/index.js:3822 public/js/flows/default-appointment.js:5090
+#: public/js/flows/single-service.js:5057
+msgid "and"
+msgstr "og"
+
+#: public/js/admin/index.js:3825
+msgid "Privacy Policy"
+msgstr "Privatlivspolitik"
+
+#: public/js/admin/index.js:3842
+#, fuzzy
+msgid "Have Questions?"
+msgstr "Har du spørgsmål?"
+
+#: public/js/admin/index.js:3850
+#, fuzzy
+msgid ""
+"Get 1 on 1 time with an online booking expert to help you get your account "
+"setup."
+msgstr ""
+"Få 1 til 1 gang med en online booking ekspert til at hjælpe dig med at få "
+"din konto setup."
+
+#: public/js/admin/index.js:3856
+#, fuzzy
+msgid "Schedule Consultation"
+msgstr "Planlæg høring"
+
+#: public/js/admin/index.js:4052
+#, fuzzy
+msgid "First, please confirm your account details."
+msgstr "Først skal du bekræfte dine kontooplysninger."
+
+#: public/js/admin/index.js:4053
+#, fuzzy
+msgid "Enter your account details below to activate your account."
+msgstr "Indtast dine kontooplysninger nedenfor for at aktivere din konto."
+
+#: public/js/admin/index.js:4297 public/js/admin/index.js:4333
+#: public/js/admin/index.js:4369 public/js/admin/index.js:4405
+#: public/js/admin/index.js:4441 public/js/admin/index.js:4477
+#: public/js/admin/index.js:4513 public/js/admin/index.js:10652
+#: public/js/admin/index.js:10791 public/js/admin/index.js:28703
+#: public/js/admin/index.js:28717
+#, fuzzy
+msgid "Use setting"
+msgstr "Brug indstilling"
+
+#: public/js/admin/index.js:4307
+msgid "Sunday"
+msgstr "Søndag"
+
+#: public/js/admin/index.js:4343
+msgid "Monday"
+msgstr "Mandag"
+
+#: public/js/admin/index.js:4379
+msgid "Tuesday"
+msgstr "Tirsdag"
+
+#: public/js/admin/index.js:4415
+msgid "Wednesday"
+msgstr "Onsdag"
+
+#: public/js/admin/index.js:4451
+msgid "Thursday"
+msgstr "Torsdag"
+
+#: public/js/admin/index.js:4487
+msgid "Friday"
+msgstr "Fredag"
+
+#: public/js/admin/index.js:4523
+msgid "Saturday"
+msgstr "Lørdag"
+
+#: public/js/admin/index.js:4543 public/js/admin/index.js:24929
+#: public/js/admin/index.js:25970 public/js/admin/index.js:27079
+#: public/js/admin/index.js:27323 public/js/admin/index.js:27741
+#: public/js/admin/index.js:27891 public/js/admin/index.js:28775
+#: public/js/admin/index.js:28846
+msgid "Save"
+msgstr "Gem"
+
+#: public/js/admin/index.js:4708
+msgid "Booking Page"
+msgstr "Booking side"
+
+#: public/js/admin/index.js:4726
+#, fuzzy
+msgid "Booking Pages"
+msgstr "Booking af sider"
+
+#: public/js/admin/index.js:4737
+#, fuzzy
+msgid "Open options"
+msgstr "Åbne indstillinger"
+
+#: public/js/admin/index.js:4905
+#, fuzzy
+msgid "Congratulations! You added your first service."
+msgstr "Tillykke! Du har tilføjet din første tjeneste."
+
+#: public/js/admin/index.js:4906
+#, fuzzy
+msgid "Continue with setup"
+msgstr "Fortsæt med installationen"
+
+#: public/js/admin/index.js:4916
+#, fuzzy
+msgid "Well done! Onto the next step."
+msgstr "Godt gået! Videre til næste trin."
+
+#: public/js/admin/index.js:4926
+#, fuzzy
+msgid "Congratulations! Now let's complete your account setup."
+msgstr "Tillykke! Lad os nu fuldføre din kontoopsætning."
+
+#: public/js/admin/index.js:5207
+#, fuzzy
+msgid "Pick a plan for your online scheduling"
+msgstr "Vælg en plan for din onlineplanlægning"
+
+#: public/js/admin/index.js:5212 public/js/admin/index.js:5260
+msgid "You are"
+msgstr "Du er"
+
+#: public/js/admin/index.js:5213
+#, fuzzy
+msgid "currently on a free trial"
+msgstr "i øjeblikket på en gratis prøveperiode"
+
+#: public/js/admin/index.js:5220
+#, fuzzy
+msgid ""
+"With a free trial, you get the benefits of testing multiple users, classes, "
+"custom fields, text messages, etc. It's a lot! To continue using these "
+"features you need to select a plan or your account will be downgraded at the "
+"end of your trial."
+msgstr ""
+"Med en gratis prøveperiode får du fordelene ved at teste flere brugere, "
+"klasser, brugerdefinerede felter, tekstbeskeder osv. Det er meget! Hvis du "
+"vil fortsætte med at bruge disse funktioner, skal du vælge en plan, ellers "
+"nedgraderes din konto ved afslutningen af din prøveperiode."
+
+#: public/js/admin/index.js:5231
+#, fuzzy
+msgid "Pick my plan"
+msgstr "Vælg min plan"
+
+#: public/js/admin/index.js:5235
+#, fuzzy
+msgid "Days Remaining"
+msgstr "Resterende dage"
+
+#: public/js/admin/index.js:5255
+#, fuzzy
+msgid "Your account is limited"
+msgstr "Din konto er begrænset"
+
+#: public/js/admin/index.js:5261
+#, fuzzy
+msgid "currently on the limited plan"
+msgstr "i øjeblikket på den begrænsede plan"
+
+#: public/js/admin/index.js:5268
+#, fuzzy
+msgid ""
+"With the limited plan, you are missing out on multiple users, classes, 2-way "
+"Google Calendar, custom fields, advanced reporting just to name a few "
+"features. Upgrade today to get access to premium functionality."
+msgstr ""
+"Med den begrænsede plan går du glip af flere brugere, klasser, 2-vejs Google "
+"Kalender, brugerdefinerede felter, avanceret rapportering bare for at nævne "
+"nogle få funktioner. Opgrader i dag for at få adgang til premium-"
+"funktionalitet."
+
+#: public/js/admin/index.js:5279
+#, fuzzy
+msgid "Pick a plan"
+msgstr "Vælg en plan"
+
+#: public/js/admin/index.js:6032 public/js/admin/index.js:6154
+#, fuzzy
+msgid "Your free trial has started"
+msgstr "Din gratis prøveperiode er startet"
+
+#: public/js/admin/index.js:6032 public/js/admin/index.js:6093
+#: public/js/admin/index.js:6154
+#, fuzzy
+msgid "days left in trial"
+msgstr "dage tilbage i retssagen"
+
+#: public/js/admin/index.js:6034 public/js/admin/index.js:6095
+#: public/js/admin/index.js:6156
+msgid "You have"
+msgstr "Du har"
+
+#: public/js/admin/index.js:6034 public/js/admin/index.js:6095
+#: public/js/admin/index.js:6156
+#, fuzzy
+msgid "days left in your free trial"
+msgstr "dage tilbage i din gratis prøveperiode"
+
+#: public/js/admin/index.js:6036 public/js/admin/index.js:6097
+#: public/js/admin/index.js:6158
+#, fuzzy
+msgid ""
+"Your free trial expires today! Pick a plan to continue using your premium "
+"features."
+msgstr ""
+"Din gratis prøveperiode udløber i dag! Vælg en plan for at fortsætte med at "
+"bruge dine premium-funktioner."
+
+#: public/js/admin/index.js:6047 public/js/admin/index.js:6054
+#: public/js/admin/index.js:6108 public/js/admin/index.js:6115
+#: public/js/admin/index.js:6169 public/js/admin/index.js:6176
+#, fuzzy
+msgid "Select a plan"
+msgstr "Vælg en plan"
+
+#: public/js/admin/index.js:6093
+#, fuzzy
+msgid "Your free trial has started."
+msgstr "Din gratis prøveperiode er startet."
+
+#: public/js/admin/index.js:6367
+msgid "Welcome!"
+msgstr "Velkommen!"
+
+#: public/js/admin/index.js:6370
+#, fuzzy
+msgid "It's time to Start Booking."
+msgstr "Det er tid til at begynde at booke."
+
+#: public/js/admin/index.js:6375
+#, fuzzy
+msgid "Hold tight while we load your new online booking experience."
+msgstr "Hold godt fast, mens vi indlæser din nye online bookingoplevelse."
+
+#: public/js/admin/index.js:6409
+#, fuzzy
+msgid ""
+"You're account is ready to go! With your premium trial enjoy unlimited "
+"appointments, multiple users, text message reminders and powerful "
+"integrations."
+msgstr ""
+"Din konto er klar til at gå! Med din premium-prøveperiode kan du nyde "
+"ubegrænsede aftaler, flere brugere, sms-påmindelser og kraftfulde "
+"integrationer."
+
+#: public/js/admin/index.js:6415
+msgid "Get Started"
+msgstr "Kom i gang"
+
+#: public/js/admin/index.js:6582 public/js/admin/index.js:6600
+#: public/js/admin/index.js:6662
+msgid "Include"
+msgstr "Inkluder"
+
+#: public/js/admin/index.js:6623
+#, fuzzy
+msgid ""
+"If you include a Zoom link, your customers will receive a Zoom link with "
+"their appointment confirmation emails."
+msgstr ""
+"Hvis du medtager et Zoom-link, modtager dine kunder et Zoom-link med deres e-"
+"mails med bekræftelse af aftaler."
+
+#: public/js/admin/index.js:6631 public/js/admin/index.js:6638
+#: public/js/admin/index.js:26263
+msgid "Yes"
+msgstr "Ja"
+
+#: public/js/admin/index.js:6634 public/js/admin/index.js:6641
+#: public/js/admin/index.js:26266 public/js/admin/index.js:26273
+msgid "No"
+msgstr "Nej"
+
+#: public/js/admin/index.js:6685
+#, fuzzy
+msgid ""
+"Connecting Zoom will provide you with the ability to include a Zoom link "
+"with your appointments."
+msgstr ""
+"Hvis du forbinder Zoom, får du mulighed for at medtage et zoomlink med dine "
+"aftaler."
+
+#: public/js/admin/index.js:6697 public/js/admin/index.js:9467
+#: public/js/admin/index.js:9472
+msgid "Connect"
+msgstr "Tilslut"
+
+#: public/js/admin/index.js:6858
+msgid "Not a valid email"
+msgstr "Ugyldig e-mail"
+
+#: public/js/admin/index.js:7026
+#, fuzzy
+msgid "Password is too short. Must be at least 6 characters."
+msgstr "Adgangskoden er for kort. Skal være på mindst 6 tegn."
+
+#: public/js/admin/index.js:7029
+#, fuzzy
+msgid "Password is too weak"
+msgstr "Adgangskoden er for svag"
+
+#: public/js/admin/index.js:7206
+msgid "Country"
+msgstr "Land"
+
+#: public/js/admin/index.js:7790 public/js/admin/index.js:7850
+#: public/js/admin/index.js:7897 public/js/admin/index.js:26477
+#, fuzzy
+msgid ""
+"Rooms are resources that this service requires. For example, if you need to "
+"ensure that a specific room is available in order to perform this service, "
+"attach the room to the service and we will check before displaying your "
+"availability."
+msgstr ""
+"Lokaler er ressourcer, som denne service kræver. For eksempel, hvis du har "
+"brug for at sikre, at et bestemt værelse er tilgængeligt for at udføre denne "
+"service, skal du vedhæfte rummet til tjenesten, og vi vil kontrollere, før "
+"du viser din tilgængelighed."
+
+#: public/js/admin/index.js:7813 public/js/admin/index.js:27761
+#: public/js/admin/index.js:27906 public/js/blocks/legacy-class.js:15166
+msgid "Upgrade"
+msgstr "Opgrader"
+
+#: public/js/admin/index.js:7815
+#, fuzzy
+msgid "to add rooms for this service"
+msgstr "for at tilføje lokaler til denne service"
+
+#: public/js/admin/index.js:7862
+#, fuzzy
+msgid "No Rooms"
+msgstr "Værelser"
+
+#: public/js/admin/index.js:7927 public/js/admin/index.js:8316
+#: public/js/admin/index.js:9080
+#, fuzzy
+msgid "Remove small option"
+msgstr "Fjern lille indstilling"
+
+#: public/js/admin/index.js:7994
+msgid "Room Name"
+msgstr "Lokalenavn"
+
+#: public/js/admin/index.js:8000 public/js/admin/index.js:24906
+#: public/js/admin/index.js:26608 public/js/admin/index.js:27329
+msgid "Cancel"
+msgstr "Annuller"
+
+#: public/js/admin/index.js:8290 public/js/admin/index.js:27731
+#: public/js/admin/index.js:27881
+#, fuzzy
+msgid "No Service Types"
+msgstr "Ingen tjenestetyper"
+
+#: public/js/admin/index.js:8607
+msgid "to"
+msgstr "til"
+
+#: public/js/admin/index.js:9399
+#, fuzzy
+msgid "Connect with Start Booking"
+msgstr "Opret forbindelse til Start booking"
+
+#: public/js/admin/index.js:9408
+msgid "Email address"
+msgstr "E-mailadresse"
+
+#: public/js/admin/index.js:9445
+msgid "Forgot your password?"
+msgstr "Glemt din adgangskode?"
+
+#: public/js/admin/index.js:9488 public/js/admin/index.js:9539
+msgid "Or"
+msgstr "Eller"
+
+#: public/js/admin/index.js:9496
+#, fuzzy
+msgid "Access my existing account"
+msgstr "Få adgang til min eksisterende konto"
+
+#: public/js/admin/index.js:9499
+#, fuzzy
+msgid ""
+"If you have already been using Start Booking but you don't know your login, "
+"start here."
+msgstr ""
+"Hvis du allerede har brugt Start Booking, men du ikke kender dit login, skal "
+"du starte her."
+
+#: public/js/admin/index.js:9518 public/js/admin/index.js:9525
+#, fuzzy
+msgid "Access Account"
+msgstr "Få adgang til konto"
+
+#: public/js/admin/index.js:9563 public/js/admin/index.js:9570
+#, fuzzy
+msgid "Start New Free Trial"
+msgstr "Start ny gratis prøveperiode"
+
+#: public/js/admin/index.js:9799 public/js/admin/index.js:9891
+#: public/js/admin/index.js:9932
+#: resources/assets/js/admin/jquery/graph/graph.js:16
+msgid "Today"
+msgstr "I dag"
+
+#: public/js/admin/index.js:9805 public/js/admin/index.js:9897
+#: public/js/admin/index.js:9938
+#: resources/assets/js/admin/jquery/graph/graph.js:15
+msgid "Yesterday"
+msgstr "I går"
+
+#: public/js/admin/index.js:9978
+#, fuzzy
+msgid "No Bookings Yet."
+msgstr "Ingen bookinger endnu."
+
+#: public/js/admin/index.js:10257
+#, fuzzy
+msgid "Welcome! Let's get started."
+msgstr "Velkommen! Lad os komme i gang."
+
+#: public/js/admin/index.js:10261
+#, fuzzy
+msgid "You're off to a great start!"
+msgstr "Du har en god start!"
+
+#: public/js/admin/index.js:10389 public/js/flows/default-appointment.js:9689
+#, fuzzy
+msgid "Add Services"
+msgstr "Tilføj tjenester"
+
+#: public/js/admin/index.js:10408
+#, fuzzy
+msgid "Adjust Availability"
+msgstr "Juster tilgængelighed"
+
+#: public/js/admin/index.js:10427
+#, fuzzy
+msgid "Connect Calendar"
+msgstr "Opret forbindelse til kalender"
+
+#: public/js/admin/index.js:10446
+#, fuzzy
+msgid "Review Booking Page"
+msgstr "Siden Gennemse booking"
+
+#: public/js/admin/index.js:10456
+#, fuzzy
+msgid "You've created a service. Good Job!"
+msgstr "Du har oprettet en tjeneste. Godt gjort!"
+
+#: public/js/admin/index.js:10459
+#, fuzzy
+msgid "Add more services or move onto adjusting your availability."
+msgstr ""
+"Tilføj flere tjenester, eller gå over til at justere din tilgængelighed."
+
+#: public/js/admin/index.js:10475
+#, fuzzy
+msgid "Create another service"
+msgstr "Oprette en anden tjeneste"
+
+#: public/js/admin/index.js:10479
+#, fuzzy
+msgid "Want to try out classes or group events instead of appointments?"
+msgstr "Vil du afprøve klasser eller gruppebegivenheder i stedet for aftaler?"
+
+#: public/js/admin/index.js:10486
+#, fuzzy
+msgid "Log into Start Booking"
+msgstr "Log på Start booking"
+
+#: public/js/admin/index.js:10488
+#, fuzzy
+msgid "to get started creating classes."
+msgstr "for at komme i gang med at oprette klasser."
+
+#: public/js/admin/index.js:10505
+#, fuzzy
+msgid "Learn more about services"
+msgstr "Få mere at vide om tjenester"
+
+#: public/js/admin/index.js:10511
+#, fuzzy
+msgid "Create your services"
+msgstr "Opret dine tjenester"
+
+#: public/js/admin/index.js:10514
+#, fuzzy
+msgid "Create the services that you want your customers to book."
+msgstr "Opret de tjenester, som kunderne skal booke."
+
+#: public/js/admin/index.js:10530 public/js/admin/index.js:24598
+#, fuzzy
+msgid "Create Service"
+msgstr "Opret service"
+
+#: public/js/admin/index.js:10534
+#, fuzzy
+msgid "Do you offer classes or group events? Consider "
+msgstr "Tilbyder du hold eller gruppearrangementer? Overveje "
+
+#: public/js/admin/index.js:10541
+#, fuzzy
+msgid "creating a class instead"
+msgstr "oprette en klasse i stedet"
+
+#: public/js/admin/index.js:10560
+#, fuzzy
+msgid "Learn more about creating services"
+msgstr "Få mere at vide om oprettelse af tjenester"
+
+#: public/js/admin/index.js:10568
+#, fuzzy
+msgid "You've adjusted your availability. Good job!"
+msgstr "Du har justeret din tilgængelighed. Godt gjort!"
+
+#: public/js/admin/index.js:10571
+#, fuzzy
+msgid "Still looking for more control of your availability? Head over to "
+msgstr ""
+"Leder du stadig efter mere kontrol over din tilgængelighed? Gå over til "
+
+#: public/js/admin/index.js:10580
+#, fuzzy
+msgid "to review all options for your account."
+msgstr "for at gennemgå alle indstillinger for din konto."
+
+#: public/js/admin/index.js:10596 public/js/admin/index.js:10631
+#, fuzzy
+msgid "Learn more about availability"
+msgstr "Få mere at vide om tilgængelighed"
+
+#: public/js/admin/index.js:10602
+#, fuzzy
+msgid "Adjust your availability"
+msgstr "Juster din tilgængelighed"
+
+#: public/js/admin/index.js:10605
+#, fuzzy
+msgid ""
+"Set your availability so we know when to display times to your customers. "
+"For more control over your availability, visit "
+msgstr ""
+"Indstil din tilgængelighed, så vi ved, hvornår vi skal vise tider til dine "
+"kunder. Du kan få mere kontrol over tilgængeligheden på "
+
+#: public/js/admin/index.js:10640
+#, fuzzy
+msgid "Connect calendar skipped"
+msgstr "Forbindelseskalenderen blev sprunget over"
+
+#: public/js/admin/index.js:10677
+#, fuzzy
+msgid "Marked as complete"
+msgstr "Markeret som fuldført"
+
+#: public/js/admin/index.js:10680 public/js/admin/index.js:10819
+#, fuzzy
+msgid "I don't use Google Calendar"
+msgstr "Jeg bruger ikke Google Kalender"
+
+#: public/js/admin/index.js:10701 public/js/admin/index.js:10749
+#: public/js/admin/index.js:10840
+#, fuzzy
+msgid "Learn more about Google Calendar"
+msgstr "Læs mere om Google Kalender"
+
+#: public/js/admin/index.js:10707
+#, fuzzy
+msgid "Calendar Connected"
+msgstr "Kalender tilsluttet"
+
+#: public/js/admin/index.js:10710
+#, fuzzy
+msgid ""
+"Good work connecting your calendar. To learn more about how the Google "
+"Calendar integration works see our"
+msgstr ""
+"Godt arbejde at forbinde din kalender. Hvis du vil vide mere om, hvordan "
+"Google Kalender-integrationen fungerer, kan du se vores"
+
+#: public/js/admin/index.js:10713
+#, fuzzy
+msgid "integration overview"
+msgstr "oversigt over integration"
+
+#: public/js/admin/index.js:10721
+#, fuzzy
+msgid "View Integrations"
+msgstr "Vis integrationer"
+
+#: public/js/admin/index.js:10756
+#, fuzzy
+msgid "Connect your calendar"
+msgstr "Tilslut din kalender"
+
+#: public/js/admin/index.js:10759
+#, fuzzy
+msgid "Connect your calendar with Google Calendar."
+msgstr "Forbind din kalender med Google Kalender."
+
+#: public/js/admin/index.js:10768
+#, fuzzy
+msgid "Connect Google Calendar"
+msgstr "Tilslut Google Kalender"
+
+#: public/js/admin/index.js:10816
+msgid "Mark complete"
+msgstr "Marker som færdig"
+
+#: public/js/admin/index.js:10847
+#, fuzzy
+msgid "Take a look at your booking page. It looks good!"
+msgstr "Tag et kig på din bookingside. Det ser godt ud!"
+
+#: public/js/admin/index.js:10850
+#, fuzzy
+msgid ""
+"We already created a booking page for you. Review what your customers will "
+"see when booking with you."
+msgstr ""
+"Vi har allerede oprettet en bookingside til dig. Gennemgå, hvad dine kunder "
+"vil se, når du booker hos dig."
+
+#: public/js/admin/index.js:10997
+#, fuzzy
+msgid "No Activity Yet."
+msgstr "Ingen aktivitet endnu."
+
+#: public/js/admin/index.js:11004 public/js/admin/index.js:11133
+#: public/js/admin/index.js:11193
+msgid "Recent Activity"
+msgstr "Seneste aktivitet"
+
+#: public/js/admin/index.js:11034 public/js/admin/index.js:11084
+#: public/js/admin/index.js:11109
+#, fuzzy
+msgid "Consultation"
+msgstr "Høring"
+
+#: public/js/admin/index.js:11059
+#, fuzzy
+msgid "Inteview"
+msgstr "Inteview"
+
+#: public/js/admin/index.js:24024
+#, fuzzy
+msgid "Almost there! Confirm your account details."
+msgstr "Næsten der! Bekræft dine kontooplysninger."
+
+#: public/js/admin/index.js:24025
+#, fuzzy
+msgid "Enter your account details to activate and save your settings."
+msgstr ""
+"Angiv dine kontooplysninger for at aktivere og gemme dine indstillinger."
+
+#: public/js/admin/index.js:24242 public/js/admin/index.js:26803
+msgid "Sort"
+msgstr "Sorter"
+
+#: public/js/admin/index.js:24249
+msgid "Create"
+msgstr "Opret"
+
+#: public/js/admin/index.js:24257
+#, fuzzy
+msgid "Back to Service List"
+msgstr "Tilbage til servicelisten"
+
+#: public/js/admin/index.js:24492
+#, fuzzy
+msgid "Name is required"
+msgstr "Efternavn er påkrævet"
+
+#: public/js/admin/index.js:24497
+msgid "Description is required"
+msgstr "Beskrivelse er påkrævet"
+
+#: public/js/admin/index.js:24502
+#, fuzzy
+msgid "Duration is required"
+msgstr "Varighed er påkrævet"
+
+#: public/js/admin/index.js:24507
+#, fuzzy
+msgid "Please select the users that can fulfill this service"
+msgstr "Vælg de brugere, der kan udføre denne tjeneste"
+
+#: public/js/admin/index.js:24608
+msgid "Close panel"
+msgstr "Luk panel"
+
+#: public/js/admin/index.js:24629
+#, fuzzy
+msgid "Get started by filling in the information below."
+msgstr "Kom i gang ved at udfylde nedenstående oplysninger."
+
+#: public/js/admin/index.js:24665 public/js/admin/index.js:26038
+#: public/js/admin/index.js:27063 public/js/admin/index.js:27307
+msgid "Description"
+msgstr "Beskrivelse"
+
+#: public/js/admin/index.js:24715
+msgid "Recovery"
+msgstr "Gendannelse"
+
+#: public/js/admin/index.js:24738 public/js/admin/index.js:26139
+#, fuzzy
+msgid ""
+"Recovery time extends the length of the appointment for you, not the "
+"customer. This enables you to recover from the previous appointment. You "
+"will not be available during the recovery time added."
+msgstr ""
+"Gendannelsestiden forlænger aftalens længde for dig, ikke kunden. Dette "
+"giver dig mulighed for at komme dig efter den forrige aftale. Du vil ikke "
+"være tilgængelig i løbet af den tilføjede gendannelsestid."
+
+#: public/js/admin/index.js:24811 public/js/admin/index.js:26402
+#, fuzzy
+msgid "Assigned Users"
+msgstr "Tildelte brugere"
+
+#: public/js/admin/index.js:24834 public/js/admin/index.js:26405
+#, fuzzy
+msgid "Select users that can perform this service."
+msgstr "Vælg brugere, der kan udføre denne tjeneste."
+
+#: public/js/admin/index.js:24850 public/js/admin/index.js:27590
+#, fuzzy
+msgid "Service Types"
+msgstr "Tjenestetyper"
+
+#: public/js/admin/index.js:24873 public/js/admin/index.js:27615
+#, fuzzy
+msgid "Assign service types to help categorize your services."
+msgstr "Tildel tjenestetyper som en hjælp til at kategorisere dine tjenester."
+
+#: public/js/admin/index.js:24889 public/js/admin/index.js:26451
+msgid "Rooms"
+msgstr "Værelser"
+
+#: public/js/admin/index.js:24927
+msgid "Saving"
+msgstr "Gemmer"
+
+#: public/js/admin/index.js:25161 public/js/admin/index.js:29233
+#, fuzzy
+msgid "No Services"
+msgstr "Services"
+
+#: public/js/admin/index.js:25246 public/js/admin/index.js:26179
+msgid "Status"
+msgstr "Status"
+
+#: public/js/admin/index.js:25348 public/js/admin/index.js:25367
+#: public/js/admin/index.js:26028 public/js/admin/index.js:26602
+#: public/js/admin/index.js:27718 public/js/admin/index.js:27868
+msgid "Delete"
+msgstr "Slet"
+
+#: public/js/admin/index.js:25743
+#, fuzzy
+msgid "Name cannot be empty."
+msgstr "Navnet må ikke være tomt."
+
+#: public/js/admin/index.js:25753
+#, fuzzy
+msgid "Duration cannot be empty."
+msgstr "Varigheden må ikke være tom."
+
+#: public/js/admin/index.js:25936 public/js/admin/index.js:27712
+#: public/js/admin/index.js:27862
+msgid "Edit"
+msgstr "Rediger"
+
+#: public/js/admin/index.js:26019
+#, fuzzy
+msgid ""
+"Booking online is disabled. You can enable online scheduling in the settings "
+"below."
+msgstr ""
+"Booking online er deaktiveret. Du kan aktivere onlineplanlægning i "
+"indstillingerne nedenfor."
+
+#: public/js/admin/index.js:26116
+#, fuzzy
+msgid "Recovery Time"
+msgstr "Genoprettelsestid"
+
+#: public/js/admin/index.js:26225
+#, fuzzy
+msgid "Schedule Online"
+msgstr "Planlæg online"
+
+#: public/js/admin/index.js:26248
+#, fuzzy
+msgid ""
+"If schedule online is disabled, this service will not be publicly displayed "
+"to your customers."
+msgstr ""
+"Hvis tidsplan online er deaktiveret, vises denne tjeneste ikke offentligt "
+"for dine kunder."
+
+#: public/js/admin/index.js:26432
+#, fuzzy
+msgid ""
+"This service is not bookable without at least one user who can perform the "
+"service."
+msgstr ""
+"Denne tjeneste kan ikke bookes uden mindst én bruger, der kan udføre "
+"tjenesten."
+
+#: public/js/admin/index.js:26489
+#, fuzzy
+msgid "Select the rooms for this service."
+msgstr "Vælg værelserne til denne service."
+
+#: public/js/admin/index.js:26586
+#, fuzzy
+msgid "Confirm Delete"
+msgstr "Bekræft sletning"
+
+#: public/js/admin/index.js:26591
+#, fuzzy
+msgid ""
+"Are you sure you want to deactivate your account? All of your data will be "
+"permanently removed from our servers forever. This action cannot be undone."
+msgstr ""
+"Er du sikker på, at du vil deaktivere din konto? Alle dine data vil blive "
+"permanent fjernet fra vores servere for evigt. Denne handling kan ikke "
+"fortrydes."
+
+#: public/js/admin/index.js:27035
+msgid "Add New"
+msgstr "Tilføj ny"
+
+#: public/js/admin/index.js:27278
+msgid "Edit Type"
+msgstr "Rediger biltype"
+
+#: public/js/admin/index.js:27631 public/js/admin/index.js:27781
+#, fuzzy
+msgid "Assign Service Types"
+msgstr "Tildel tjenestetyper"
+
+#: public/js/admin/index.js:27634 public/js/admin/index.js:27784
+#, fuzzy
+msgid "Assign service types to help categorize the service."
+msgstr "Tildel tjenestetyper som en hjælp til at kategorisere tjenesten."
+
+#: public/js/admin/index.js:27763 public/js/admin/index.js:27908
+#, fuzzy
+msgid "to categorize your services by service types."
+msgstr "for at kategorisere dine tjenester efter tjenestetyper."
+
+#: public/js/admin/index.js:28035 public/js/admin/index.js:29638
+#: public/js/admin/index.js:29711
+msgid "Availability"
+msgstr "Tilgængelighed"
+
+#: public/js/admin/index.js:28038
+#, fuzzy
+msgid ""
+"You can manage your basic availability below. For more controls visit the "
+"Start Booking application."
+msgstr ""
+"Du kan administrere din grundlæggende tilgængelighed nedenfor. Du kan finde "
+"flere kontroller i startbooking-applikationen."
+
+#: public/js/admin/index.js:28046
+#, fuzzy
+msgid "All Availability Options"
+msgstr "Alle indstillinger for tilgængelighed"
+
+#: public/js/admin/index.js:28053
+#, fuzzy
+msgid "Basic Availability"
+msgstr "Grundlæggende tilgængelighed"
+
+#: public/js/admin/index.js:28227 public/js/admin/index.js:29641
+#: public/js/admin/index.js:29735
+msgid "Billing"
+msgstr "Fakturering"
+
+#: public/js/admin/index.js:28231
+msgid "Product"
+msgstr "Produkt"
+
+#: public/js/admin/index.js:28242 public/js/admin/index.js:30330
+#: public/js/admin/index.js:30353 public/js/admin/index.js:30376
+#: public/js/admin/index.js:30399 public/js/admin/index.js:30422
+msgid "Manage"
+msgstr "Administrer"
+
+#: public/js/admin/index.js:28362 public/js/admin/index.js:29644
+#: public/js/admin/index.js:29757
+msgid "Communications"
+msgstr "Kommunikationsflows"
+
+#: public/js/admin/index.js:28365
+#, fuzzy
+msgid ""
+"Managing and adjusting your customer communications, such as emails and text "
+"messages, is handled directly on the Start Booking application."
+msgstr ""
+"Administration og justering af din kundekommunikation, f.eks. e-mails og "
+"sms'er, håndteres direkte i startbooking-applikationen."
+
+#: public/js/admin/index.js:28374
+#, fuzzy
+msgid "Manage Communications"
+msgstr "Administrer kommunikation"
+
+#: public/js/admin/index.js:28471 public/js/admin/index.js:28509
+#: public/js/admin/index.js:28531 public/js/admin/index.js:28584
+#, fuzzy
+msgid "Proxy"
+msgstr "Proxy"
+
+#: public/js/admin/index.js:28516 public/js/admin/index.js:28538
+#: public/js/admin/index.js:28591
+msgid "Direct"
+msgstr "Direkte"
+
+#: public/js/admin/index.js:28685
+msgid "Connections"
+msgstr "Venneforbindelser"
+
+#: public/js/admin/index.js:28727
+#, fuzzy
+msgid "Disable Online Booking"
+msgstr "Deaktiver onlinebooking"
+
+#: public/js/admin/index.js:28729
+msgid "Disabled"
+msgstr "Deaktiveret"
+
+#: public/js/admin/index.js:28733
+#, fuzzy
+msgid ""
+"Disabling will keep your connection with Start Booking but will online "
+"booking forms."
+msgstr ""
+"Deaktivering vil holde din forbindelse med Start Booking, men vil online "
+"booking formularer."
+
+#: public/js/admin/index.js:28749
+#, fuzzy
+msgid "API Setting"
+msgstr "API-indstilling"
+
+#: public/js/admin/index.js:28752
+#, fuzzy
+msgid ""
+"If you are experiencing problems with your server cache causing duplicate "
+"appointments or settings not saving, try updating to the Direct method. "
+"Direct allows your plugin to communicate directly with the Start Booking "
+"service. Proxy, which is the default setting, runs all communication with "
+"Start Booking through your WordPress site. When communication is handled via "
+"the proxy option, those communications can be delayed due to your server "
+"configuration."
+msgstr ""
+"Hvis du har problemer med servercachen, der medfører, at dublerede aftaler "
+"eller indstillinger ikke gemmes, kan du prøve at opdatere til metoden "
+"Direct. Direct gør det muligt for dit plugin at kommunikere direkte med "
+"startbookingtjenesten. Proxy, som er standardindstillingen, kører al "
+"kommunikation med Start Booking via dit WordPress-websted. Når "
+"kommunikationen håndteres via proxyindstillingen, kan denne kommunikation "
+"blive forsinket på grund af serverkonfigurationen."
+
+#: public/js/admin/index.js:28793
+#, fuzzy
+msgid ""
+"If you are having some issues with your connection, reconnect to establish a "
+"new connection. This process will not delete any of your other settings."
+msgstr ""
+"Hvis du har problemer med forbindelsen, skal du oprette forbindelse igen for "
+"at oprette en ny forbindelse. Denne proces sletter ikke nogen af dine andre "
+"indstillinger."
+
+#: public/js/admin/index.js:28863 public/js/admin/index.js:28873
+msgid "Disconnect"
+msgstr "Afbryd"
+
+#: public/js/admin/index.js:28866
+#, fuzzy
+msgid ""
+"Disconnecting Start Booking will delete all settings from your WordPress "
+"website. This does not cancel your account or delete anything on the Start "
+"Booking application."
+msgstr ""
+"Hvis du afbryder Startbooking, slettes alle indstillinger fra dit WordPress-"
+"websted. Dette annullerer ikke din konto eller sletter noget i "
+"startbestillingsansøgningen."
+
+#: public/js/admin/index.js:28970 public/js/admin/index.js:29223
+#: public/js/blocks/call-to-action.js:2294
+msgid "Select Service"
+msgstr "Vælg service"
+
+#: public/js/admin/index.js:28975 public/js/admin/index.js:28979
+msgid "True"
+msgstr "Sandt"
+
+#: public/js/admin/index.js:28982
+msgid "False"
+msgstr "Falsk"
+
+#: public/js/admin/index.js:29093 public/js/admin/index.js:29635
+#: public/js/admin/index.js:29689
+#, fuzzy
+msgid "Embed Options"
+msgstr "Indstillinger for integrering"
+
+#: public/js/admin/index.js:29096
+#, fuzzy
+msgid ""
+"Embedding the Start Booking form on a page or post is really simple. You "
+"have the option to use either the Start Booking blocks or shortcodes in the "
+"WordPress editor."
+msgstr ""
+"Det er virkelig nemt at integrere startbestillingsformularen på en side "
+"eller et indlæg. Du har mulighed for at bruge enten Start Booking-blokke "
+"eller kortkoder i WordPress-editoren."
+
+#: public/js/admin/index.js:29111
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: public/js/admin/index.js:29114
+#, fuzzy
+msgid ""
+"To use the Start Booking shortcodes, navigate to any page or post (create or "
+"edit screen) and copy and paste one of the below shortcodes where you want "
+"your booking form to display."
+msgstr ""
+"Hvis du vil bruge startbooking-kortkoderne, skal du gå til en hvilken som "
+"helst side eller post (opret eller rediger skærm) og kopiere og indsætte en "
+"af nedenstående kortkoder, hvor din reservationsformular skal vises."
+
+#: public/js/admin/index.js:29124 public/js/admin/index.js:29366
+#, fuzzy
+msgid "Displays a full list of your services"
+msgstr "Viser en komplet liste over dine tjenester"
+
+#: public/js/admin/index.js:29159 public/js/admin/index.js:29385
+#: public/js/blocks/single-service.js:1871
+#, fuzzy
+msgid "Single Service"
+msgstr "Enkelt service"
+
+#: public/js/admin/index.js:29162 public/js/admin/index.js:29388
+#, fuzzy
+msgid "Displays a preconfigured single service"
+msgstr "Viser en forudkonfigureret enkelt tjeneste"
+
+#: public/js/admin/index.js:29197
+#, fuzzy
+msgid "Service: The ID of your service you want to display."
+msgstr "Service: Id'et for den tjeneste, du vil have vist."
+
+#: public/js/admin/index.js:29200
+#, fuzzy
+msgid ""
+"Details: When set to true, the service box will be displayed. When set to "
+"false, the service box will be skipped and will go to the next step in the "
+"booking process."
+msgstr ""
+"Detaljer: Når serviceboksen er indstillet til sand, vises den. Når den er "
+"angivet til falsk, springes serviceboksen over og går til næste trin i "
+"bookingprocessen."
+
+#: public/js/admin/index.js:29215
+#, fuzzy
+msgid "Single Service Shortcode Generator"
+msgstr "Generator til kortkode til enkelt service"
+
+#: public/js/admin/index.js:29218
+#, fuzzy
+msgid ""
+"Select your service and options below to generate a preconfigured shortcode."
+msgstr ""
+"Vælg din tjeneste og indstillinger nedenfor for at generere en "
+"forudkonfigureret kortkode."
+
+#: public/js/admin/index.js:29237
+#, fuzzy
+msgid "Display Service Details"
+msgstr "Vis oplysninger om tjeneste"
+
+#: public/js/admin/index.js:29287
+#, fuzzy
+msgid "Displays a calendar and list of your available classes"
+msgstr "Viser en kalender og en liste over dine tilgængelige klasser"
+
+#: public/js/admin/index.js:29332
+msgid "Blocks"
+msgstr "Blokke"
+
+#: public/js/admin/index.js:29335
+#, fuzzy
+msgid ""
+"To use the Start Booking Gutenberg blocks, navigate to any page or post "
+"(create or edit screen) and select one of the blocks listed below."
+msgstr ""
+"Hvis du vil bruge Start Booking Gutenberg-blokkene, skal du gå til en "
+"hvilken som helst side eller post (opret eller rediger skærm) og vælge en af "
+"de blokke, der er angivet nedenfor."
+
+#: public/js/admin/index.js:29410
+#, fuzzy
+msgid "Displays a full list of your classes"
+msgstr "Viser en komplet liste over dine klasser"
+
+#: public/js/admin/index.js:29429
+#, fuzzy
+msgid "Call to action button"
+msgstr "Knappen Kald til handling"
+
+#: public/js/admin/index.js:29432
+#, fuzzy
+msgid "Displays a preconfigured booking button"
+msgstr "Viser en forudkonfigureret bookingknap"
+
+#: public/js/admin/index.js:29647 public/js/admin/index.js:29777
+#: public/js/admin/index.js:29980
+msgid "Integrations"
+msgstr "Integrationer"
+
+#: public/js/admin/index.js:29650 public/js/admin/index.js:29799
+#: public/js/admin/index.js:30161
+msgid "Reporting"
+msgstr "Rapportering"
+
+#: public/js/admin/index.js:29653 public/js/admin/index.js:29819
+#: public/js/admin/index.js:30541
+msgid "Users"
+msgstr "Brugere"
+
+#: public/js/admin/index.js:29656 public/js/admin/index.js:29863
+msgid "Connection"
+msgstr "Forbindelse"
+
+#: public/js/admin/index.js:29983
+#, fuzzy
+msgid "Managing your"
+msgstr "Administration af din"
+
+#: public/js/admin/index.js:29987
+msgid "integrations"
+msgstr "integrationer"
+
+#: public/js/admin/index.js:29988
+#, fuzzy
+msgid "is handled directly on the"
+msgstr "håndteres direkte på"
+
+#: public/js/admin/index.js:29988
+#, fuzzy
+msgid "application"
+msgstr "Program"
+
+#: public/js/admin/index.js:29997
+#, fuzzy
+msgid "Manage Integrations"
+msgstr "Administrere integrationer"
+
+#: public/js/admin/index.js:30042
+#, fuzzy
+msgid "More coming soon"
+msgstr "Flere kommer snart"
+
+#: public/js/admin/index.js:30164
+#, fuzzy
+msgid ""
+"Viewing and downloading reports is handled directly on the Start Booking "
+"application."
+msgstr ""
+"Visning og download af rapporter håndteres direkte på startbooking-"
+"applikationen."
+
+#: public/js/admin/index.js:30173
+msgid "View Reports"
+msgstr "Se rapporter"
+
+#: public/js/admin/index.js:30295
+#, fuzzy
+msgid "Review the available settings for your account and booking forms."
+msgstr ""
+"Gennemgå de tilgængelige indstillinger for din konto og bookingformularer."
+
+#: public/js/admin/index.js:30317
+#, fuzzy
+msgid "Openings Interval"
+msgstr "Interval for åbninger"
+
+#: public/js/admin/index.js:30321
+#, fuzzy
+msgid ""
+"Set the interval of time for available openings. Default is every 30 minutes."
+msgstr ""
+"Angiv tidsintervallet for tilgængelige åbninger. Standard er hvert 30. minut."
+
+#: public/js/admin/index.js:30340
+#, fuzzy
+msgid "Time Display"
+msgstr "Visning af klokkeslæt"
+
+#: public/js/admin/index.js:30344
+#, fuzzy
+msgid "Control whether you display time in 12 or 24 hours."
+msgstr "Kontroller, om du får vist tid om 12 eller 24 timer."
+
+#: public/js/admin/index.js:30363
+msgid "Locale"
+msgstr "Lande kode"
+
+#: public/js/admin/index.js:30367
+#, fuzzy
+msgid "Set the locale of your account to adjust the date and time formats."
+msgstr ""
+"Angiv landestandarden for din konto for at justere dato- og "
+"klokkeslætsformaterne."
+
+#: public/js/admin/index.js:30386
+msgid "Currency"
+msgstr "Valuta"
+
+#: public/js/admin/index.js:30390
+#, fuzzy
+msgid "Change the currency that is used with payments through Start Booking."
+msgstr "Skift den valuta, der bruges sammen med betalinger via Start booking."
+
+#: public/js/admin/index.js:30409
+msgid "Cancellations"
+msgstr "Annulleringer"
+
+#: public/js/admin/index.js:30413
+#, fuzzy
+msgid "Adjust how your cancellations work."
+msgstr "Juster, hvordan dine aflysninger fungerer."
+
+#: public/js/admin/index.js:30544
+#, fuzzy
+msgid ""
+"Adding and managing your users is handled directly on the Start Booking "
+"application."
+msgstr ""
+"Tilføjelse og administration af dine brugere håndteres direkte på "
+"startbookingprogrammet."
+
+#: public/js/admin/index.js:30553
+msgid "Manage Users"
+msgstr "Administrer brugere"
+
+#: public/js/admin/index.js:30848 public/js/admin/index.js:30968
+msgid "Go to"
+msgstr "Gå til"
+
+#: public/js/admin/index.js:30863
+#, fuzzy
+msgid "Open main menu"
+msgstr "Åbn hovedmenu"
+
+#: public/js/admin/index.js:31031 public/js/admin/index.js:31621
+#: public/js/admin/index.js:31633 public/js/admin/index.js:31645
+#: public/js/admin/index.js:31665 public/js/admin/index.js:31685
+#: public/js/admin/index.js:31815 public/js/blocks/call-to-action.js:2074
+#: public/js/blocks/default-appointment.js:2074
+#: public/js/blocks/default-classes.js:5056
+#: public/js/flows/default-appointment.js:2350
+#: public/js/flows/default-classes.js:5301
+#: public/js/flows/single-service.js:2350
+#: resources/assets/js/admin/reducers/account/accountOptionsReducer.js:27
+#: resources/assets/js/admin/reducers/customFieldsReducer.js:22
+#: resources/assets/js/admin/reducers/customFieldsReducer.js:38
+#: resources/assets/js/admin/reducers/customFieldsReducer.js:53
+#: resources/assets/js/admin/reducers/customFieldsReducer.js:77
+#: resources/assets/js/admin/reducers/customFieldsReducer.js:101
+#: resources/assets/js/admin/reducers/editorReducer.js:45
+msgid "Saved"
+msgstr "Gemt"
+
+#: public/js/admin/index.js:31512 public/js/admin/index.js:31520
+msgid "Success"
+msgstr "Succes"
+
+#: public/js/admin/index.js:31527
+#, fuzzy
+msgid "Status updated"
+msgstr "Status opdateret"
+
+#: public/js/admin/index.js:31547
+#, fuzzy
+msgid "Cancelled schedule"
+msgstr "Annulleret tidsplan"
+
+#: public/js/admin/index.js:31566
+#, fuzzy
+msgid "Deleted schedule"
+msgstr "Slettet tidsplan"
+
+#: public/js/blocks/call-to-action.js:2184
+#, fuzzy
+msgid "Call to Action Button"
+msgstr "Knappen Opfordring til handling"
+
+#: public/js/blocks/call-to-action.js:2185
+#, fuzzy
+msgid ""
+"Add a button on any page to enter a booking flow that has a pre-selected "
+"cart."
+msgstr ""
+"Tilføj en knap på en hvilken som helst side for at angive et bookingflow, "
+"der har en forudvalgt indkøbskurv."
+
+#: public/js/blocks/call-to-action.js:2227
+msgid "Book Now"
+msgstr "Book nu"
+
+#: public/js/blocks/call-to-action.js:2323
+#, fuzzy
+msgid "Select Provider"
+msgstr "Vælg udbyder"
+
+#: public/js/blocks/call-to-action.js:2352
+msgid "Select Type"
+msgstr "Vælg type"
+
+#: public/js/blocks/call-to-action.js:2377
+#: public/js/blocks/default-appointment.js:2263
+#: public/js/blocks/default-classes.js:5416
+#: public/js/blocks/legacy-class.js:15100
+#: public/js/blocks/single-service.js:2058
+#, fuzzy
+msgid "Start Booking Quick Links"
+msgstr "Start booking af hurtige links"
+
+#: public/js/blocks/call-to-action.js:2381
+msgid "My Services"
+msgstr "Mine services"
+
+#: public/js/blocks/call-to-action.js:2384
+#: public/js/blocks/single-service.js:2065
+msgid "Options"
+msgstr "Indstillinger"
+
+#: public/js/blocks/call-to-action.js:2386
+#, fuzzy
+msgid "Service Type"
+msgstr "Tjenestetype"
+
+#: public/js/blocks/call-to-action.js:2400
+msgid "Provider"
+msgstr "Udbyder"
+
+#: public/js/blocks/call-to-action.js:2408
+#: public/js/blocks/single-service.js:2075
+msgid "Button"
+msgstr "Knap"
+
+#: public/js/blocks/call-to-action.js:2410
+#: public/js/blocks/single-service.js:2077
+msgid "Text"
+msgstr "Tekst"
+
+#: public/js/blocks/call-to-action.js:2724
+#: public/js/blocks/default-appointment.js:2630
+#: public/js/blocks/default-classes.js:5927
+#: public/js/flows/default-appointment.js:11279
+#: public/js/flows/default-classes.js:12725
+#: public/js/flows/single-service.js:10298
+#: resources/assets/js/front-end/reducers/customerReducer.js:26
+#, fuzzy
+msgid "Spam Detected"
+msgstr "Der blev fundet spam"
+
+#: public/js/blocks/default-appointment.js:2187
+#, fuzzy
+msgid "Embed the service flow to capture new appointments."
+msgstr "Integrer serviceflowet for at hente nye aftaler."
+
+#: public/js/blocks/default-appointment.js:2200
+#, fuzzy
+msgid "Select Your Date & Time"
+msgstr "Vælg dato og klokkeslæt"
+
+#: public/js/blocks/default-appointment.js:2220
+#, fuzzy
+msgid "Available times for"
+msgstr "Tilgængelige tidspunkter for"
+
+#: public/js/blocks/default-classes.js:5177
+#, fuzzy
+msgid "Embed the classes flow to allow customers to join."
+msgstr "Integrer klasseflowet for at give kunderne mulighed for at deltage."
+
+#: public/js/blocks/default-classes.js:5191
+#, fuzzy
+msgid "Available times on"
+msgstr "Tilgængelige tider på"
+
+#: public/js/blocks/default-classes.js:5239
+msgid "Single"
+msgstr "Single"
+
+#: public/js/blocks/default-classes.js:5247
+#, fuzzy
+msgid "Filter Class"
+msgstr "Filtrer klasse"
+
+#: public/js/blocks/default-classes.js:5267
+#, fuzzy
+msgid "Nothing Here, Try Again"
+msgstr "Intet her, prøv igen"
+
+#: public/js/blocks/default-classes.js:5271
+msgid "Multiple"
+msgstr "Flere"
+
+#: public/js/blocks/default-classes.js:5275
+#, fuzzy
+msgid "Searching for Classes"
+msgstr "Søger efter klasser"
+
+#: public/js/blocks/default-classes.js:5405
+#, fuzzy
+msgid "Select A Class"
+msgstr "Vælg en klasse"
+
+#: public/js/blocks/default-classes.js:5424
+#: public/js/blocks/legacy-class.js:15108
+#, fuzzy
+msgid "Schedules"
+msgstr "Tidsplaner"
+
+#: public/js/blocks/default-classes.js:5431
+msgid "Filters"
+msgstr "Filtre"
+
+#: public/js/blocks/default-classes.js:5433
+msgid "Class"
+msgstr "Klasse"
+
+#: public/js/blocks/legacy-class.js:15088
+#: public/js/blocks/legacy-class.js:15148
+#, fuzzy
+msgid "Legacy Classes"
+msgstr "Ældre klasser"
+
+#: public/js/blocks/legacy-class.js:15089
+#, fuzzy
+msgid "Embed the classes flow to capture new attendees."
+msgstr "Integrer klasseflowet for at fange nye deltagere."
+
+#: public/js/blocks/legacy-class.js:15131
+#, fuzzy
+msgid "Loading the booking application..."
+msgstr "Indlæser bookingansøgningen..."
+
+#: public/js/blocks/legacy-class.js:15149
+#, fuzzy
+msgid "Upgrade to gain access to Start Booking class functionality."
+msgstr ""
+"Opgrader for at få adgang til startklassefunktionaliteten Start booking."
+
+#: public/js/blocks/legacy-class.js:15161
+#, fuzzy
+msgid "Upgrade to gain access to class functionality."
+msgstr "Opgrader for at få adgang til klassefunktionalitet."
+
+#: public/js/blocks/single-service.js:1872
+#, fuzzy
+msgid ""
+"Embed the details of a single service and the ability to book that service."
+msgstr ""
+"Integrer detaljerne om en enkelt tjeneste og muligheden for at booke denne "
+"tjeneste."
+
+#: public/js/blocks/single-service.js:2047
+#, fuzzy
+msgid "Select A Service"
+msgstr "Vælg service"
+
+#: public/js/flows/default-appointment.js:3744
+#: public/js/flows/default-appointment.js:6133
+#: public/js/flows/default-appointment.js:6174
+#: public/js/flows/default-appointment.js:6226
+#: public/js/flows/default-classes.js:6543
+#: public/js/flows/single-service.js:3711
+#: public/js/flows/single-service.js:6100
+#: public/js/flows/single-service.js:6141
+#: public/js/flows/single-service.js:6193
+#, fuzzy
+msgid "Service Duration"
+msgstr "Tjenestens varighed"
+
+#: public/js/flows/default-appointment.js:4392
+#: public/js/flows/default-classes.js:7303
+#: public/js/flows/single-service.js:4359
+msgid "Coupon"
+msgstr "Kupon"
+
+#: public/js/flows/default-appointment.js:4422
+#: public/js/flows/default-classes.js:7333
+#: public/js/flows/single-service.js:4389
+msgid "Discount"
+msgstr "Rabat"
+
+#: public/js/flows/default-appointment.js:4424
+#: public/js/flows/default-classes.js:7335
+#: public/js/flows/single-service.js:4391
+msgid "Invalid Coupon"
+msgstr "Ugyldig rabatkupon"
+
+#: public/js/flows/default-appointment.js:4428
+#: public/js/flows/default-classes.js:7339
+#: public/js/flows/single-service.js:4395
+msgid "Total"
+msgstr "Total"
+
+#: public/js/flows/default-appointment.js:5090
+#: public/js/flows/single-service.js:5057
+#, fuzzy
+msgid "Please select a date between"
+msgstr "Vælg en dato mellem"
+
+#: public/js/flows/default-appointment.js:5092
+#: public/js/flows/single-service.js:5059
+#, fuzzy
+msgid "Please select a date after"
+msgstr "Vælg en dato efter"
+
+#: public/js/flows/default-appointment.js:5094
+#: public/js/flows/single-service.js:5061
+#, fuzzy
+msgid "Please select a date before"
+msgstr "Vælg en dato før"
+
+#: public/js/flows/default-appointment.js:5107
+#: public/js/flows/single-service.js:5074
+#, fuzzy
+msgid "Selected date is outside available options."
+msgstr "Den valgte dato er uden for de tilgængelige indstillinger."
+
+#: public/js/flows/default-appointment.js:5399
+#: public/js/flows/default-appointment.js:5625
+#: public/js/flows/default-appointment.js:9195
+#: public/js/flows/single-service.js:5366
+#: public/js/flows/single-service.js:5592
+#: public/js/flows/single-service.js:8889
+#, fuzzy
+msgid "Processing Appointment"
+msgstr "Behandler aftale"
+
+#: public/js/flows/default-appointment.js:6194
+#: public/js/flows/single-service.js:6161
+#, fuzzy
+msgid "Service Selected"
+msgstr "Tjeneste valgt"
+
+#: public/js/flows/default-appointment.js:6249
+#: public/js/flows/default-classes.js:10388
+#: public/js/flows/single-service.js:6216
+#, fuzzy
+msgid "Online booking disabled"
+msgstr "Online booking deaktiveret"
+
+#: public/js/flows/default-appointment.js:7628
+#: public/js/flows/default-classes.js:10869
+#: public/js/flows/single-service.js:7322
+msgid "Phone is required"
+msgstr "Telefonnummer er påkrævet"
+
+#: public/js/flows/default-appointment.js:7808
+#: public/js/flows/default-classes.js:11056
+#: public/js/flows/single-service.js:7502
+#, fuzzy
+msgid "We have securely populated a profile that matches this email address."
+msgstr "Vi har sikkert udfyldt en profil, der matcher denne e-mail-adresse."
+
+#: public/js/flows/default-appointment.js:7966
+#: public/js/flows/default-classes.js:11214
+#: public/js/flows/single-service.js:7660
+msgid "Warning"
+msgstr "Advarsel"
+
+#: public/js/flows/default-appointment.js:7967
+#: public/js/flows/default-classes.js:11215
+#: public/js/flows/single-service.js:7661
+#, fuzzy
+msgid ""
+"Your site is loading the secure checkout form without a SSL certificate. SSL "
+"certificates keep your connection with the website secure."
+msgstr ""
+"Dit websted indlæser den sikre betalingsformular uden et SSL-certifikat. SSL-"
+"certifikater holder din forbindelse til hjemmesiden sikker."
+
+#: public/js/flows/default-appointment.js:7970
+#: public/js/flows/default-classes.js:11218
+#: public/js/flows/single-service.js:7664
+#, fuzzy
+msgid "Learn how to resolve this"
+msgstr "Få mere at vide om, hvordan du løser dette problem"
+
+#: public/js/flows/default-appointment.js:8388
+#: public/js/flows/single-service.js:8082
+msgid "Remove"
+msgstr "Fjern"
+
+#: public/js/flows/default-appointment.js:8405
+#: public/js/flows/default-appointment.js:8423
+#: public/js/flows/default-classes.js:12112
+#: public/js/flows/single-service.js:8099
+#: public/js/flows/single-service.js:8117
+msgid "Skip"
+msgstr "Spring over"
+
+#: public/js/flows/default-appointment.js:8953
+#: public/js/flows/single-service.js:8647
+#, fuzzy
+msgid "Searching Availability"
+msgstr "Søgetilgængelighed"
+
+#: public/js/flows/default-appointment.js:9665
+#, fuzzy
+msgid "There are no services for this service type."
+msgstr "Der er ingen tjenester for denne tjenestetype."
+
+#: public/js/flows/default-appointment.js:9672
+msgid "Go Back"
+msgstr "Gå tilbage"
+
+#: public/js/flows/default-appointment.js:9687
+#, fuzzy
+msgid "Oops... Looks like you don't have any services."
+msgstr "Ups... Det ser ud til, at du ikke har nogen tjenester."
+
+#: public/js/flows/default-appointment.js:9698
+#, fuzzy
+msgid "A great online booking experience is coming soon..."
+msgstr "En stor online booking oplevelse kommer snart ..."
+
+#: public/js/flows/default-appointment.js:10856
+#, fuzzy
+msgid "Booking is disabled. Check back later."
+msgstr "Booking er deaktiveret. Vend tilbage senere."
+
+#: public/js/flows/default-classes.js:6865
+msgid "All Day"
+msgstr "Hele dagen"
+
+#: public/js/flows/default-classes.js:7835
+#: public/js/flows/default-classes.js:8036
+#: public/js/flows/default-classes.js:11595
+#, fuzzy
+msgid "Joining..."
+msgstr "Tiltræder..."
+
+#: resources/assets/js/admin/jquery/graph/graph.js:66
+msgid "Bookings"
+msgstr "Bookinger"
+
+#: resources/assets/js/admin/utils/customFields.js:5
+msgid "Single Line Text"
+msgstr "Tekst til enkelt linje"
+
+#: resources/assets/js/admin/utils/customFields.js:6
+msgid "Paragraph Text"
+msgstr "Afsnitstekst"
+
+#: resources/assets/js/admin/utils/customFields.js:7
+msgid "Dropdown"
+msgstr "Dropdown"
+
+#: resources/assets/js/admin/utils/customFields.js:8
+msgid "Heading"
+msgstr "Overskrift"
+
+#: resources/assets/js/admin/utils/customFields.js:9
+msgid "Line Separator"
+msgstr "lineadskiller"
+
+#: resources/assets/js/admin/utils/prefilledEvents.js:7
+#: resources/assets/js/admin/utils/prefilledEvents.js:29
+#, fuzzy
+msgid "Hair cut"
+msgstr "Hår klippe"
+
+#: resources/assets/js/admin/utils/prefilledEvents.js:8
+#, fuzzy
+msgid "Clipper or scissor cut."
+msgstr "Klipper eller saks skåret."
+
+#: resources/assets/js/admin/utils/prefilledEvents.js:18
+#, fuzzy
+msgid "Facial"
+msgstr "Ansigtet"
+
+#: resources/assets/js/admin/utils/prefilledEvents.js:19
+#, fuzzy
+msgid ""
+"Our facial regimen was created to target specific needs, increase skin "
+"health, and enhance your appearance."
+msgstr ""
+"Vores ansigtsregime blev oprettet for at målrette specifikke behov, øge "
+"hudens sundhed og forbedre dit udseende."
+
+#: resources/assets/js/admin/utils/prefilledEvents.js:30
+#, fuzzy
+msgid "Get your hair washed, cut and styled by our professional team."
+msgstr "Få vasket, klippet og stylet af vores professionelle team."
+
+#: resources/assets/js/admin/utils/prefilledEvents.js:40
+#, fuzzy
+msgid "30 minute consultation"
+msgstr "30 minutters høring"
+
+#: resources/assets/js/admin/utils/prefilledEvents.js:41
+#, fuzzy
+msgid "Initial introduction to get to know each other a little better."
+msgstr "Indledende introduktion for at lære hinanden lidt bedre at kende."
+
+#. Plugin URI of the plugin/theme
+#, fuzzy
+msgid "https://www.startbooking.com/"
+msgstr "https://www.startbooking.com/"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid ""
+"Integrate online booking service StartBooking.com. Including an appointment "
+"form for customers to book directly on your website and a widget to display "
+"open hours."
+msgstr ""
+"Integrer online booking service StartBooking.com. Herunder en "
+"aftaleformular, hvor kunderne kan booke direkte på din hjemmeside, og en "
+"widget til visning af åbningstider."
+
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "https://www.startbooking.com"
+msgstr "https://www.startbooking.com"

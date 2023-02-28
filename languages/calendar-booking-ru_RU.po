@@ -1,0 +1,2433 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-02-20 14:37-0700\n"
+"PO-Revision-Date: 2021-02-20 14:42-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+#: admin/404.php:1
+#, fuzzy
+msgid "Content not found."
+msgstr "Содержимое не найдено."
+
+#: admin/connected/header.php:26 public/js/admin/index.js:24203
+#: public/js/admin/index.js:25864 public/js/admin/index.js:30799
+#: public/js/admin/index.js:30918
+msgid "Dashboard"
+msgstr "Панель управления"
+
+#: admin/connected/header.php:29 inc/copy.php:47 inc/copy.php:83
+#: inc/widgets/single-service.php:54 public/js/admin/index.js:24224
+#: public/js/admin/index.js:25885 public/js/admin/index.js:27696
+#: public/js/admin/index.js:27700 public/js/admin/index.js:27846
+#: public/js/admin/index.js:27850 public/js/admin/index.js:29121
+#: public/js/admin/index.js:29363 public/js/admin/index.js:30816
+#: public/js/admin/index.js:30939 public/js/blocks/default-appointment.js:2186
+#: public/js/blocks/default-appointment.js:2267
+#: public/js/blocks/single-service.js:2062
+msgid "Services"
+msgstr "Услуги"
+
+#: admin/connected/header.php:32 public/js/admin/index.js:29284
+#: public/js/admin/index.js:29407 public/js/blocks/default-classes.js:5176
+#: public/js/blocks/default-classes.js:5420
+#: public/js/blocks/legacy-class.js:15104
+msgid "Classes"
+msgstr "Классы"
+
+#: admin/connected/header.php:35 public/js/blocks/default-classes.js:5428
+msgid "Form Editor"
+msgstr "Редактор форм"
+
+#: admin/connected/header.php:38 public/js/admin/index.js:29841
+#: public/js/admin/index.js:30292 public/js/admin/index.js:30833
+#: public/js/admin/index.js:30960
+msgid "Settings"
+msgstr "Настройки"
+
+#: admin/connected/header.php:42
+#, fuzzy
+msgid "Go to Start Booking"
+msgstr "Перейти к началу бронирования"
+
+#: inc/admin-connect.php:39
+msgid "Processing"
+msgstr "Обработка"
+
+#: inc/admin-connect.php:43 inc/admin-connect.php:167
+#, fuzzy
+msgid "Invalid response from startbooking.com."
+msgstr "Недействительный ответ от startbooking.com."
+
+#: inc/admin-connect.php:100
+#, fuzzy
+msgid "Invalid API Credentials"
+msgstr "Недействительные учетные данные API"
+
+#: inc/admin-connect.php:101
+msgid "Invalid Password"
+msgstr "Неправильный пароль"
+
+#: inc/admin-connect.php:108
+#, fuzzy
+msgid "Invalid Authentication."
+msgstr "Недействительная аутентификация."
+
+#: inc/admin-connect.php:127 inc/admin-connect.php:163
+#, fuzzy
+msgid "Connection Established."
+msgstr "Соединение установлено."
+
+#: inc/admin-connect.php:131
+#, fuzzy
+msgid "Invalid credentials. Contact Support at startbooking.com"
+msgstr ""
+"Недействительные учетные данные. Контактная поддержка по startbooking.com"
+
+#: inc/base.php:121
+#, fuzzy
+msgid "Get started with online scheduling from"
+msgstr "Начать работу с онлайн-планирования от"
+
+#: inc/base.php:122
+#, fuzzy
+msgid ""
+"Great news, your booking page is live! Activate your account to ensure you "
+"don't miss appointments."
+msgstr ""
+"Отличная новость, ваша страница бронирования в прямом эфире! Активируйте "
+"свою учетную запись, чтобы убедиться, что вы не пропустите встречи."
+
+#: inc/base.php:124
+msgid "Activate"
+msgstr "Активировать"
+
+#: inc/base.php:125
+#, fuzzy
+msgid "Continue setup"
+msgstr "Продолжить настройку"
+
+#: inc/base.php:154 inc/base.php:156 inc/base.php:163
+#, fuzzy
+msgid "Your Start Booking trial expires in "
+msgstr "Срок действия пробной версии Start Booking истекает в "
+
+#: inc/base.php:154
+msgid "day"
+msgstr "день"
+
+#: inc/base.php:156
+msgid "days"
+msgstr "дней"
+
+#: inc/base.php:161
+#, fuzzy
+msgid "Your Start Booking trial expires in the next hour!"
+msgstr ""
+"Срок действия пробной версии Start Booking истекает в течение следующего "
+"часа!"
+
+#: inc/base.php:163 inc/base.php:695 public/js/blocks/single-service.js:2267
+#: public/js/flows/default-appointment.js:3677
+#: public/js/flows/default-appointment.js:6068
+#: public/js/flows/default-classes.js:6476
+#: public/js/flows/single-service.js:3644
+#: public/js/flows/single-service.js:6035
+#: resources/assets/js/front-end/utils/time.js:14
+msgid "hours"
+msgstr "часов"
+
+#: inc/base.php:172 inc/base.php:199
+#, fuzzy
+msgid ""
+"To keep your premium online booking features and data, select a plan today."
+msgstr ""
+"Чтобы сохранить ваши премиум онлайн-функции бронирования и данные, выберите "
+"план сегодня."
+
+#: inc/base.php:174 inc/base.php:201
+msgid "Select a Plan"
+msgstr "Выберите тарифный план"
+
+#: inc/base.php:258
+#, fuzzy
+msgid "Booking Page Created."
+msgstr "Создана страница бронирования."
+
+#: inc/base.php:260
+#, fuzzy
+msgid "Unable to create page."
+msgstr "Невозможно создать страницу."
+
+#: inc/base.php:602 public/js/admin/index.js:4280 public/js/admin/index.js:4701
+#: public/js/admin/index.js:6403 public/js/admin/index.js:8772
+#: public/js/admin/index.js:10240 public/js/admin/index.js:11173
+#: public/js/admin/index.js:23996 public/js/admin/index.js:25208
+#: public/js/admin/index.js:28201 public/js/blocks/single-service.js:2112
+#: public/js/flows/default-appointment.js:4871
+#: public/js/flows/default-classes.js:8623
+#: public/js/flows/default-classes.js:10236
+#: public/js/flows/single-service.js:4838
+msgid "Loading"
+msgstr "Загрузка"
+
+#: inc/base.php:693 public/js/blocks/single-service.js:2265
+#: public/js/flows/default-appointment.js:3675
+#: public/js/flows/default-appointment.js:6066
+#: public/js/flows/default-classes.js:6474
+#: public/js/flows/single-service.js:3642
+#: public/js/flows/single-service.js:6033
+#: resources/assets/js/front-end/utils/time.js:12
+msgid "hour"
+msgstr "час"
+
+#: inc/base.php:699 public/js/blocks/single-service.js:2273
+#: public/js/flows/default-appointment.js:3683
+#: public/js/flows/default-appointment.js:6074
+#: public/js/flows/default-classes.js:6482
+#: public/js/flows/single-service.js:3650
+#: public/js/flows/single-service.js:6041
+#: resources/assets/js/front-end/utils/time.js:18
+msgid "minute"
+msgstr "минута"
+
+#: inc/base.php:701 public/js/blocks/single-service.js:2276
+#: public/js/flows/default-appointment.js:3686
+#: public/js/flows/default-appointment.js:6077
+#: public/js/flows/default-classes.js:6485
+#: public/js/flows/single-service.js:3653
+#: public/js/flows/single-service.js:6044
+#: resources/assets/js/front-end/utils/time.js:21
+msgid "minutes"
+msgstr "минут"
+
+#. Plugin Name of the plugin/theme
+#. Author of the plugin/theme
+#: inc/blocks.php:11 inc/routes.php:7 public/js/admin/index.js:10578
+#: public/js/admin/index.js:10612
+msgid "Start Booking"
+msgstr "Начать бронирование"
+
+#: inc/copy.php:6
+#, fuzzy
+msgid "Select a Date and Time"
+msgstr "Выберите дату и время"
+
+#: inc/copy.php:7
+#, fuzzy
+msgid "Available Times for"
+msgstr "Доступное время для"
+
+#: inc/copy.php:8
+#, fuzzy
+msgid "No appointments available on selected day."
+msgstr "В выбранный день не было назначено ни одной встречи."
+
+#: inc/copy.php:9
+#, fuzzy
+msgid "Looking for available appointments."
+msgstr "Ищу доступные встречи."
+
+#: inc/copy.php:11
+#, fuzzy
+msgid "Selected date is in the past."
+msgstr "Выбранная дата в прошлом."
+
+#: inc/copy.php:12
+#, fuzzy
+msgid "Please select a date and time."
+msgstr "Пожалуйста, выберите дату и время."
+
+#: inc/copy.php:16
+msgid "Your Details"
+msgstr "Ваши данные"
+
+#: inc/copy.php:17
+#, fuzzy
+msgid "Secure Profile Loaded from StartBooking.com"
+msgstr "Безопасный профиль, загруженный StartBooking.com"
+
+#: inc/copy.php:18 public/js/admin/index.js:3708 public/js/admin/index.js:28803
+msgid "Email"
+msgstr "Email"
+
+#: inc/copy.php:19
+msgid "First Name"
+msgstr "Имя"
+
+#: inc/copy.php:20
+msgid "Last Name"
+msgstr "Фамилия"
+
+#: inc/copy.php:21 public/js/admin/index.js:3750
+msgid "Phone Number"
+msgstr "Номер телефона"
+
+#: inc/copy.php:22 inc/copy.php:71 public/js/blocks/default-appointment.js:2228
+#: public/js/blocks/default-classes.js:5235
+#: public/js/blocks/single-service.js:1913
+#: public/js/blocks/single-service.js:1949
+msgid "Continue"
+msgstr "Продолжить"
+
+#: inc/copy.php:25
+#, fuzzy
+msgid "Review & Confirm"
+msgstr "Обзор - Подтвердите"
+
+#: inc/copy.php:26 public/js/admin/index.js:24642
+#: public/js/admin/index.js:27042 public/js/admin/index.js:27286
+msgid "Name"
+msgstr "Имя"
+
+#: inc/copy.php:27
+msgid "Date"
+msgstr "Дата"
+
+#: inc/copy.php:28 inc/copy.php:85
+msgid "Time"
+msgstr "Время"
+
+#: inc/copy.php:29 inc/copy.php:75 public/js/admin/index.js:24685
+#: public/js/admin/index.js:25238 public/js/admin/index.js:26078
+msgid "Duration"
+msgstr "Продолжительность"
+
+#: inc/copy.php:30
+msgid "Service(s)"
+msgstr "Услуга(и)"
+
+#: inc/copy.php:31
+#, fuzzy
+msgid "Confirm Appointment"
+msgstr "Подтверждение назначения"
+
+#: inc/copy.php:34
+#, fuzzy
+msgid "Select Services"
+msgstr "Выбор служб"
+
+#: inc/copy.php:35
+#, fuzzy
+msgid "Select Another Service"
+msgstr "Выберите другую услугу"
+
+#: inc/copy.php:36
+#, fuzzy
+msgid "Select a Service Type"
+msgstr "Выберите тип службы"
+
+#: inc/copy.php:37
+#, fuzzy
+msgid "Loading service types..."
+msgstr "Типы услуг загрузки..."
+
+#: inc/copy.php:39
+#, fuzzy
+msgid "Please select a service to continue."
+msgstr "Пожалуйста, выберите услугу для продолжения работы."
+
+#: inc/copy.php:43
+msgid "Summary"
+msgstr "Резюме"
+
+#: inc/copy.php:44
+msgid "Payment Information"
+msgstr "Платежная информация"
+
+#: inc/copy.php:45 inc/copy.php:60 inc/copy.php:84
+msgid "Appointment"
+msgstr "Назначение"
+
+#: inc/copy.php:46 public/js/admin/index.js:25234
+#: public/js/admin/index.js:26807 public/js/admin/index.js:27698
+#: public/js/admin/index.js:27848 public/js/blocks/call-to-action.js:2393
+#: public/js/blocks/single-service.js:2067
+#: public/js/blocks/single-service.js:2102
+msgid "Service"
+msgstr "Услуга"
+
+#: inc/copy.php:48
+msgid "Total Amount Due"
+msgstr "Итого к оплате"
+
+#: inc/copy.php:49
+msgid "Credit Card"
+msgstr "Кредитная карта"
+
+#: inc/copy.php:50
+#, fuzzy
+msgid "Month / Year"
+msgstr "Месяц / год"
+
+#: inc/copy.php:51
+msgid "CVC"
+msgstr "CVC"
+
+#: inc/copy.php:52
+msgid "Postal Code"
+msgstr "Почтовый индекс"
+
+#: inc/copy.php:53
+msgid "Pay Now"
+msgstr "Оплатить сейчас"
+
+#: inc/copy.php:54
+#, fuzzy
+msgid "Loading Secure Checkout"
+msgstr "Загрузка безопасного оформления заказа"
+
+#: inc/copy.php:57
+msgid "Thank You!"
+msgstr "Спасибо!"
+
+#: inc/copy.php:58
+#, fuzzy
+msgid "We have confirmed your appointment on "
+msgstr "Мы подтвердили ваше назначение на "
+
+#: inc/copy.php:59
+msgid "Customer"
+msgstr "Клиент"
+
+#: inc/copy.php:61
+msgid "Address"
+msgstr "Адрес"
+
+#: inc/copy.php:62
+#, fuzzy
+msgid "We look forward to seeing you!"
+msgstr "Мы с нетерпением ждем встречи с вами!"
+
+#: inc/copy.php:63
+msgid "Done"
+msgstr "Готово"
+
+#: inc/copy.php:66
+#, fuzzy
+msgid "Booking Currently Unavailable"
+msgstr "Бронирование в настоящее время недоступно"
+
+#: inc/copy.php:67
+#, fuzzy
+msgid ""
+"Booking appointments is currently unavailable. Please check again later."
+msgstr ""
+"Бронирование встреч в настоящее время недоступно. Пожалуйста, проверьте еще "
+"раз позже."
+
+#: inc/copy.php:74 public/js/admin/index.js:24766
+#: public/js/admin/index.js:25242 public/js/admin/index.js:26294
+msgid "Price"
+msgstr "Цена"
+
+#: inc/copy.php:76 public/js/admin/index.js:24703
+#: public/js/admin/index.js:24758 public/js/admin/index.js:26107
+#: public/js/admin/index.js:26170
+msgid "Minutes"
+msgstr "Минут"
+
+#: inc/copy.php:79
+msgid "services"
+msgstr "услуги"
+
+#: inc/copy.php:86
+msgid "Details"
+msgstr "Детали"
+
+#: inc/copy.php:87
+msgid "Booked"
+msgstr "Забронированно"
+
+#: inc/shortcodes.php:119 public/js/blocks/default-classes.js:5199
+#: public/js/flows/default-appointment.js:6899
+#: public/js/flows/default-classes.js:9134
+#: public/js/flows/single-service.js:6593
+msgid "Select"
+msgstr "Выбрать"
+
+#: inc/widgets/address.php:6 inc/widgets/address.php:8
+#, fuzzy
+msgid "Start Booking Location Address"
+msgstr "Начало бронирования Адрес местоположения"
+
+#: inc/widgets/address.php:55 inc/widgets/classes.php:32
+#: inc/widgets/hours.php:50 inc/widgets/services.php:30
+#: inc/widgets/single-service.php:49
+msgid "Title"
+msgstr "Заголовок"
+
+#: inc/widgets/address.php:60
+msgid "Map Type"
+msgstr "Тип карти"
+
+#: inc/widgets/address.php:62
+msgid "Road Map"
+msgstr "Карта дорог"
+
+#: inc/widgets/address.php:63
+msgid "Satellite"
+msgstr "Спутник"
+
+#: inc/widgets/address.php:68
+msgid "Map Zoom"
+msgstr "Масштаб карты"
+
+#: inc/widgets/address.php:70
+msgid "No Zoom"
+msgstr "Без увеличения"
+
+#: inc/widgets/address.php:71
+msgid "Level 1"
+msgstr "Уровень 1"
+
+#: inc/widgets/address.php:72
+msgid "Level 2"
+msgstr "Уровень 2"
+
+#: inc/widgets/address.php:73
+msgid "Level 3"
+msgstr "Уровень 3"
+
+#: inc/widgets/address.php:74
+msgid "Level 4"
+msgstr "Уровень 4"
+
+#: inc/widgets/address.php:79
+msgid "Marker Color"
+msgstr "Цвет маркера"
+
+#: inc/widgets/address.php:81
+msgid "Red"
+msgstr "Красный"
+
+#: inc/widgets/address.php:82
+msgid "Blue"
+msgstr "Синий"
+
+#: inc/widgets/address.php:83
+msgid "Green"
+msgstr "Зеленый"
+
+#: inc/widgets/address.php:87
+#, fuzzy
+msgid ""
+"Location address is loaded from your account profile at StartBooking.com."
+msgstr ""
+"Адрес местоположения загружается из профиля вашей учетной записи "
+"StartBooking.com."
+
+#: inc/widgets/address.php:87
+msgid "account"
+msgstr "аккаунт"
+
+#: inc/widgets/address.php:87
+#, fuzzy
+msgid "Update Address"
+msgstr "Адрес обновления"
+
+#: inc/widgets/classes.php:6 inc/widgets/classes.php:8
+#, fuzzy
+msgid "Start Booking Classes"
+msgstr "Начало занятий по бронированию"
+
+#: inc/widgets/classes.php:35
+#, fuzzy
+msgid ""
+"Please use the Start Booking dashboard for class schedules and configuration."
+msgstr ""
+"Пожалуйста, используйте панель мониторинга Start Booking для расписания "
+"классов и конфигурации."
+
+#: inc/widgets/hours.php:6 inc/widgets/hours.php:8
+#, fuzzy
+msgid "Start Booking Hours"
+msgstr "Часы бронирования"
+
+#: inc/widgets/hours.php:37
+msgid "Closed"
+msgstr "Закрыто"
+
+#: inc/widgets/hours.php:54
+msgid "Hide Icon"
+msgstr "Скрыть иконку"
+
+#: inc/widgets/hours.php:57
+#, fuzzy
+msgid ""
+"Your hours are loaded from your account availability at Start Booking.com."
+msgstr "Ваши часы загружаются из наличия учетной записи в Start Booking.com."
+
+#: inc/widgets/hours.php:57
+#, fuzzy
+msgid "account/availability"
+msgstr "учетная запись/доступность"
+
+#: inc/widgets/hours.php:57
+#, fuzzy
+msgid "Manage Availability Hours"
+msgstr "Управление часами доступности"
+
+#: inc/widgets/services.php:6 inc/widgets/services.php:8
+#, fuzzy
+msgid "Start Booking Services"
+msgstr "Начало бронирования услуг"
+
+#: inc/widgets/services.php:33
+#, fuzzy
+msgid "To edit the booking form experience, please use the "
+msgstr "Чтобы отредактировать форму бронирования, пожалуйста, используйте "
+
+#: inc/widgets/services.php:33
+#, fuzzy
+msgid "form editor"
+msgstr "Редактор форм"
+
+#: inc/widgets/single-service.php:6 inc/widgets/single-service.php:8
+#, fuzzy
+msgid "Start Booking Single Service"
+msgstr "Начало бронирования одной услуги"
+
+#: inc/widgets/single-service.php:56
+#, fuzzy
+msgid "Select a Service"
+msgstr "Выберите Услугу"
+
+#: inc/widgets/single-service.php:68
+msgid "Service Details"
+msgstr "Сведения о услуге"
+
+#: inc/widgets/single-service.php:70
+msgid "Show Details"
+msgstr "Показать детали"
+
+#: inc/widgets/single-service.php:71
+#, fuzzy
+msgid "Skip Details"
+msgstr "Пропустить Подробную информацию"
+
+#: public/js/admin/index.js:3516 public/js/flows/default-appointment.js:7617
+#: public/js/flows/default-classes.js:10858
+#: public/js/flows/single-service.js:7311
+msgid "First name is required"
+msgstr "Требуется Имя"
+
+#: public/js/admin/index.js:3521 public/js/flows/default-appointment.js:7622
+#: public/js/flows/default-classes.js:10863
+#: public/js/flows/single-service.js:7316
+msgid "Last name is required"
+msgstr "Фамилия обязательна"
+
+#: public/js/admin/index.js:3526 public/js/flows/default-appointment.js:7612
+#: public/js/flows/default-classes.js:10853
+#: public/js/flows/single-service.js:7306
+msgid "Email is required"
+msgstr "Требуется адрес электронной почты"
+
+#: public/js/admin/index.js:3531
+msgid "Password is required"
+msgstr "Требуется пароль"
+
+#: public/js/admin/index.js:3536
+#, fuzzy
+msgid "Password must be more then 6 characters"
+msgstr "Пароль должен быть более 6 символов"
+
+#: public/js/admin/index.js:3541
+#, fuzzy
+msgid "Timezone is required"
+msgstr "Требуется тайм-зон"
+
+#: public/js/admin/index.js:3637 public/js/admin/index.js:5782
+msgid "Close"
+msgstr "Закрыть"
+
+#: public/js/admin/index.js:3662
+msgid "First name"
+msgstr "Имя"
+
+#: public/js/admin/index.js:3685
+msgid "Last name"
+msgstr "Фамилия"
+
+#: public/js/admin/index.js:3728 public/js/admin/index.js:9425
+#: public/js/admin/index.js:28825
+msgid "Password"
+msgstr "Пароль"
+
+#: public/js/admin/index.js:3769
+#, fuzzy
+msgid "Account Timezone"
+msgstr "Учетная запись Таймзон"
+
+#: public/js/admin/index.js:3788 public/js/admin/index.js:4055
+#: public/js/admin/index.js:24027
+msgid "Activate Account"
+msgstr "Активация аккаунта"
+
+#: public/js/admin/index.js:3809
+msgid "Activating"
+msgstr "Активация"
+
+#: public/js/admin/index.js:3818
+#, fuzzy
+msgid "By activating your account, you agree to the "
+msgstr "Активируя свою учетную запись, вы соглашаетесь на "
+
+#: public/js/admin/index.js:3821
+msgid "Terms"
+msgstr "Условия"
+
+#: public/js/admin/index.js:3822 public/js/flows/default-appointment.js:5090
+#: public/js/flows/single-service.js:5057
+msgid "and"
+msgstr "и"
+
+#: public/js/admin/index.js:3825
+msgid "Privacy Policy"
+msgstr "Политика конфиденциальности"
+
+#: public/js/admin/index.js:3842
+#, fuzzy
+msgid "Have Questions?"
+msgstr "Есть вопросы?"
+
+#: public/js/admin/index.js:3850
+#, fuzzy
+msgid ""
+"Get 1 on 1 time with an online booking expert to help you get your account "
+"setup."
+msgstr ""
+"Получите 1 на 1 раз с онлайн-экспертом по бронированию, чтобы помочь вам "
+"получить настройку учетной записи."
+
+#: public/js/admin/index.js:3856
+#, fuzzy
+msgid "Schedule Consultation"
+msgstr "Консультации по расписанию"
+
+#: public/js/admin/index.js:4052
+#, fuzzy
+msgid "First, please confirm your account details."
+msgstr "Во-первых, пожалуйста, подтвердите данные вашей учетной записи."
+
+#: public/js/admin/index.js:4053
+#, fuzzy
+msgid "Enter your account details below to activate your account."
+msgstr ""
+"Введите данные своей учетной записи ниже, чтобы активировать свою учетную "
+"запись."
+
+#: public/js/admin/index.js:4297 public/js/admin/index.js:4333
+#: public/js/admin/index.js:4369 public/js/admin/index.js:4405
+#: public/js/admin/index.js:4441 public/js/admin/index.js:4477
+#: public/js/admin/index.js:4513 public/js/admin/index.js:10652
+#: public/js/admin/index.js:10791 public/js/admin/index.js:28703
+#: public/js/admin/index.js:28717
+#, fuzzy
+msgid "Use setting"
+msgstr "Использовать настройки"
+
+#: public/js/admin/index.js:4307
+msgid "Sunday"
+msgstr "Воскресенье"
+
+#: public/js/admin/index.js:4343
+msgid "Monday"
+msgstr "Понедельник"
+
+#: public/js/admin/index.js:4379
+msgid "Tuesday"
+msgstr "Вторник"
+
+#: public/js/admin/index.js:4415
+msgid "Wednesday"
+msgstr "Среда"
+
+#: public/js/admin/index.js:4451
+msgid "Thursday"
+msgstr "Четверг"
+
+#: public/js/admin/index.js:4487
+msgid "Friday"
+msgstr "Пятница"
+
+#: public/js/admin/index.js:4523
+msgid "Saturday"
+msgstr "Суббота"
+
+#: public/js/admin/index.js:4543 public/js/admin/index.js:24929
+#: public/js/admin/index.js:25970 public/js/admin/index.js:27079
+#: public/js/admin/index.js:27323 public/js/admin/index.js:27741
+#: public/js/admin/index.js:27891 public/js/admin/index.js:28775
+#: public/js/admin/index.js:28846
+msgid "Save"
+msgstr "Сохранить"
+
+#: public/js/admin/index.js:4708
+msgid "Booking Page"
+msgstr "Страница Бронирования"
+
+#: public/js/admin/index.js:4726
+#, fuzzy
+msgid "Booking Pages"
+msgstr "Страницы бронирования"
+
+#: public/js/admin/index.js:4737
+#, fuzzy
+msgid "Open options"
+msgstr "Открытые опции"
+
+#: public/js/admin/index.js:4905
+#, fuzzy
+msgid "Congratulations! You added your first service."
+msgstr "Поздравляю! Вы добавили свою первую услугу."
+
+#: public/js/admin/index.js:4906
+#, fuzzy
+msgid "Continue with setup"
+msgstr "Продолжить установку"
+
+#: public/js/admin/index.js:4916
+#, fuzzy
+msgid "Well done! Onto the next step."
+msgstr "Прекрасно! На следующий шаг."
+
+#: public/js/admin/index.js:4926
+#, fuzzy
+msgid "Congratulations! Now let's complete your account setup."
+msgstr "Поздравляю! Теперь давайте заверим настройку учетной записи."
+
+#: public/js/admin/index.js:5207
+#, fuzzy
+msgid "Pick a plan for your online scheduling"
+msgstr "Выберите план для онлайн-планирования"
+
+#: public/js/admin/index.js:5212 public/js/admin/index.js:5260
+msgid "You are"
+msgstr "Это Вы"
+
+#: public/js/admin/index.js:5213
+#, fuzzy
+msgid "currently on a free trial"
+msgstr "в настоящее время на бесплатную пробную версию"
+
+#: public/js/admin/index.js:5220
+#, fuzzy
+msgid ""
+"With a free trial, you get the benefits of testing multiple users, classes, "
+"custom fields, text messages, etc. It's a lot! To continue using these "
+"features you need to select a plan or your account will be downgraded at the "
+"end of your trial."
+msgstr ""
+"С помощью бесплатной пробной версии вы получаете преимущества тестирования "
+"нескольких пользователей, классов, пользовательских полей, текстовых "
+"сообщений и т.д. Это много! Чтобы продолжить использование этих функций, "
+"необходимо выбрать план, или ваша учетная запись будет понижена в конце "
+"пробной версии."
+
+#: public/js/admin/index.js:5231
+#, fuzzy
+msgid "Pick my plan"
+msgstr "Выберите мой план"
+
+#: public/js/admin/index.js:5235
+#, fuzzy
+msgid "Days Remaining"
+msgstr "Оставшиеся дни"
+
+#: public/js/admin/index.js:5255
+#, fuzzy
+msgid "Your account is limited"
+msgstr "Ваша учетная запись ограничена"
+
+#: public/js/admin/index.js:5261
+#, fuzzy
+msgid "currently on the limited plan"
+msgstr "в настоящее время по ограниченному плану"
+
+#: public/js/admin/index.js:5268
+#, fuzzy
+msgid ""
+"With the limited plan, you are missing out on multiple users, classes, 2-way "
+"Google Calendar, custom fields, advanced reporting just to name a few "
+"features. Upgrade today to get access to premium functionality."
+msgstr ""
+"С ограниченным планом, вы упускаете несколько пользователей, классы, 2-путь "
+"Google Календарь, пользовательские поля, расширенные отчетности просто "
+"назвать несколько функций. Обновление сегодня, чтобы получить доступ к "
+"премиум функциональности."
+
+#: public/js/admin/index.js:5279
+#, fuzzy
+msgid "Pick a plan"
+msgstr "Выберите план"
+
+#: public/js/admin/index.js:6032 public/js/admin/index.js:6154
+#, fuzzy
+msgid "Your free trial has started"
+msgstr "Ваша бесплатная пробная версия началась"
+
+#: public/js/admin/index.js:6032 public/js/admin/index.js:6093
+#: public/js/admin/index.js:6154
+#, fuzzy
+msgid "days left in trial"
+msgstr "дней, оставшихся в суде"
+
+#: public/js/admin/index.js:6034 public/js/admin/index.js:6095
+#: public/js/admin/index.js:6156
+msgid "You have"
+msgstr "У вас"
+
+#: public/js/admin/index.js:6034 public/js/admin/index.js:6095
+#: public/js/admin/index.js:6156
+#, fuzzy
+msgid "days left in your free trial"
+msgstr "дней, оставшихся в вашей бесплатной пробной версии"
+
+#: public/js/admin/index.js:6036 public/js/admin/index.js:6097
+#: public/js/admin/index.js:6158
+#, fuzzy
+msgid ""
+"Your free trial expires today! Pick a plan to continue using your premium "
+"features."
+msgstr ""
+"Ваша бесплатная пробная версия истекает сегодня! Выберите план для "
+"продолжения использования премиум-функций."
+
+#: public/js/admin/index.js:6047 public/js/admin/index.js:6054
+#: public/js/admin/index.js:6108 public/js/admin/index.js:6115
+#: public/js/admin/index.js:6169 public/js/admin/index.js:6176
+msgid "Select a plan"
+msgstr "Выберите тариф"
+
+#: public/js/admin/index.js:6093
+#, fuzzy
+msgid "Your free trial has started."
+msgstr "Ваша бесплатная пробная версия началась."
+
+#: public/js/admin/index.js:6367
+msgid "Welcome!"
+msgstr "Добро пожаловать!"
+
+#: public/js/admin/index.js:6370
+#, fuzzy
+msgid "It's time to Start Booking."
+msgstr "Пришло время начать бронирование."
+
+#: public/js/admin/index.js:6375
+#, fuzzy
+msgid "Hold tight while we load your new online booking experience."
+msgstr ""
+"Держитесь крепко, пока мы загружаем ваш новый опыт онлайн-бронирования."
+
+#: public/js/admin/index.js:6409
+#, fuzzy
+msgid ""
+"You're account is ready to go! With your premium trial enjoy unlimited "
+"appointments, multiple users, text message reminders and powerful "
+"integrations."
+msgstr ""
+"Вы счет готов к работе! С вашей премиальной пробной версии пользуются "
+"неограниченные встречи, несколько пользователей, текстовые сообщения "
+"напоминания и мощные интеграции."
+
+#: public/js/admin/index.js:6415
+msgid "Get Started"
+msgstr "Начать"
+
+#: public/js/admin/index.js:6582 public/js/admin/index.js:6600
+#: public/js/admin/index.js:6662
+msgid "Include"
+msgstr "Включить"
+
+#: public/js/admin/index.js:6623
+#, fuzzy
+msgid ""
+"If you include a Zoom link, your customers will receive a Zoom link with "
+"their appointment confirmation emails."
+msgstr ""
+"Если вы включите ссылку Увеличить, ваши клиенты получат увеличить ссылку с "
+"их назначения подтверждение электронной почты."
+
+#: public/js/admin/index.js:6631 public/js/admin/index.js:6638
+#: public/js/admin/index.js:26263
+msgid "Yes"
+msgstr "Да"
+
+#: public/js/admin/index.js:6634 public/js/admin/index.js:6641
+#: public/js/admin/index.js:26266 public/js/admin/index.js:26273
+msgid "No"
+msgstr "Нет"
+
+#: public/js/admin/index.js:6685
+#, fuzzy
+msgid ""
+"Connecting Zoom will provide you with the ability to include a Zoom link "
+"with your appointments."
+msgstr ""
+"Подключение Увеличить предоставит вам возможность включить увеличить ссылку "
+"с вашими назначениями."
+
+#: public/js/admin/index.js:6697 public/js/admin/index.js:9467
+#: public/js/admin/index.js:9472
+msgid "Connect"
+msgstr "Подключить"
+
+#: public/js/admin/index.js:6858
+msgid "Not a valid email"
+msgstr "Недействительный Email"
+
+#: public/js/admin/index.js:7026
+#, fuzzy
+msgid "Password is too short. Must be at least 6 characters."
+msgstr "Пароль слишком короток. Должно быть не менее 6 символов."
+
+#: public/js/admin/index.js:7029
+#, fuzzy
+msgid "Password is too weak"
+msgstr "Пароль слишком слаб"
+
+#: public/js/admin/index.js:7206
+msgid "Country"
+msgstr "Страна"
+
+#: public/js/admin/index.js:7790 public/js/admin/index.js:7850
+#: public/js/admin/index.js:7897 public/js/admin/index.js:26477
+#, fuzzy
+msgid ""
+"Rooms are resources that this service requires. For example, if you need to "
+"ensure that a specific room is available in order to perform this service, "
+"attach the room to the service and we will check before displaying your "
+"availability."
+msgstr ""
+"Номера – это ресурсы, которые требуются этой услуге. Например, если вам "
+"необходимо убедиться, что для выполнения этой услуги имеется определенная "
+"комната, приложите номер к службе, и мы проверим, прежде чем отображать вашу "
+"доступность."
+
+#: public/js/admin/index.js:7813 public/js/admin/index.js:27761
+#: public/js/admin/index.js:27906 public/js/blocks/legacy-class.js:15166
+msgid "Upgrade"
+msgstr "Обновить"
+
+#: public/js/admin/index.js:7815
+#, fuzzy
+msgid "to add rooms for this service"
+msgstr "добавить номера для этой услуги"
+
+#: public/js/admin/index.js:7862
+msgid "No Rooms"
+msgstr "Нет свободных номеров"
+
+#: public/js/admin/index.js:7927 public/js/admin/index.js:8316
+#: public/js/admin/index.js:9080
+#, fuzzy
+msgid "Remove small option"
+msgstr "Удалить небольшой вариант"
+
+#: public/js/admin/index.js:7994
+msgid "Room Name"
+msgstr "Название номера"
+
+#: public/js/admin/index.js:8000 public/js/admin/index.js:24906
+#: public/js/admin/index.js:26608 public/js/admin/index.js:27329
+msgid "Cancel"
+msgstr "Отмена"
+
+#: public/js/admin/index.js:8290 public/js/admin/index.js:27731
+#: public/js/admin/index.js:27881
+#, fuzzy
+msgid "No Service Types"
+msgstr "Нет типов услуг"
+
+#: public/js/admin/index.js:8607
+msgid "to"
+msgstr "в"
+
+#: public/js/admin/index.js:9399
+#, fuzzy
+msgid "Connect with Start Booking"
+msgstr "Связь с стартовым бронированием"
+
+#: public/js/admin/index.js:9408
+msgid "Email address"
+msgstr "Адрес электронной почты"
+
+#: public/js/admin/index.js:9445
+msgid "Forgot your password?"
+msgstr "Забыли пароль?"
+
+#: public/js/admin/index.js:9488 public/js/admin/index.js:9539
+msgid "Or"
+msgstr "Или"
+
+#: public/js/admin/index.js:9496
+#, fuzzy
+msgid "Access my existing account"
+msgstr "Доступ к существующей учетной записи"
+
+#: public/js/admin/index.js:9499
+#, fuzzy
+msgid ""
+"If you have already been using Start Booking but you don't know your login, "
+"start here."
+msgstr ""
+"Если вы уже использовали Start Booking, но не знаете свой логин, начните "
+"здесь."
+
+#: public/js/admin/index.js:9518 public/js/admin/index.js:9525
+#, fuzzy
+msgid "Access Account"
+msgstr "Учетная запись доступа"
+
+#: public/js/admin/index.js:9563 public/js/admin/index.js:9570
+#, fuzzy
+msgid "Start New Free Trial"
+msgstr "Запуск новой бесплатной пробной версии"
+
+#: public/js/admin/index.js:9799 public/js/admin/index.js:9891
+#: public/js/admin/index.js:9932
+#: resources/assets/js/admin/jquery/graph/graph.js:16
+msgid "Today"
+msgstr "Сегодня"
+
+#: public/js/admin/index.js:9805 public/js/admin/index.js:9897
+#: public/js/admin/index.js:9938
+#: resources/assets/js/admin/jquery/graph/graph.js:15
+msgid "Yesterday"
+msgstr "Вчера"
+
+#: public/js/admin/index.js:9978
+#, fuzzy
+msgid "No Bookings Yet."
+msgstr "Нет Бронирование Тем не менее."
+
+#: public/js/admin/index.js:10257
+#, fuzzy
+msgid "Welcome! Let's get started."
+msgstr "Приветствовать! Начнем."
+
+#: public/js/admin/index.js:10261
+#, fuzzy
+msgid "You're off to a great start!"
+msgstr "У тебя отличное начало!"
+
+#: public/js/admin/index.js:10389 public/js/flows/default-appointment.js:9689
+msgid "Add Services"
+msgstr "Добавить услуги"
+
+#: public/js/admin/index.js:10408
+#, fuzzy
+msgid "Adjust Availability"
+msgstr "Отрегулируйте доступность"
+
+#: public/js/admin/index.js:10427
+#, fuzzy
+msgid "Connect Calendar"
+msgstr "Подключение календаря"
+
+#: public/js/admin/index.js:10446
+#, fuzzy
+msgid "Review Booking Page"
+msgstr "Страница бронирования обзоров"
+
+#: public/js/admin/index.js:10456
+#, fuzzy
+msgid "You've created a service. Good Job!"
+msgstr "Вы создали сервис. Молодец!"
+
+#: public/js/admin/index.js:10459
+#, fuzzy
+msgid "Add more services or move onto adjusting your availability."
+msgstr ""
+"Добавьте дополнительные службы или перейти к корректировке доступности."
+
+#: public/js/admin/index.js:10475
+#, fuzzy
+msgid "Create another service"
+msgstr "Создание другой службы"
+
+#: public/js/admin/index.js:10479
+#, fuzzy
+msgid "Want to try out classes or group events instead of appointments?"
+msgstr "Хотите попробовать классы или групповые мероприятия вместо назначений?"
+
+#: public/js/admin/index.js:10486
+#, fuzzy
+msgid "Log into Start Booking"
+msgstr "Войти в начало бронирования"
+
+#: public/js/admin/index.js:10488
+#, fuzzy
+msgid "to get started creating classes."
+msgstr "начать создавать классы."
+
+#: public/js/admin/index.js:10505
+#, fuzzy
+msgid "Learn more about services"
+msgstr "Подробнее об услугах"
+
+#: public/js/admin/index.js:10511
+#, fuzzy
+msgid "Create your services"
+msgstr "Создание служб"
+
+#: public/js/admin/index.js:10514
+#, fuzzy
+msgid "Create the services that you want your customers to book."
+msgstr "Создавайте службы, которые вы хотите, чтобы ваши клиенты бронировать."
+
+#: public/js/admin/index.js:10530 public/js/admin/index.js:24598
+msgid "Create Service"
+msgstr "Создать услугу"
+
+#: public/js/admin/index.js:10534
+#, fuzzy
+msgid "Do you offer classes or group events? Consider "
+msgstr "Предлагаете ли вы занятия или групповые мероприятия? Рассмотреть "
+
+#: public/js/admin/index.js:10541
+#, fuzzy
+msgid "creating a class instead"
+msgstr "создание класса вместо"
+
+#: public/js/admin/index.js:10560
+#, fuzzy
+msgid "Learn more about creating services"
+msgstr "Подробнее о создании служб"
+
+#: public/js/admin/index.js:10568
+#, fuzzy
+msgid "You've adjusted your availability. Good job!"
+msgstr "Вы скорректировали доступность. Молодец!"
+
+#: public/js/admin/index.js:10571
+#, fuzzy
+msgid "Still looking for more control of your availability? Head over to "
+msgstr ""
+"Все еще ищете больше контроля над вашей доступности? Над головой, чтобы "
+
+#: public/js/admin/index.js:10580
+#, fuzzy
+msgid "to review all options for your account."
+msgstr "просмотреть все варианты для вашей учетной записи."
+
+#: public/js/admin/index.js:10596 public/js/admin/index.js:10631
+#, fuzzy
+msgid "Learn more about availability"
+msgstr "Подробнее о доступности"
+
+#: public/js/admin/index.js:10602
+#, fuzzy
+msgid "Adjust your availability"
+msgstr "Отрегулируйте доступность"
+
+#: public/js/admin/index.js:10605
+#, fuzzy
+msgid ""
+"Set your availability so we know when to display times to your customers. "
+"For more control over your availability, visit "
+msgstr ""
+"Установите доступность, чтобы мы знали, когда отображать время для ваших "
+"клиентов. Для получения дополнительной информации о вашей доступности "
+"посетите "
+
+#: public/js/admin/index.js:10640
+#, fuzzy
+msgid "Connect calendar skipped"
+msgstr "Подключение календаря пропущено"
+
+#: public/js/admin/index.js:10677
+#, fuzzy
+msgid "Marked as complete"
+msgstr "Помечено как полное"
+
+#: public/js/admin/index.js:10680 public/js/admin/index.js:10819
+#, fuzzy
+msgid "I don't use Google Calendar"
+msgstr "Я не использую календарь Google"
+
+#: public/js/admin/index.js:10701 public/js/admin/index.js:10749
+#: public/js/admin/index.js:10840
+#, fuzzy
+msgid "Learn more about Google Calendar"
+msgstr "Узнайте больше о календаре Google"
+
+#: public/js/admin/index.js:10707
+#, fuzzy
+msgid "Calendar Connected"
+msgstr "Календарь Подключен"
+
+#: public/js/admin/index.js:10710
+#, fuzzy
+msgid ""
+"Good work connecting your calendar. To learn more about how the Google "
+"Calendar integration works see our"
+msgstr ""
+"Хорошая работа, соединяющая календарь. Чтобы узнать больше о том, как "
+"работает интеграция календаря Google,"
+
+#: public/js/admin/index.js:10713
+#, fuzzy
+msgid "integration overview"
+msgstr "обзор интеграции"
+
+#: public/js/admin/index.js:10721
+#, fuzzy
+msgid "View Integrations"
+msgstr "Просмотр интеграций"
+
+#: public/js/admin/index.js:10756
+#, fuzzy
+msgid "Connect your calendar"
+msgstr "Подключите календарь"
+
+#: public/js/admin/index.js:10759
+#, fuzzy
+msgid "Connect your calendar with Google Calendar."
+msgstr "Подключите календарь к календарю Google."
+
+#: public/js/admin/index.js:10768
+#, fuzzy
+msgid "Connect Google Calendar"
+msgstr "Подключение календаря Google"
+
+#: public/js/admin/index.js:10816
+msgid "Mark complete"
+msgstr "Отметить, как Выполнено"
+
+#: public/js/admin/index.js:10847
+#, fuzzy
+msgid "Take a look at your booking page. It looks good!"
+msgstr "Взгляните на страницу бронирования. Выглядит неплохо!"
+
+#: public/js/admin/index.js:10850
+#, fuzzy
+msgid ""
+"We already created a booking page for you. Review what your customers will "
+"see when booking with you."
+msgstr ""
+"Мы уже создали страницу бронирования для вас. Просмотрите, что увидят ваши "
+"клиенты при бронировании с вами."
+
+#: public/js/admin/index.js:10997
+#, fuzzy
+msgid "No Activity Yet."
+msgstr "Пока нет активности."
+
+#: public/js/admin/index.js:11004 public/js/admin/index.js:11133
+#: public/js/admin/index.js:11193
+msgid "Recent Activity"
+msgstr "Последние действия"
+
+#: public/js/admin/index.js:11034 public/js/admin/index.js:11084
+#: public/js/admin/index.js:11109
+msgid "Consultation"
+msgstr "Консультация"
+
+#: public/js/admin/index.js:11059
+#, fuzzy
+msgid "Inteview"
+msgstr "Интевью"
+
+#: public/js/admin/index.js:24024
+#, fuzzy
+msgid "Almost there! Confirm your account details."
+msgstr "Почти закончили! Подтвердите данные своей учетной записи."
+
+#: public/js/admin/index.js:24025
+#, fuzzy
+msgid "Enter your account details to activate and save your settings."
+msgstr ""
+"Введите данные учетной записи, чтобы активировать и сохранить настройки."
+
+#: public/js/admin/index.js:24242 public/js/admin/index.js:26803
+msgid "Sort"
+msgstr "Сортировать"
+
+#: public/js/admin/index.js:24249
+msgid "Create"
+msgstr "Создать"
+
+#: public/js/admin/index.js:24257
+#, fuzzy
+msgid "Back to Service List"
+msgstr "Вернуться к списку обслуживания"
+
+#: public/js/admin/index.js:24492
+msgid "Name is required"
+msgstr "Имя обязательно"
+
+#: public/js/admin/index.js:24497
+msgid "Description is required"
+msgstr "Требуется Описание"
+
+#: public/js/admin/index.js:24502
+msgid "Duration is required"
+msgstr "Требуется указать продолжительность"
+
+#: public/js/admin/index.js:24507
+#, fuzzy
+msgid "Please select the users that can fulfill this service"
+msgstr "Пожалуйста, выберите пользователей, которые могут выполнить эту услугу"
+
+#: public/js/admin/index.js:24608
+msgid "Close panel"
+msgstr "Закрыть панель"
+
+#: public/js/admin/index.js:24629
+#, fuzzy
+msgid "Get started by filling in the information below."
+msgstr "Начать работу, заполнив информацию ниже."
+
+#: public/js/admin/index.js:24665 public/js/admin/index.js:26038
+#: public/js/admin/index.js:27063 public/js/admin/index.js:27307
+#, fuzzy
+msgid "Description"
+msgstr "Описание"
+
+#: public/js/admin/index.js:24715
+msgid "Recovery"
+msgstr "Востановление"
+
+#: public/js/admin/index.js:24738 public/js/admin/index.js:26139
+#, fuzzy
+msgid ""
+"Recovery time extends the length of the appointment for you, not the "
+"customer. This enables you to recover from the previous appointment. You "
+"will not be available during the recovery time added."
+msgstr ""
+"Время восстановления продлевает продолжительность встречи для вас, а не для "
+"клиента. Это позволяет восстановиться после предыдущего назначения. Вы не "
+"будете доступны в добавленное время восстановления."
+
+#: public/js/admin/index.js:24811 public/js/admin/index.js:26402
+#, fuzzy
+msgid "Assigned Users"
+msgstr "Назначенные пользователи"
+
+#: public/js/admin/index.js:24834 public/js/admin/index.js:26405
+#, fuzzy
+msgid "Select users that can perform this service."
+msgstr "Выберите пользователей, которые могут выполнять эту услугу."
+
+#: public/js/admin/index.js:24850 public/js/admin/index.js:27590
+#, fuzzy
+msgid "Service Types"
+msgstr "Типы услуг"
+
+#: public/js/admin/index.js:24873 public/js/admin/index.js:27615
+#, fuzzy
+msgid "Assign service types to help categorize your services."
+msgstr "Назначьте типы служб, которые помогут классифицировать ваши услуги."
+
+#: public/js/admin/index.js:24889 public/js/admin/index.js:26451
+msgid "Rooms"
+msgstr "Комнаты"
+
+#: public/js/admin/index.js:24927
+msgid "Saving"
+msgstr "Сохранение"
+
+#: public/js/admin/index.js:25161 public/js/admin/index.js:29233
+msgid "No Services"
+msgstr "Нет услуг"
+
+#: public/js/admin/index.js:25246 public/js/admin/index.js:26179
+msgid "Status"
+msgstr "Статус"
+
+#: public/js/admin/index.js:25348 public/js/admin/index.js:25367
+#: public/js/admin/index.js:26028 public/js/admin/index.js:26602
+#: public/js/admin/index.js:27718 public/js/admin/index.js:27868
+msgid "Delete"
+msgstr "Удалить"
+
+#: public/js/admin/index.js:25743
+msgid "Name cannot be empty."
+msgstr "Имя не должно быть пустым."
+
+#: public/js/admin/index.js:25753
+#, fuzzy
+msgid "Duration cannot be empty."
+msgstr "Длительность не может быть пустой."
+
+#: public/js/admin/index.js:25936 public/js/admin/index.js:27712
+#: public/js/admin/index.js:27862
+msgid "Edit"
+msgstr "Редактировать"
+
+#: public/js/admin/index.js:26019
+#, fuzzy
+msgid ""
+"Booking online is disabled. You can enable online scheduling in the settings "
+"below."
+msgstr ""
+"Бронирование онлайн отключено. Вы можете включить онлайн-планирование в "
+"настройках ниже."
+
+#: public/js/admin/index.js:26116
+#, fuzzy
+msgid "Recovery Time"
+msgstr "Время восстановления"
+
+#: public/js/admin/index.js:26225
+#, fuzzy
+msgid "Schedule Online"
+msgstr "Расписание онлайн"
+
+#: public/js/admin/index.js:26248
+#, fuzzy
+msgid ""
+"If schedule online is disabled, this service will not be publicly displayed "
+"to your customers."
+msgstr ""
+"Если расписание онлайн отключено, эта услуга не будет публично отображаться "
+"для ваших клиентов."
+
+#: public/js/admin/index.js:26432
+#, fuzzy
+msgid ""
+"This service is not bookable without at least one user who can perform the "
+"service."
+msgstr ""
+"Эта услуга не побронируема без по крайней мере одного пользователя, который "
+"может выполнить услугу."
+
+#: public/js/admin/index.js:26489
+#, fuzzy
+msgid "Select the rooms for this service."
+msgstr "Выберите номера для этой услуги."
+
+#: public/js/admin/index.js:26586
+#, fuzzy
+msgid "Confirm Delete"
+msgstr "Подтвердить Удаление"
+
+#: public/js/admin/index.js:26591
+#, fuzzy
+msgid ""
+"Are you sure you want to deactivate your account? All of your data will be "
+"permanently removed from our servers forever. This action cannot be undone."
+msgstr ""
+"Вы уверены, что хотите деактивировать свою учетную запись? Все ваши данные "
+"будут навсегда удалены с наших серверов. Это действие не может быть отменено."
+
+#: public/js/admin/index.js:27035
+msgid "Add New"
+msgstr "Добавить новый"
+
+#: public/js/admin/index.js:27278
+msgid "Edit Type"
+msgstr "Редактировать тип"
+
+#: public/js/admin/index.js:27631 public/js/admin/index.js:27781
+#, fuzzy
+msgid "Assign Service Types"
+msgstr "Назначение типов служб"
+
+#: public/js/admin/index.js:27634 public/js/admin/index.js:27784
+#, fuzzy
+msgid "Assign service types to help categorize the service."
+msgstr "Назначьте типы служб, чтобы помочь классифицировать службу."
+
+#: public/js/admin/index.js:27763 public/js/admin/index.js:27908
+#, fuzzy
+msgid "to categorize your services by service types."
+msgstr "классифицировать ваши услуги по типам служб."
+
+#: public/js/admin/index.js:28035 public/js/admin/index.js:29638
+#: public/js/admin/index.js:29711
+msgid "Availability"
+msgstr "Доступность"
+
+#: public/js/admin/index.js:28038
+#, fuzzy
+msgid ""
+"You can manage your basic availability below. For more controls visit the "
+"Start Booking application."
+msgstr ""
+"Вы можете управлять вашей основной доступности ниже. Для получения "
+"дополнительной информации о контроле посетите приложение Start Booking."
+
+#: public/js/admin/index.js:28046
+#, fuzzy
+msgid "All Availability Options"
+msgstr "Все варианты доступности"
+
+#: public/js/admin/index.js:28053
+#, fuzzy
+msgid "Basic Availability"
+msgstr "Базовая доступность"
+
+#: public/js/admin/index.js:28227 public/js/admin/index.js:29641
+#: public/js/admin/index.js:29735
+msgid "Billing"
+msgstr "Биллинг"
+
+#: public/js/admin/index.js:28231
+msgid "Product"
+msgstr "Товар"
+
+#: public/js/admin/index.js:28242 public/js/admin/index.js:30330
+#: public/js/admin/index.js:30353 public/js/admin/index.js:30376
+#: public/js/admin/index.js:30399 public/js/admin/index.js:30422
+msgid "Manage"
+msgstr "Управление"
+
+#: public/js/admin/index.js:28362 public/js/admin/index.js:29644
+#: public/js/admin/index.js:29757
+msgid "Communications"
+msgstr "Общение"
+
+#: public/js/admin/index.js:28365
+#, fuzzy
+msgid ""
+"Managing and adjusting your customer communications, such as emails and text "
+"messages, is handled directly on the Start Booking application."
+msgstr ""
+"Управление и корректировка сообщений клиентов, таких как электронные письма "
+"и текстовые сообщения, обрабатывается непосредственно в приложении Start "
+"Booking."
+
+#: public/js/admin/index.js:28374
+#, fuzzy
+msgid "Manage Communications"
+msgstr "Управление коммуникациями"
+
+#: public/js/admin/index.js:28471 public/js/admin/index.js:28509
+#: public/js/admin/index.js:28531 public/js/admin/index.js:28584
+msgid "Proxy"
+msgstr "Прокси"
+
+#: public/js/admin/index.js:28516 public/js/admin/index.js:28538
+#: public/js/admin/index.js:28591
+msgid "Direct"
+msgstr "Прямой"
+
+#: public/js/admin/index.js:28685
+msgid "Connections"
+msgstr "Соединения"
+
+#: public/js/admin/index.js:28727
+#, fuzzy
+msgid "Disable Online Booking"
+msgstr "Отключение онлайн-бронирования"
+
+#: public/js/admin/index.js:28729
+msgid "Disabled"
+msgstr "Отключено"
+
+#: public/js/admin/index.js:28733
+#, fuzzy
+msgid ""
+"Disabling will keep your connection with Start Booking but will online "
+"booking forms."
+msgstr ""
+"Отключение будет держать вашу связь с Start Booking, но будет онлайн формы "
+"бронирования."
+
+#: public/js/admin/index.js:28749
+#, fuzzy
+msgid "API Setting"
+msgstr "Настройка API"
+
+#: public/js/admin/index.js:28752
+#, fuzzy
+msgid ""
+"If you are experiencing problems with your server cache causing duplicate "
+"appointments or settings not saving, try updating to the Direct method. "
+"Direct allows your plugin to communicate directly with the Start Booking "
+"service. Proxy, which is the default setting, runs all communication with "
+"Start Booking through your WordPress site. When communication is handled via "
+"the proxy option, those communications can be delayed due to your server "
+"configuration."
+msgstr ""
+"Если у вас возникли проблемы с кэшем сервера, вызывающие несбережение "
+"назначений или настроек, попробуйте обновить метод Direct. Direct позволяет "
+"вашему плагину напрямую общаться со службой Start Booking. Прокси, который "
+"является параметром по умолчанию, запускает все коммуникации с Start Booking "
+"через ваш сайт WordPress. Когда связь обрабатывается через опцию прокси, эти "
+"сообщения могут быть отложены из-за конфигурации сервера."
+
+#: public/js/admin/index.js:28793
+#, fuzzy
+msgid ""
+"If you are having some issues with your connection, reconnect to establish a "
+"new connection. This process will not delete any of your other settings."
+msgstr ""
+"Если у вас возникли некоторые проблемы с подключением, повторное подключение "
+"для создания нового соединения. Этот процесс не удалит другие настройки."
+
+#: public/js/admin/index.js:28863 public/js/admin/index.js:28873
+msgid "Disconnect"
+msgstr "Отключить"
+
+#: public/js/admin/index.js:28866
+#, fuzzy
+msgid ""
+"Disconnecting Start Booking will delete all settings from your WordPress "
+"website. This does not cancel your account or delete anything on the Start "
+"Booking application."
+msgstr ""
+"Отключение Start Booking удалит все настройки с вашего веб-сайта WordPress. "
+"Это не отменяет вашу учетную запись и не удаляет что-либо в приложении Start "
+"Booking."
+
+#: public/js/admin/index.js:28970 public/js/admin/index.js:29223
+#: public/js/blocks/call-to-action.js:2294
+msgid "Select Service"
+msgstr "Выберите Услугу"
+
+#: public/js/admin/index.js:28975 public/js/admin/index.js:28979
+msgid "True"
+msgstr "Истина"
+
+#: public/js/admin/index.js:28982
+msgid "False"
+msgstr "Ложь"
+
+#: public/js/admin/index.js:29093 public/js/admin/index.js:29635
+#: public/js/admin/index.js:29689
+#, fuzzy
+msgid "Embed Options"
+msgstr "Варианты встраивания"
+
+#: public/js/admin/index.js:29096
+#, fuzzy
+msgid ""
+"Embedding the Start Booking form on a page or post is really simple. You "
+"have the option to use either the Start Booking blocks or shortcodes in the "
+"WordPress editor."
+msgstr ""
+"Встраивание формы Start Booking на странице или посте очень просто. У вас "
+"есть возможность использовать либо блоки Start Booking, либо короткие коды в "
+"редакторе WordPress."
+
+#: public/js/admin/index.js:29111
+msgid "Shortcodes"
+msgstr "Шорткоды"
+
+#: public/js/admin/index.js:29114
+#, fuzzy
+msgid ""
+"To use the Start Booking shortcodes, navigate to any page or post (create or "
+"edit screen) and copy and paste one of the below shortcodes where you want "
+"your booking form to display."
+msgstr ""
+"Чтобы использовать короткие коды Start Booking, перейдите на любую страницу "
+"или пост (создайте или отредактируйте экран) и скопировать и вставить один "
+"из ниже коротких кодов, где вы хотите, чтобы ваша форма бронирования "
+"отображаться."
+
+#: public/js/admin/index.js:29124 public/js/admin/index.js:29366
+#, fuzzy
+msgid "Displays a full list of your services"
+msgstr "Отображает полный список ваших услуг"
+
+#: public/js/admin/index.js:29159 public/js/admin/index.js:29385
+#: public/js/blocks/single-service.js:1871
+msgid "Single Service"
+msgstr "Отдельная услуга"
+
+#: public/js/admin/index.js:29162 public/js/admin/index.js:29388
+#, fuzzy
+msgid "Displays a preconfigured single service"
+msgstr "Отображает заранее настроенную единую службу"
+
+#: public/js/admin/index.js:29197
+#, fuzzy
+msgid "Service: The ID of your service you want to display."
+msgstr ""
+"Обслуживание: Идентификатор вашего сервиса, который вы хотите отобразить."
+
+#: public/js/admin/index.js:29200
+#, fuzzy
+msgid ""
+"Details: When set to true, the service box will be displayed. When set to "
+"false, the service box will be skipped and will go to the next step in the "
+"booking process."
+msgstr ""
+"Детали: При настройке, чтобы правда, сервисная коробка будет отображаться. "
+"При ложном срабатывании сервисная коробка будет пропущена и будет перейти к "
+"следующему шагу в процессе бронирования."
+
+#: public/js/admin/index.js:29215
+#, fuzzy
+msgid "Single Service Shortcode Generator"
+msgstr "Генератор короткого кода одной службы"
+
+#: public/js/admin/index.js:29218
+#, fuzzy
+msgid ""
+"Select your service and options below to generate a preconfigured shortcode."
+msgstr ""
+"Выберите свой сервис и варианты ниже для создания заранее настроенного "
+"короткого кода."
+
+#: public/js/admin/index.js:29237
+#, fuzzy
+msgid "Display Service Details"
+msgstr "Отображение данных службы"
+
+#: public/js/admin/index.js:29287
+#, fuzzy
+msgid "Displays a calendar and list of your available classes"
+msgstr "Отображает календарь и список доступных классов"
+
+#: public/js/admin/index.js:29332
+msgid "Blocks"
+msgstr "Блоки"
+
+#: public/js/admin/index.js:29335
+#, fuzzy
+msgid ""
+"To use the Start Booking Gutenberg blocks, navigate to any page or post "
+"(create or edit screen) and select one of the blocks listed below."
+msgstr ""
+"Чтобы использовать блоки Start Booking Gutenberg, перейдите на любую "
+"страницу или пост (создайте или отредактируете экран) и выберите один из "
+"блоков, перечисленных ниже."
+
+#: public/js/admin/index.js:29410
+#, fuzzy
+msgid "Displays a full list of your classes"
+msgstr "Отображает полный список классов"
+
+#: public/js/admin/index.js:29429
+msgid "Call to action button"
+msgstr "Кнопка призыва к действию"
+
+#: public/js/admin/index.js:29432
+#, fuzzy
+msgid "Displays a preconfigured booking button"
+msgstr "Отображает заранее настроенную кнопку бронирования"
+
+#: public/js/admin/index.js:29647 public/js/admin/index.js:29777
+#: public/js/admin/index.js:29980
+msgid "Integrations"
+msgstr "Интеграции"
+
+#: public/js/admin/index.js:29650 public/js/admin/index.js:29799
+#: public/js/admin/index.js:30161
+msgid "Reporting"
+msgstr "Отчет"
+
+#: public/js/admin/index.js:29653 public/js/admin/index.js:29819
+#: public/js/admin/index.js:30541
+msgid "Users"
+msgstr "Пользователи"
+
+#: public/js/admin/index.js:29656 public/js/admin/index.js:29863
+msgid "Connection"
+msgstr "Подключение"
+
+#: public/js/admin/index.js:29983
+#, fuzzy
+msgid "Managing your"
+msgstr "Управление"
+
+#: public/js/admin/index.js:29987
+#, fuzzy
+msgid "integrations"
+msgstr "Интеграции"
+
+#: public/js/admin/index.js:29988
+#, fuzzy
+msgid "is handled directly on the"
+msgstr "обрабатывается непосредственно на"
+
+#: public/js/admin/index.js:29988
+msgid "application"
+msgstr "Приложение"
+
+#: public/js/admin/index.js:29997
+#, fuzzy
+msgid "Manage Integrations"
+msgstr "Управление интеграцией"
+
+#: public/js/admin/index.js:30042
+#, fuzzy
+msgid "More coming soon"
+msgstr "Подробнее в ближайшее время"
+
+#: public/js/admin/index.js:30164
+#, fuzzy
+msgid ""
+"Viewing and downloading reports is handled directly on the Start Booking "
+"application."
+msgstr ""
+"Просмотр и загрузка отчетов обрабатывается непосредственно в приложении "
+"Start Booking."
+
+#: public/js/admin/index.js:30173
+msgid "View Reports"
+msgstr "Просмотр отчетов"
+
+#: public/js/admin/index.js:30295
+#, fuzzy
+msgid "Review the available settings for your account and booking forms."
+msgstr ""
+"Просмотрите доступные настройки для вашей учетной записи и формы "
+"бронирования."
+
+#: public/js/admin/index.js:30317
+#, fuzzy
+msgid "Openings Interval"
+msgstr "Интервал открытия"
+
+#: public/js/admin/index.js:30321
+#, fuzzy
+msgid ""
+"Set the interval of time for available openings. Default is every 30 minutes."
+msgstr ""
+"Установите интервал времени для доступных отверстий. По умолчанию каждые 30 "
+"минут."
+
+#: public/js/admin/index.js:30340
+#, fuzzy
+msgid "Time Display"
+msgstr "Отображение времени"
+
+#: public/js/admin/index.js:30344
+#, fuzzy
+msgid "Control whether you display time in 12 or 24 hours."
+msgstr "Контроли, отображаете ли вы время в течение 12 или 24 часов."
+
+#: public/js/admin/index.js:30363
+msgid "Locale"
+msgstr "Локализация"
+
+#: public/js/admin/index.js:30367
+#, fuzzy
+msgid "Set the locale of your account to adjust the date and time formats."
+msgstr ""
+"Установите локализацию учетной записи для корректировки форматов даты и "
+"времени."
+
+#: public/js/admin/index.js:30386
+msgid "Currency"
+msgstr "Валюта"
+
+#: public/js/admin/index.js:30390
+#, fuzzy
+msgid "Change the currency that is used with payments through Start Booking."
+msgstr ""
+"Изменение валюты, которая используется с платежами через Start Booking."
+
+#: public/js/admin/index.js:30409
+msgid "Cancellations"
+msgstr "Отмена"
+
+#: public/js/admin/index.js:30413
+#, fuzzy
+msgid "Adjust how your cancellations work."
+msgstr "Отрегулируйте работу отмены."
+
+#: public/js/admin/index.js:30544
+#, fuzzy
+msgid ""
+"Adding and managing your users is handled directly on the Start Booking "
+"application."
+msgstr ""
+"Добавление и управление пользователями обрабатывается непосредственно в "
+"приложении Start Booking."
+
+#: public/js/admin/index.js:30553
+msgid "Manage Users"
+msgstr "Управление пользователями"
+
+#: public/js/admin/index.js:30848 public/js/admin/index.js:30968
+msgid "Go to"
+msgstr "Перейти"
+
+#: public/js/admin/index.js:30863
+#, fuzzy
+msgid "Open main menu"
+msgstr "Открытое основное меню"
+
+#: public/js/admin/index.js:31031 public/js/admin/index.js:31621
+#: public/js/admin/index.js:31633 public/js/admin/index.js:31645
+#: public/js/admin/index.js:31665 public/js/admin/index.js:31685
+#: public/js/admin/index.js:31815 public/js/blocks/call-to-action.js:2074
+#: public/js/blocks/default-appointment.js:2074
+#: public/js/blocks/default-classes.js:5056
+#: public/js/flows/default-appointment.js:2350
+#: public/js/flows/default-classes.js:5301
+#: public/js/flows/single-service.js:2350
+#: resources/assets/js/admin/reducers/account/accountOptionsReducer.js:27
+#: resources/assets/js/admin/reducers/customFieldsReducer.js:22
+#: resources/assets/js/admin/reducers/customFieldsReducer.js:38
+#: resources/assets/js/admin/reducers/customFieldsReducer.js:53
+#: resources/assets/js/admin/reducers/customFieldsReducer.js:77
+#: resources/assets/js/admin/reducers/customFieldsReducer.js:101
+#: resources/assets/js/admin/reducers/editorReducer.js:45
+msgid "Saved"
+msgstr "Сохранено"
+
+#: public/js/admin/index.js:31512 public/js/admin/index.js:31520
+msgid "Success"
+msgstr "Успех"
+
+#: public/js/admin/index.js:31527
+msgid "Status updated"
+msgstr "Статус обновлен"
+
+#: public/js/admin/index.js:31547
+#, fuzzy
+msgid "Cancelled schedule"
+msgstr "Отмененное расписание"
+
+#: public/js/admin/index.js:31566
+#, fuzzy
+msgid "Deleted schedule"
+msgstr "Удаленный график"
+
+#: public/js/blocks/call-to-action.js:2184
+msgid "Call to Action Button"
+msgstr "Кнопка призыва к действию"
+
+#: public/js/blocks/call-to-action.js:2185
+#, fuzzy
+msgid ""
+"Add a button on any page to enter a booking flow that has a pre-selected "
+"cart."
+msgstr ""
+"Добавьте кнопку на любой странице, чтобы ввести поток бронирования, который "
+"имеет заранее выбранную корзину."
+
+#: public/js/blocks/call-to-action.js:2227
+msgid "Book Now"
+msgstr "Забронировать"
+
+#: public/js/blocks/call-to-action.js:2323
+#, fuzzy
+msgid "Select Provider"
+msgstr "Выберите поставщика"
+
+#: public/js/blocks/call-to-action.js:2352
+msgid "Select Type"
+msgstr "Выберите тип"
+
+#: public/js/blocks/call-to-action.js:2377
+#: public/js/blocks/default-appointment.js:2263
+#: public/js/blocks/default-classes.js:5416
+#: public/js/blocks/legacy-class.js:15100
+#: public/js/blocks/single-service.js:2058
+#, fuzzy
+msgid "Start Booking Quick Links"
+msgstr "Начало Бронирование Быстрые ссылки"
+
+#: public/js/blocks/call-to-action.js:2381
+msgid "My Services"
+msgstr "Мои услуги"
+
+#: public/js/blocks/call-to-action.js:2384
+#: public/js/blocks/single-service.js:2065
+msgid "Options"
+msgstr "Опции"
+
+#: public/js/blocks/call-to-action.js:2386
+msgid "Service Type"
+msgstr "Тип Сервиса"
+
+#: public/js/blocks/call-to-action.js:2400
+msgid "Provider"
+msgstr "Провайдер"
+
+#: public/js/blocks/call-to-action.js:2408
+#: public/js/blocks/single-service.js:2075
+msgid "Button"
+msgstr "Кнопка"
+
+#: public/js/blocks/call-to-action.js:2410
+#: public/js/blocks/single-service.js:2077
+msgid "Text"
+msgstr "Текст"
+
+#: public/js/blocks/call-to-action.js:2724
+#: public/js/blocks/default-appointment.js:2630
+#: public/js/blocks/default-classes.js:5927
+#: public/js/flows/default-appointment.js:11279
+#: public/js/flows/default-classes.js:12725
+#: public/js/flows/single-service.js:10298
+#: resources/assets/js/front-end/reducers/customerReducer.js:26
+msgid "Spam Detected"
+msgstr "Обнаружен спам"
+
+#: public/js/blocks/default-appointment.js:2187
+#, fuzzy
+msgid "Embed the service flow to capture new appointments."
+msgstr "Встраивание потока услуг для захвата новых назначений."
+
+#: public/js/blocks/default-appointment.js:2200
+#, fuzzy
+msgid "Select Your Date & Time"
+msgstr "Выберите дату и время"
+
+#: public/js/blocks/default-appointment.js:2220
+#, fuzzy
+msgid "Available times for"
+msgstr "Доступное время для"
+
+#: public/js/blocks/default-classes.js:5177
+#, fuzzy
+msgid "Embed the classes flow to allow customers to join."
+msgstr "Встраивание потока классов, чтобы клиенты могут присоединиться."
+
+#: public/js/blocks/default-classes.js:5191
+#, fuzzy
+msgid "Available times on"
+msgstr "Доступное время на"
+
+#: public/js/blocks/default-classes.js:5239
+msgid "Single"
+msgstr "Один"
+
+#: public/js/blocks/default-classes.js:5247
+#, fuzzy
+msgid "Filter Class"
+msgstr "Класс фильтров"
+
+#: public/js/blocks/default-classes.js:5267
+#, fuzzy
+msgid "Nothing Here, Try Again"
+msgstr "Ничего здесь, попробуйте еще раз"
+
+#: public/js/blocks/default-classes.js:5271
+msgid "Multiple"
+msgstr "Множественный"
+
+#: public/js/blocks/default-classes.js:5275
+#, fuzzy
+msgid "Searching for Classes"
+msgstr "Поиск классов"
+
+#: public/js/blocks/default-classes.js:5405
+#, fuzzy
+msgid "Select A Class"
+msgstr "Выберите класс"
+
+#: public/js/blocks/default-classes.js:5424
+#: public/js/blocks/legacy-class.js:15108
+msgid "Schedules"
+msgstr "Расписание"
+
+#: public/js/blocks/default-classes.js:5431
+msgid "Filters"
+msgstr "Фильтры"
+
+#: public/js/blocks/default-classes.js:5433
+msgid "Class"
+msgstr "Класс"
+
+#: public/js/blocks/legacy-class.js:15088
+#: public/js/blocks/legacy-class.js:15148
+#, fuzzy
+msgid "Legacy Classes"
+msgstr "Устаревшие классы"
+
+#: public/js/blocks/legacy-class.js:15089
+#, fuzzy
+msgid "Embed the classes flow to capture new attendees."
+msgstr "Встраивание потока классов для захвата новых участников."
+
+#: public/js/blocks/legacy-class.js:15131
+#, fuzzy
+msgid "Loading the booking application..."
+msgstr "Загрузка заявки на бронирование..."
+
+#: public/js/blocks/legacy-class.js:15149
+#, fuzzy
+msgid "Upgrade to gain access to Start Booking class functionality."
+msgstr ""
+"Обновление, чтобы получить доступ к функциональности класса Start Booking."
+
+#: public/js/blocks/legacy-class.js:15161
+#, fuzzy
+msgid "Upgrade to gain access to class functionality."
+msgstr "Обновление, чтобы получить доступ к функциональности класса."
+
+#: public/js/blocks/single-service.js:1872
+#, fuzzy
+msgid ""
+"Embed the details of a single service and the ability to book that service."
+msgstr ""
+"Встраивание деталей одной службы и возможность забронировать эту услугу."
+
+#: public/js/blocks/single-service.js:2047
+#, fuzzy
+msgid "Select A Service"
+msgstr "Выберите Услугу"
+
+#: public/js/flows/default-appointment.js:3744
+#: public/js/flows/default-appointment.js:6133
+#: public/js/flows/default-appointment.js:6174
+#: public/js/flows/default-appointment.js:6226
+#: public/js/flows/default-classes.js:6543
+#: public/js/flows/single-service.js:3711
+#: public/js/flows/single-service.js:6100
+#: public/js/flows/single-service.js:6141
+#: public/js/flows/single-service.js:6193
+msgid "Service Duration"
+msgstr "Длительность услуги"
+
+#: public/js/flows/default-appointment.js:4392
+#: public/js/flows/default-classes.js:7303
+#: public/js/flows/single-service.js:4359
+msgid "Coupon"
+msgstr "Купон"
+
+#: public/js/flows/default-appointment.js:4422
+#: public/js/flows/default-classes.js:7333
+#: public/js/flows/single-service.js:4389
+msgid "Discount"
+msgstr "Скидка"
+
+#: public/js/flows/default-appointment.js:4424
+#: public/js/flows/default-classes.js:7335
+#: public/js/flows/single-service.js:4391
+msgid "Invalid Coupon"
+msgstr "Недействительный купон"
+
+#: public/js/flows/default-appointment.js:4428
+#: public/js/flows/default-classes.js:7339
+#: public/js/flows/single-service.js:4395
+msgid "Total"
+msgstr "Всего"
+
+#: public/js/flows/default-appointment.js:5090
+#: public/js/flows/single-service.js:5057
+#, fuzzy
+msgid "Please select a date between"
+msgstr "Пожалуйста, выберите дату между"
+
+#: public/js/flows/default-appointment.js:5092
+#: public/js/flows/single-service.js:5059
+#, fuzzy
+msgid "Please select a date after"
+msgstr "Пожалуйста, выберите дату после"
+
+#: public/js/flows/default-appointment.js:5094
+#: public/js/flows/single-service.js:5061
+#, fuzzy
+msgid "Please select a date before"
+msgstr "Пожалуйста, выберите дату до"
+
+#: public/js/flows/default-appointment.js:5107
+#: public/js/flows/single-service.js:5074
+#, fuzzy
+msgid "Selected date is outside available options."
+msgstr "Выбранная дата находится вне доступных вариантов."
+
+#: public/js/flows/default-appointment.js:5399
+#: public/js/flows/default-appointment.js:5625
+#: public/js/flows/default-appointment.js:9195
+#: public/js/flows/single-service.js:5366
+#: public/js/flows/single-service.js:5592
+#: public/js/flows/single-service.js:8889
+#, fuzzy
+msgid "Processing Appointment"
+msgstr "Назначение на обработку"
+
+#: public/js/flows/default-appointment.js:6194
+#: public/js/flows/single-service.js:6161
+#, fuzzy
+msgid "Service Selected"
+msgstr "Выбранная услуга"
+
+#: public/js/flows/default-appointment.js:6249
+#: public/js/flows/default-classes.js:10388
+#: public/js/flows/single-service.js:6216
+#, fuzzy
+msgid "Online booking disabled"
+msgstr "Онлайн-бронирование отключено"
+
+#: public/js/flows/default-appointment.js:7628
+#: public/js/flows/default-classes.js:10869
+#: public/js/flows/single-service.js:7322
+msgid "Phone is required"
+msgstr "Телефон обязателен"
+
+#: public/js/flows/default-appointment.js:7808
+#: public/js/flows/default-classes.js:11056
+#: public/js/flows/single-service.js:7502
+#, fuzzy
+msgid "We have securely populated a profile that matches this email address."
+msgstr ""
+"Мы надежно заселим профиль, который соответствует этому адресу электронной "
+"почты."
+
+#: public/js/flows/default-appointment.js:7966
+#: public/js/flows/default-classes.js:11214
+#: public/js/flows/single-service.js:7660
+msgid "Warning"
+msgstr "Предупреждение"
+
+#: public/js/flows/default-appointment.js:7967
+#: public/js/flows/default-classes.js:11215
+#: public/js/flows/single-service.js:7661
+#, fuzzy
+msgid ""
+"Your site is loading the secure checkout form without a SSL certificate. SSL "
+"certificates keep your connection with the website secure."
+msgstr ""
+"Ваш сайт загружает безопасную форму оформления заказа без сертификата SSL. "
+"Сертификаты SSL обеспечивают безопасность вашего соединения с веб-сайтом."
+
+#: public/js/flows/default-appointment.js:7970
+#: public/js/flows/default-classes.js:11218
+#: public/js/flows/single-service.js:7664
+#, fuzzy
+msgid "Learn how to resolve this"
+msgstr "Узнайте, как решить эту проблему"
+
+#: public/js/flows/default-appointment.js:8388
+#: public/js/flows/single-service.js:8082
+msgid "Remove"
+msgstr "Удалить"
+
+#: public/js/flows/default-appointment.js:8405
+#: public/js/flows/default-appointment.js:8423
+#: public/js/flows/default-classes.js:12112
+#: public/js/flows/single-service.js:8099
+#: public/js/flows/single-service.js:8117
+msgid "Skip"
+msgstr "Пропустить"
+
+#: public/js/flows/default-appointment.js:8953
+#: public/js/flows/single-service.js:8647
+#, fuzzy
+msgid "Searching Availability"
+msgstr "Поиск доступности"
+
+#: public/js/flows/default-appointment.js:9665
+#, fuzzy
+msgid "There are no services for this service type."
+msgstr "Для этого типа услуг нет служб."
+
+#: public/js/flows/default-appointment.js:9672
+msgid "Go Back"
+msgstr "Назад"
+
+#: public/js/flows/default-appointment.js:9687
+#, fuzzy
+msgid "Oops... Looks like you don't have any services."
+msgstr "Ой... Похоже, у вас нет никаких услуг."
+
+#: public/js/flows/default-appointment.js:9698
+#, fuzzy
+msgid "A great online booking experience is coming soon..."
+msgstr "Отличный опыт онлайн-бронирования скоро ..."
+
+#: public/js/flows/default-appointment.js:10856
+#, fuzzy
+msgid "Booking is disabled. Check back later."
+msgstr "Бронирование отключено. Проверь позже."
+
+#: public/js/flows/default-classes.js:6865
+msgid "All Day"
+msgstr "Весь день"
+
+#: public/js/flows/default-classes.js:7835
+#: public/js/flows/default-classes.js:8036
+#: public/js/flows/default-classes.js:11595
+#, fuzzy
+msgid "Joining..."
+msgstr "Присоединения..."
+
+#: resources/assets/js/admin/jquery/graph/graph.js:66
+msgid "Bookings"
+msgstr "Бронирование"
+
+#: resources/assets/js/admin/utils/customFields.js:5
+msgid "Single Line Text"
+msgstr "Текст одной строки"
+
+#: resources/assets/js/admin/utils/customFields.js:6
+msgid "Paragraph Text"
+msgstr "Текст абзаца"
+
+#: resources/assets/js/admin/utils/customFields.js:7
+msgid "Dropdown"
+msgstr "Выпадающий список"
+
+#: resources/assets/js/admin/utils/customFields.js:8
+msgid "Heading"
+msgstr "Заголовок"
+
+#: resources/assets/js/admin/utils/customFields.js:9
+msgid "Line Separator"
+msgstr "Разделитель-линия"
+
+#: resources/assets/js/admin/utils/prefilledEvents.js:7
+#: resources/assets/js/admin/utils/prefilledEvents.js:29
+#, fuzzy
+msgid "Hair cut"
+msgstr "Стрижка"
+
+#: resources/assets/js/admin/utils/prefilledEvents.js:8
+#, fuzzy
+msgid "Clipper or scissor cut."
+msgstr "Клиппер или ножницы вырезать."
+
+#: resources/assets/js/admin/utils/prefilledEvents.js:18
+#, fuzzy
+msgid "Facial"
+msgstr "Лица"
+
+#: resources/assets/js/admin/utils/prefilledEvents.js:19
+#, fuzzy
+msgid ""
+"Our facial regimen was created to target specific needs, increase skin "
+"health, and enhance your appearance."
+msgstr ""
+"Наш режим лица был создан для удовлетворения конкретных потребностей, "
+"повышения здоровья кожи и повышения вашей внешности."
+
+#: resources/assets/js/admin/utils/prefilledEvents.js:30
+#, fuzzy
+msgid "Get your hair washed, cut and styled by our professional team."
+msgstr ""
+"Получите ваши волосы мыть, стричь и стиле нашей профессиональной команды."
+
+#: resources/assets/js/admin/utils/prefilledEvents.js:40
+#, fuzzy
+msgid "30 minute consultation"
+msgstr "30-минутная консультация"
+
+#: resources/assets/js/admin/utils/prefilledEvents.js:41
+#, fuzzy
+msgid "Initial introduction to get to know each other a little better."
+msgstr "Первоначальное введение, чтобы узнать друг друга немного лучше."
+
+#. Plugin URI of the plugin/theme
+#, fuzzy
+msgid "https://www.startbooking.com/"
+msgstr "https://www.startbooking.com/"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid ""
+"Integrate online booking service StartBooking.com. Including an appointment "
+"form for customers to book directly on your website and a widget to display "
+"open hours."
+msgstr ""
+"Интеграция услуг онлайн-бронирования StartBooking.com. Включая форму встречи "
+"для клиентов, чтобы забронировать непосредственно на вашем сайте и виджет "
+"для отображения часов работы."
+
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "https://www.startbooking.com"
+msgstr "https://www.startbooking.com"

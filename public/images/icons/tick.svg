@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="9px" viewBox="0 0 13 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>tick</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Dashboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Service-List---Grid-" transform="translate(-1130.000000, -698.000000)" fill="#1480E6" fill-rule="nonzero">
+            <g id="Services" transform="translate(550.000000, 489.000000)">
+                <g id="Group-3" transform="translate(520.000000, 67.000000)">
+                    <g id="Button" transform="translate(1.000000, 132.000000)">
+                        <g id="Group-8" transform="translate(59.000000, 6.000000)">
+                            <path d="M11,4 L12.4142136,5.41421356 L5.41421356,12.4142136 C5.02368927,12.8047379 4.39052429,12.8047379 4,12.4142136 L9.14823772e-14,8.41421356 L1.41421356,7 L4.70710678,10.2928932 L11,4 Z" id="tick"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

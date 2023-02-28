@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>check</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Dashboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Confirm---Populated" transform="translate(-391.000000, -562.000000)" fill="#1480E6">
+            <g id="Side-UI" transform="translate(381.000000, 473.000000)">
+                <g id="Group-3" transform="translate(0.000000, 79.000000)">
+                    <g id="Icon">
+                        <path d="M12,10 L24,10 C25.1045695,10 26,10.8954305 26,12 L26,24 C26,25.1045695 25.1045695,26 24,26 L12,26 C10.8954305,26 10,25.1045695 10,24 L10,12 C10,10.8954305 10.8954305,10 12,10 Z M21.2317787,14.3598156 L16.9328016,19.5185881 L14.7071068,17.2928932 C14.3165825,16.9023689 13.6834175,16.9023689 13.2928932,17.2928932 C12.9023689,17.6834175 12.9023689,18.3165825 13.2928932,18.7071068 L16.2928932,21.7071068 C16.7086942,22.1229077 17.3917728,22.0919226 17.7682213,21.6401844 L22.7682213,15.6401844 C23.1217854,15.2159075 23.0644613,14.5853428 22.6401844,14.2317787 C22.2159075,13.8782146 21.5853428,13.9355387 21.2317787,14.3598156 Z" id="check"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
